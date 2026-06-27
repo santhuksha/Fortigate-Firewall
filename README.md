@@ -47,7 +47,7 @@ Explore the FortiGate Firewall Complete Guide—a free, detailed collection of l
 # MODULE 1
 ## Introduction to Fortigate Firewall
 
-(fortigate-guide-images/Untitled 1.png)
+![Untitled](fortigate-guide-images/Untitled.png)
 
 Table of Contents: 
 
@@ -131,7 +131,7 @@ UTM firewalls like FortiGate typically offer a wide range of security features t
 
 FortiGate is a next-generation firewall platform designed to deliver comprehensive network security and performance. Its architecture consists of various components working together to provide advanced threat protection, network segmentation, and secure connectivity. Let's explore each component in detail:
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%201.png)
+![Untitled](fortigate-guide-images/Untitled%201.png)
 
 ## 1. Processing Units
 
@@ -209,7 +209,7 @@ FortiGate's platform design and architecture leverage these components to delive
 2. **CONTENT PROCESSOR 9 (CP9)**
 3. **SECURITY PROCESSING UNIT (SP5)**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%202.png)
+![Untitled](fortigate-guide-images/Untitled%202.png)
 
 Link: [https://www.fortinet.com/products/fortigate/fortiasic](https://www.fortinet.com/products/fortigate/fortiasic)
 
@@ -312,7 +312,7 @@ https://<firewall_ip_address>
 
 ## **Demo:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%203.png)
+![Untitled](fortigate-guide-images/Untitled%203.png)
 
 Default Username: admin
 
@@ -322,27 +322,27 @@ Configure the new strong Password
 
 **Sample Topology:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%204.png)
+![Untitled](fortigate-guide-images/Untitled%204.png)
 
 **Initial CLI Conifguration for GUI access:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%205.png)
+![Untitled](fortigate-guide-images/Untitled%205.png)
 
 **Taking GUI Admin Access:      http://105.0.0.254**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%206.png)
+![Untitled](fortigate-guide-images/Untitled%206.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%207.png)
+![Untitled](fortigate-guide-images/Untitled%207.png)
 
 **Changing Firewall Hostname:   FGT**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%208.png)
+![Untitled](fortigate-guide-images/Untitled%208.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%209.png)
+![Untitled](fortigate-guide-images/Untitled%209.png)
 
 **Welcome to Fortigate Firewall Dashboard**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2010.png)
+![Untitled](fortigate-guide-images/Untitled%2010.png)
 
 # **VII. Administration Profiles in FortiGate Firewall**
 
@@ -390,19 +390,19 @@ Administration profiles serve as templates that define the access rights and cap
 
 **Click on Administrator: System —> Administrator**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2011.png)
+![Untitled](fortigate-guide-images/Untitled%2011.png)
 
 **By default Super_Admin** 
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2012.png)
+![Untitled](fortigate-guide-images/Untitled%2012.png)
 
 **Set the username/password  also select as a Local user:** 
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2013.png)
+![Untitled](fortigate-guide-images/Untitled%2013.png)
 
 **Create the new Administrator Profile for the new user**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2014.png)
+![Untitled](fortigate-guide-images/Untitled%2014.png)
 
 **Select the Permission Which you want to give and click Ok.**
 
@@ -410,21 +410,21 @@ Note:
 
 The idle timeout period is **the amount of time that an administrator will stay logged in to the GUI without any activity**. This is to prevent someone from accessing the FortiGate if the management PC is left unattended. By default, it is set to five minutes.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2015.png)
+![Untitled](fortigate-guide-images/Untitled%2015.png)
 
 **Select newly created Profile and Click OK.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2016.png)
+![Untitled](fortigate-guide-images/Untitled%2016.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2017.png)
+![Untitled](fortigate-guide-images/Untitled%2017.png)
 
 **Newly created Admin :**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2018.png)
+![Untitled](fortigate-guide-images/Untitled%2018.png)
 
 **Administrator Profile Hierachy:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2019.png)
+![Untitled](fortigate-guide-images/Untitled%2019.png)
 
 ### **Summary:**
 
@@ -447,7 +447,7 @@ The module provided a basic introduction to FortiGate firewall, covering various
 # MODULE 2
 ## Interface Configurations and Firewall Policies
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2020.png)
+![Untitled](fortigate-guide-images/Untitled%2020.png)
 
 Table of contents: 
 
@@ -558,11 +558,11 @@ end
 
 **Sample Lab topology:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2021.png)
+![Untitled](fortigate-guide-images/Untitled%2021.png)
 
 The Management Interface Configurations we have done through CLI:
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2022.png)
+![Untitled](fortigate-guide-images/Untitled%2022.png)
 
 **Configure the as per the below image:**
 
@@ -575,7 +575,7 @@ Steps:
 - Make sure the Interface status is Enabled.
 - Save the configurations by clicking OK.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2023.png)
+![Untitled](fortigate-guide-images/Untitled%2023.png)
 
 **NOTE: Also we can configure the interfaces via CLI**
 
@@ -620,7 +620,7 @@ show system interface
 
 **Configure the remaining WAN & DMZ interfaces same as the previous one.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2024.png)
+![Untitled](fortigate-guide-images/Untitled%2024.png)
 
 # **II. Configuring Static and Dynamic Routing on FortiGate Firewall**
 
@@ -731,7 +731,7 @@ end
 
 **All the Routing Parts will be available Network Tab Section:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2025.png)
+![Untitled](fortigate-guide-images/Untitled%2025.png)
 
 **We can configure the Static Route towards Our Wifi Router/GW to get the internet access.**
 
@@ -740,14 +740,14 @@ Steps:
 - Go to Network —> Static Routes
 - Click on Create New
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2026.png)
+![Untitled](fortigate-guide-images/Untitled%2026.png)
 
 **Assign the Wifi Router IP address, Make it Destination 0.0.0.0/0.0.0.0 Any Any**
 
 - By default, it takes the WAN interface.
 - click on OK to save the configurations.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2027.png)
+![Untitled](fortigate-guide-images/Untitled%2027.png)
 
 **To configure dynamic routing protocols like RIPv2, OSPF, BGP**
 
@@ -759,11 +759,11 @@ Steps to configure RIPv2:
 - make sure that the Hello and Hold timers are matching.
 - If any redistribute want to do turn on the toggle-specific protocol.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2028.png)
+![Untitled](fortigate-guide-images/Untitled%2028.png)
 
 **Follow the Image with your real network and conditions.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2029.png)
+![Untitled](fortigate-guide-images/Untitled%2029.png)
 
 # **III. Configuring DHCP Server Pool for LAN Interface on FortiGate Firewall**
 
@@ -850,9 +850,9 @@ end
 - set the lease time as your requirement
 - set apply to save the config.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2030.png)
+![Untitled](fortigate-guide-images/Untitled%2030.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2031.png)
+![Untitled](fortigate-guide-images/Untitled%2031.png)
 
 # **IV. FortiGate Firewall: Basic Firewall Policies Configuration and Theory**
 
@@ -923,7 +923,7 @@ end
 - It will override the Implicit deny policy.
 - For example any traffic does not match with configured policy, it will discards the packet as per the implicit deny policy.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2032.png)
+![Untitled](fortigate-guide-images/Untitled%2032.png)
 
 **To enable the traffic for LAN —> WAN**
 
@@ -934,11 +934,11 @@ end
 - if you want to see the logs, enable the Log Allowd Traffic. - “All Sessions”
 - also, traffic should be allowed on both sides, so we have to configure the reverse Policy inorder to get the communication. WAN —> LAN (only limited access)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2033.png)
+![Untitled](fortigate-guide-images/Untitled%2033.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2034.png)
+![Untitled](fortigate-guide-images/Untitled%2034.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2035.png)
+![Untitled](fortigate-guide-images/Untitled%2035.png)
 
 # **V. Network Address Translation - Fortigate**
 
@@ -1029,15 +1029,15 @@ end
 - we can able to select the types of NAT we want to perform.
 - Overload, One-to-One, Fixed Port Range - choose as per your requirement and apply it.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2036.png)
+![Untitled](fortigate-guide-images/Untitled%2036.png)
 
 **Enter the IP address You want NAT.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2037.png)
+![Untitled](fortigate-guide-images/Untitled%2037.png)
 
 **If you want to Map the original protocol number with custom - you can do it by configuring the Protocol Option. Port Mapping.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2038.png)
+![Untitled](fortigate-guide-images/Untitled%2038.png)
 
 
 <br>
@@ -1177,7 +1177,7 @@ By understanding and implementing the concepts covered in Module 2, administrato
 # MODULE 3
 ## High availability
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2039.png)
+![Untitled](fortigate-guide-images/Untitled%2039.png)
 
 Table of contents:
 
@@ -1242,7 +1242,7 @@ These concepts remain unchanged in the context of FGCP. Gratuitous ARP messages,
 
 Sample Topology:
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2040.png)
+![Untitled](fortigate-guide-images/Untitled%2040.png)
 
 FGT-1 Dashboard:
 
@@ -1250,15 +1250,15 @@ As shown below diagram FGT-1 HA status is “Standalone”
 
 - **Go to System —> HA**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2041.png)
+![Untitled](fortigate-guide-images/Untitled%2041.png)
 
 **FGT-2 Dashboard:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2042.png)
+![Untitled](fortigate-guide-images/Untitled%2042.png)
 
 **Higher priority devices become the Active/Primary. FGT-1**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2043.png)
+![Untitled](fortigate-guide-images/Untitled%2043.png)
 
 As per our requirement, FGT-1 will be Active, and FGT-2 will be Passive.
 
@@ -1266,25 +1266,25 @@ As per our requirement, FGT-1 will be Active, and FGT-2 will be Passive.
 - In the Fortigate firewall once synchronization completes we don’t get access to the Passive device.
 - Only we can see the status in the Active device
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2044.png)
+![Untitled](fortigate-guide-images/Untitled%2044.png)
 
 **FGT-1 Dashboard of Both Firewall Synchronization.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2045.png)
+![Untitled](fortigate-guide-images/Untitled%2045.png)
 
 **FGT-2 Lost Connection Screen.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2046.png)
+![Untitled](fortigate-guide-images/Untitled%2046.png)
 
 **FGT-1 Dashboard Widget.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2047.png)
+![Untitled](fortigate-guide-images/Untitled%2047.png)
 
 **After the failure of FGT-1, FGT-2 will take over the role of Primary.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2048.png)
+![Untitled](fortigate-guide-images/Untitled%2048.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2049.png)
+![Untitled](fortigate-guide-images/Untitled%2049.png)
 
 # III. Active-Active Failover in FortiGate Firewall
 
@@ -1356,27 +1356,27 @@ Failover works similarly if the cluster consists of only two units. If the prima
 
 **Sample Topology:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2050.png)
+![Untitled](fortigate-guide-images/Untitled%2050.png)
 
 **FGT-1 device Active-Active HA configuration, Follow the steps.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2051.png)
+![Untitled](fortigate-guide-images/Untitled%2051.png)
 
 **FGT-2 device HA configuration, Make sure that both are in the same group and Password inorder to synchronize.FGT-2 GUI access will not be available.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2052.png)
+![Untitled](fortigate-guide-images/Untitled%2052.png)
 
 Both FGT-1 and FGT-2 are synchronized, FGT-1 will be master/primary, and FGT-2 will be secondary.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2053.png)
+![Untitled](fortigate-guide-images/Untitled%2053.png)
 
 **As per the priority, we have decided that FGT-1 128 is Primary and FGT-2 100 will be elected as Secondary.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2054.png)
+![Untitled](fortigate-guide-images/Untitled%2054.png)
 
 FGT-1 failure occurs, and FGT-2 takes the role of Primary.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2055.png)
+![Untitled](fortigate-guide-images/Untitled%2055.png)
 
 ## **Summary:**
 
@@ -1396,7 +1396,7 @@ Module 3 of the FortiGate firewall course covers high availability (HA) configur
 # MODULE 4
 ## Firewall Authentication
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2056.png)
+![Untitled](fortigate-guide-images/Untitled%2056.png)
 
 Table of contents:
 
@@ -1458,7 +1458,7 @@ Creating users and policies on the FortiGate firewall allows administrators to c
 
 **Sample Topology:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2057.png)
+![Untitled](fortigate-guide-images/Untitled%2057.png)
 
 Now we are configuring Captive Portal or User Authentication.
 
@@ -1467,23 +1467,23 @@ Steps:
 - we need to create the Local user to be authenticated before accessing the web server.
 - Create the user and assign that user to a particular group, or make it default as a Guest-group.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2058.png)
+![Untitled](fortigate-guide-images/Untitled%2058.png)
 
 Select **User Type —> Local user**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2059.png)
+![Untitled](fortigate-guide-images/Untitled%2059.png)
 
 **Create the login credentials and disable the two-factor authentication for now.:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2060.png)
+![Untitled](fortigate-guide-images/Untitled%2060.png)
 
 **Enable the User account status and assign a default group or create a new one.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2061.png)
+![Untitled](fortigate-guide-images/Untitled%2061.png)
 
 **Our new user has been created and assigned to the default group.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2062.png)
+![Untitled](fortigate-guide-images/Untitled%2062.png)
 
 ## **II. Create Authentication Policies[Captive Portal]**
 
@@ -1491,7 +1491,7 @@ Select **User Type —> Local user**
 
 Here we are authenticating LAN users to access the DMZ web browser. below image shows without Captive portal or firewall authentication.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2063.png)
+![Untitled](fortigate-guide-images/Untitled%2063.png)
 
 Assign created Policy to LAN interface, 
 
@@ -1500,23 +1500,23 @@ Steps:
 - go to **Network —> Interface**
 - enable the security mode and captive portal for Local authentication for Guest group.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2064.png)
+![Untitled](fortigate-guide-images/Untitled%2064.png)
 
 We are going to access DMZ web server but this time we don't get direct DMZ login page, before accessing we have to be authenticated by Firewall
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2065.png)
+![Untitled](fortigate-guide-images/Untitled%2065.png)
 
 **I have entered valid credentials so I can able to access the DMZ server.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2066.png)
+![Untitled](fortigate-guide-images/Untitled%2066.png)
 
 **Getting DMZ Home Page after Successfully Authenticated.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2067.png)
+![Untitled](fortigate-guide-images/Untitled%2067.png)
 
 To check the User activity on Firewall, Go to **Monitor → Firewall User Monitor**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2068.png)
+![Untitled](fortigate-guide-images/Untitled%2068.png)
 
 ## **Summary:**
 
@@ -1561,17 +1561,17 @@ Security profiles on FortiGate firewall provide advanced threat protection and c
 
 To configure the Application control Go to **Security Profiles —> Application Control**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2069.png)
+![Untitled](fortigate-guide-images/Untitled%2069.png)
 
 Select the Application you want block and apply action as Block.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2070.png)
+![Untitled](fortigate-guide-images/Untitled%2070.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2071.png)
+![Untitled](fortigate-guide-images/Untitled%2071.png)
 
 Apply the Policy which we have created on Firewall & Objects as per requirements.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2072.png)
+![Untitled](fortigate-guide-images/Untitled%2072.png)
 
 ## 2. Web Filtering
 
@@ -1580,13 +1580,13 @@ Apply the Policy which we have created on Firewall & Objects as per requirements
 
 ## **Demo:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2073.png)
+![Untitled](fortigate-guide-images/Untitled%2073.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2074.png)
+![Untitled](fortigate-guide-images/Untitled%2074.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2075.png)
+![Untitled](fortigate-guide-images/Untitled%2075.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2076.png)
+![Untitled](fortigate-guide-images/Untitled%2076.png)
 
 ## 3. File Filter
 
@@ -1595,11 +1595,11 @@ Apply the Policy which we have created on Firewall & Objects as per requirements
 
 ## **Demo:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2077.png)
+![Untitled](fortigate-guide-images/Untitled%2077.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2078.png)
+![Untitled](fortigate-guide-images/Untitled%2078.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2079.png)
+![Untitled](fortigate-guide-images/Untitled%2079.png)
 
 ## 4. DNS Filter
 
@@ -1608,13 +1608,13 @@ Apply the Policy which we have created on Firewall & Objects as per requirements
 
 ## **Demo:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2080.png)
+![Untitled](fortigate-guide-images/Untitled%2080.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2081.png)
+![Untitled](fortigate-guide-images/Untitled%2081.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2082.png)
+![Untitled](fortigate-guide-images/Untitled%2082.png)
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2083.png)
+![Untitled](fortigate-guide-images/Untitled%2083.png)
 
 ## 5. Antivirus
 
@@ -1623,7 +1623,7 @@ Apply the Policy which we have created on Firewall & Objects as per requirements
 
 For Antivirus Filtering we need valid License.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2084.png)
+![Untitled](fortigate-guide-images/Untitled%2084.png)
 
 ## 6. Intrusion Prevention
 
@@ -1632,11 +1632,11 @@ For Antivirus Filtering we need valid License.
 
 ## **Demo:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2085.png)
+![Untitled](fortigate-guide-images/Untitled%2085.png)
 
 Apply it, as previous we added to required Policy or Zone.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2086.png)
+![Untitled](fortigate-guide-images/Untitled%2086.png)
 
 ## 7. Video Filter
 
@@ -1645,7 +1645,7 @@ Apply it, as previous we added to required Policy or Zone.
 
 ## **Demo:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2087.png)
+![Untitled](fortigate-guide-images/Untitled%2087.png)
 
 ## 8. SSL/SSH Inspection Profile
 
@@ -1654,11 +1654,11 @@ Apply it, as previous we added to required Policy or Zone.
 
 ## **Demo:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2088.png)
+![Untitled](fortigate-guide-images/Untitled%2088.png)
 
 The Policy has configured LAN_WAN traffic.
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2089.png)
+![Untitled](fortigate-guide-images/Untitled%2089.png)
 
 ## **Summary:**
 
@@ -1750,19 +1750,19 @@ FortiGate firewall supports sending logs to external logging and monitoring syst
 
 ### **Sample Log data:**
 
-[memory-traffic-forward-2024-04-22_0036.log](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/memory-traffic-forward-2024-04-22_0036.log)
+[memory-traffic-forward-2024-04-22_0036.log](fortigate-guide-images/memory-traffic-forward-2024-04-22_0036.log)
 
 **LAN_WAN Forwarded Traffic Logs:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2090.png)
+![Untitled](fortigate-guide-images/Untitled%2090.png)
 
 **Web Filter Applied Policy Triggered Logs:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2091.png)
+![Untitled](fortigate-guide-images/Untitled%2091.png)
 
 **Sending Logs to External Syslog Server:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2092.png)
+![Untitled](fortigate-guide-images/Untitled%2092.png)
 
 
 
@@ -2019,39 +2019,39 @@ IPsec VPNs provide secure communication between networks or devices over the int
 
 **Sample Topology:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2093.png)
+![Untitled](fortigate-guide-images/Untitled%2093.png)
 
 Site-A to Site-B [Site-to-Site] VPN. Go to **VPN —> IPsec Wizard**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2094.png)
+![Untitled](fortigate-guide-images/Untitled%2094.png)
 
 **Enter the Remote Site Public IP along with PSK(pre-shared key).**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2095.png)
+![Untitled](fortigate-guide-images/Untitled%2095.png)
 
 **Now it is time to add the interesting network (private subnet of both sides)**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2096.png)
+![Untitled](fortigate-guide-images/Untitled%2096.png)
 
 **Configure the Tunnel both the sides:(once both side tunnel configured and both the phase negotiation complete tunnel come up or you need to manually bring up the tunnel)**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2097.png)
+![Untitled](fortigate-guide-images/Untitled%2097.png)
 
 **once you passed the traffic between two peers the tunnel comes up:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2098.png)
+![Untitled](fortigate-guide-images/Untitled%2098.png)
 
 **Automatically Policy added: to allowing traffic from two different sites.**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%2099.png)
+![Untitled](fortigate-guide-images/Untitled%2099.png)
 
 **Static Routes between two Tunnel:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%20100.png)
+![Untitled](fortigate-guide-images/Untitled%20100.png)
 
 **To Monitoring the VPN Tunnel traffic and User actions:**
 
-![Untitled](Fortigate%20Study%20Guide%20v7%20x%20147f58070a3c4e51a249bf2237fd18d0/Untitled%20101.png)
+![Untitled](fortigate-guide-images/Untitled%20101.png)
 
 ## **Summary:**
 
