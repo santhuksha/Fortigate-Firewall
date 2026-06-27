@@ -1,29 +1,5 @@
 # Fortigate-Firewall
 Explore the FortiGate Firewall Complete Guide—a free, detailed collection of labs and practical knowledge built with dedication and real-world experience. If it helps you, a coffee ☕️ or a kind wish means a lot. Your support keeps this project growing. Thank you for being part of the journey! 🚀🔥
-
-<br>
-
-# Lab Resources:
-
-- All the labs are simulated on EVE-NG
-- Fortigate Firewall Image Used Version: v7.0.9
-- Used Cisco Routers and Switches
-- Windows Active Directory Used [Windows Server 2019]
-- Eve-NG Hosted on VMware Workstation Pro 17.
-
-# How can I do Lab?
-
-- You Will Get Fortigate Image: [Click here to Download](https://drive.google.com/drive/folders/1l5OluxJoMxPoJJty2hmcfIP5Cp5gZZWX?usp=drive_link)
-- All the Images for EVE-NG and GNS3 available here also: [Cisco-Images-for-GNS3-and-EVE-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG)
-- Free VMware Workstation PRO 17 Practice License: [VMware-Workstation-Pro-17-Licence-Keys](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys)
-- Free VMware ESXI License Keys Lab License: [VMware-ESXi-License-Keys](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys)
-
-# Website Version of Full Guide
-
-- Let's start : [click here](https://santhuksha.github.io/Fortigate-Firewall/)
-
-<br>
-
  
 # Topics to be covered:
 
