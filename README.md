@@ -47,7 +47,7 @@ Explore the FortiGate Firewall Complete Guide—a free, detailed collection of l
 # MODULE 1
 ## Introduction to Fortigate Firewall
 
-!(fortigate-guide-images/Untitled 1.png)
+(fortigate-guide-images/Untitled 1.png)
 
 Table of Contents: 
 
