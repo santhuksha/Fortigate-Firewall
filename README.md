@@ -20,7 +20,7 @@ Explore the FortiGate Firewall Complete Guide—a free, detailed collection of l
 
 # Website Version of Full Guide
 
-- Let's start : [click here](https://hegdepavankumar.github.io/Fortigate-Firewall-Complete-Guide/)
+- Let's start : [click here](https://santhuksha.github.io/Fortigate-Firewall/)
 
 <br>
 
@@ -1122,30 +1122,30 @@ This configuration enables the FortiGate unit to operate in Virtual Wire mode, t
 
 **Sample Topology:**
 
-![Untitled 107](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide/assets/85627085/eaa2df16-f970-4545-a0b5-332049d71c14)
+![Untitled 107](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20107)
 
 **To configure Virtual Wire, go to Interface --> Create New:**
 
-![Untitled 108](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide/assets/85627085/d787a95f-cf9c-4eee-81fc-d834a23fb4e7)
+![Untitled 108](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20108)
 
 **Now new Virtual Pair Interface is Configured:**
 
-![Untitled 109](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide/assets/85627085/dfe4f465-dbb1-4443-b8e7-6b9e01d3a032)
+![Untitled 109](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20109)
 
 
 **As per the Fortigate we have to configure the Firewall Virtual Wire Pair Policy, go to Policy & Objects --> Firewall Virtual Wire Pair Policy --> create bidirectional policy:**
 
-![Untitled 110](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide/assets/85627085/a91fd382-d555-4b7c-9cac-9a4cc149bf76)
+![Untitled 110](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20110)
 
 
 **Now is the Time to Initiate the traffic towards the internet, all the traffic will be available in the firewall, Logs --> Forwarded Traffic:**
 
-![Untitled 111](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide/assets/85627085/aa845e45-e949-4f96-921f-86f32a352afc)
+![Untitled 111](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20111)
 
 
 **Check the logs to verify the Source and destination information, Traffic from PC to Internet.:**
 
-![Untitled 112](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide/assets/85627085/8639c6ac-431e-4cf7-8cdf-9e2575e1bc13)
+![Untitled 112](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20112)
 
 
 ## NOTE
@@ -1161,7 +1161,7 @@ This configuration enables the FortiGate unit to operate in Virtual Wire mode, t
 In Module 2, we covered essential topics related to configuring interfaces and firewall policies on FortiGate firewall. Here's a summary of the topics covered:
 
 1. **Basic Interface Configuration**: Explained how to configure interfaces on FortiGate firewall, including setting IP addresses, subnet masks, and access permissions.
-2. **Configure Static and Dynamic Routing**: Detailed the configuration of static and dynamic routing protocols such as OSPF and BGP on FortiGate firewall to enable efficient traffic forwarding.
+2. **Configure Static and Dynamic Routing**: Detailed the configuration of static and dynamic routing protocols such as OSPF and BGP README.mdon FortiGate firewall to enable efficient traffic forwarding.
 3. **Configuring DHCP**: Provided guidance on configuring DHCP server pools on the LAN interface of FortiGate firewall to automate IP address assignment for local users.
 4. **Basic Firewall Policies**: Covered the configuration of firewall policies on FortiGate firewall, including setting conditions, actions, and security profiles to control traffic flow between different network segments.
 5. **Network Address Translation (NAT)**: Explained the theory and configuration of NAT on FortiGate firewall, including static NAT (1-to-1 NAT) and port forwarding to facilitate communication between internal and external networks.
@@ -1851,28 +1851,28 @@ These configurations should help you set up One-Arm Sniffer on FortiGate firewal
 
 ### **Sample Topology:**
 
-![Untitled 102](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide/assets/85627085/301b34dc-e1f5-425c-a253-0d294bd8caf3)
+![Untitled 102](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20102)
 
 ### **Cisco Switch ports which are connected to the PC and Firewall, configured SPAN(Switch Port Analyzer):**
 
-![Untitled 103](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide/assets/85627085/9d1a5d66-e94a-41c1-8ffe-9fb1e78e0060)
+![Untitled 103](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20103)
 
 ### **Fortigate port2 make it interface type as One-Arm Sniffer, Follow the Image Instructions:**
 
-![Untitled 104](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide/assets/85627085/e4adc4aa-a3b2-43da-8754-151b66425778)
+![Untitled 104](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20104)
 
 ### **Generating traffic from the PC towards the internet, all packets are sent to Firewall as well:**
 
-![Untitled 105](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide/assets/85627085/5ab7655f-8f7a-48b0-af06-534851c297a7)
+![Untitled 105](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20105)
 
 ### **To check the Packet sniffed from the PC, go to "Logs & Report" --> "Sniffer Traffic":**
 
-![Untitled 106](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide/assets/85627085/cedd3cb2-7648-4e99-a60c-afc2d617d424)
+![Untitled 106](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20106)
 
 
 ### **Sample Log data:**
 
-[memory-traffic-sniffer-2024-04-22_2048.log](https://github.com/hegdepavankumar/Fortigate-Firewall-Complete-Guide/files/15071152/memory-traffic-sniffer-2024-04-22_2048.log)
+[memory-traffic-sniffer-2024-04-22_2048.log](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/memory-traffic-sniffer-2024-04-22_2048.log)
 
 
 ---
@@ -2085,9 +2085,9 @@ By completing these modules, you've gained a comprehensive understanding of Fort
 
 ## Creator [🔝](#Fortigate-Firewall-Complete-Guide)
 
-(https://github.com/hegdepavankumar). Created by:-
+(https://github.com/santhuksha). Created by:-
 
-| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@hegdepavankumar</sub>](https://github.com/hegdepavankumar) |
+| [<img src="https://github.com/hegdepavankumar.png?size=115" width="115"><br><sub>@santhuksha</sub>](https://github.com/santhuksha) |
 
 <br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
