@@ -64,35 +64,25 @@ Table of Contents:
 FortiGate කියන්නේ Fortinet විසින් නිර්මාණය කරන ලද network security appliance එකක්.
 මෙය network එක විවිධ security threats වලින් ආරක්ෂා කිරීම සඳහා firewall, VPN, IPS, antivirus වැනි security features ගණනාවක් ලබා දෙයි.
 
-Firewall:
-Network එකට එන සහ පිටවන traffic control කිරීම සඳහා භාවිතා කරන security system එකක්. Predefined rules අනුව traffic allow හෝ block කරයි.
+-**Firewall**:Network එකට එන සහ පිටවන traffic control කිරීම සඳහා භාවිතා කරන security system එකක්. Predefined rules අනුව traffic allow හෝ block කරයි.
 
-Intrusion Prevention System (IPS):
-Network එක තුළ සිදුවන malicious activities සහ attacks හඳුනාගෙන ඒවා block කරන security feature එකක්.
+-**Intrusion Prevention System (IPS)**:Network එක තුළ සිදුවන malicious activities සහ attacks හඳුනාගෙන ඒවා block කරන security feature එකක්.
 
-Virtual Private Network (VPN):
-Internet වැනි secure නොවන network හරහා users හෝ remote locations අතර ආරක්ෂිත connection එකක් නිර්මාණය කරයි.
+-**Virtual Private Network (VPN)**:Internet වැනි secure නොවන network හරහා users හෝ remote locations අතර ආරක්ෂිත connection එකක් නිර්මාණය කරයි.
 
-Antivirus and Antimalware:
-Virus, malware, spyware වැනි harmful software හඳුනාගෙන network එකට ඇතුල් වීම වැළැක්වීමට භාවිතා කරයි.
+-**Antivirus and Antimalware**:Virus, malware, spyware වැනි harmful software හඳුනාගෙන network එකට ඇතුල් වීම වැළැක්වීමට භාවිතා කරයි.
 
-Web Filtering:
-Users ලා access කරන websites control කිරීමට භාවිතා කරයි. Unsafe හෝ unwanted websites block කිරීමට උපකාරී වේ.
+-**Web Filtering**:Users ලා access කරන websites control කිරීමට භාවිතා කරයි. Unsafe හෝ unwanted websites block කිරීමට උපකාරී වේ.
 
-Application Control:
-Network එක තුළ භාවිතා වන applications හඳුනාගෙන ඒවා allow, block හෝ limit කිරීමට හැකියාව ලබා දෙයි.
+-**Application Control**:Network එක තුළ භාවිතා වන applications හඳුනාගෙන ඒවා allow, block හෝ limit කිරීමට හැකියාව ලබා දෙයි.
 
-Data Loss Prevention (DLP):
-Company එකේ වැදගත් සහ confidential data unauthorized ලෙස පිටතට යාම වැළැක්වීමට භාවිතා කරයි.
+-**Data Loss Prevention (DLP)**:Company එකේ වැදගත් සහ confidential data unauthorized ලෙස පිටතට යාම වැළැක්වීමට භාවිතා කරයි.
 
-Advanced Threat Protection (ATP):
-Advanced attacks සහ unknown threats හඳුනා ගැනීම සඳහා sandboxing සහ behavior analysis වැනි techniques භාවිතා කරයි.
+-**Advanced Threat Protection (ATP)**:Advanced attacks සහ unknown threats හඳුනා ගැනීම සඳහා sandboxing සහ behavior analysis වැනි techniques භාවිතා කරයි.
 
-Traffic Shaping and Quality of Service (QoS):
-Network bandwidth manage කරමින් වැදගත් applications සඳහා priority ලබා දී performance වැඩි කරයි.
+-**Traffic Shaping and Quality of Service (QoS)**:Network bandwidth manage කරමින් වැදගත් applications සඳහා priority ලබා දී performance වැඩි කරයි.
 
-Logging and Reporting:
-Network activities, security events සහ policy violations record කර reports ලබා දෙයි. Troubleshooting සහ security monitoring සඳහා උපකාරී වේ.
+-**Logging and Reporting**:Network activities, security events සහ policy violations record කර reports ලබා දෙයි. Troubleshooting සහ security monitoring සඳහා උපකාරී වේ.
 
 # II. FortiGuard Queries & Packages
 
@@ -100,14 +90,32 @@ FortiGuard is a comprehensive security intelligence service provided by Fortinet
 
 ## FortiGuard Queries
 
-FortiGuard queries are requests made by Fortinet security products, such as FortiGate firewalls, to the FortiGuard service infrastructure. These queries are initiated to retrieve the latest threat intelligence, security updates, and other relevant information needed to enhance the security posture of the network. Key aspects of FortiGuard queries include:
+**FortiGuard කියන්නේ Fortinet security products (උදාහරණයක් ලෙස FortiGate) සමඟ සම්බන්ධ වන security intelligence service එකක්.**
+මෙය network security වැඩි දියුණු කිරීම සඳහා latest threat information, security updates සහ protection databases ලබා දෙයි.
 
-- **Real-time Threat Intelligence**: FortiGuard queries fetch real-time threat intelligence data from FortiGuard Labs, Fortinet's global threat research team. This includes information on new malware signatures, vulnerabilities, zero-day exploits, and other security threats.
-- **URL Filtering Updates**: FortiGuard queries also update URL filtering databases to ensure accurate categorization of websites and protection against web-based threats. This helps in enforcing web filtering policies and blocking access to malicious or inappropriate websites.
-- **Antivirus and Antimalware Definitions**: FortiGuard queries update antivirus and antimalware definitions to detect and block the latest malware strains, including viruses, worms, Trojans, and spyware. This ensures that the security solution can identify and neutralize evolving threats effectively.
-- **IPS Signatures**: FortiGuard queries update intrusion prevention system (IPS) signatures to detect and prevent known network attacks, including vulnerabilities, exploits, and protocol anomalies. Keeping IPS signatures up to date is crucial for protecting against emerging threats and vulnerabilities.
-- **Application Control Updates**: FortiGuard queries fetch updates related to application control, allowing FortiGate firewalls to identify and control the usage of various applications within the network. This includes new application signatures, behavior patterns, and categorization updates.
-- **DLP Definitions**: FortiGuard queries update data loss prevention (DLP) definitions to prevent the unauthorized transmission of sensitive data outside the network. This includes patterns for detecting sensitive information such as credit card numbers, social security numbers, and intellectual property.
+* **Real-time Threat Intelligence**:
+  FortiGuard Labs වෙතින් නව security threats පිළිබඳ real-time information ලබා දෙයි.
+  අලුත් malware, vulnerabilities, zero-day attacks වැනි threats හඳුනා ගැනීමට උපකාරී වේ.
+
+* **URL Filtering Updates**:
+  Web filtering සඳහා භාවිතා කරන website databases update කරයි.
+  Malicious හෝ unwanted websites හඳුනාගෙන block කිරීමට සහ accurate website categorization ලබා දීමට උපකාරී වේ.
+
+* **Antivirus and Antimalware Definitions**:
+  Antivirus සහ antimalware databases update කරයි.
+  අලුත් virus, worms, Trojans සහ spyware වැනි threats හඳුනාගෙන block කිරීමට FortiGate එකට හැකියාව ලබා දෙයි.
+
+* **IPS Signatures**:
+  IPS signatures update කරයි.
+  Network attacks, exploits, vulnerabilities සහ suspicious traffic patterns හඳුනාගෙන block කිරීමට උපකාරී වේ.
+
+* **Application Control Updates**:
+  Application Control සඳහා අවශ්‍ය updates ලබා දෙයි.
+  FortiGate එකට network එකේ භාවිතා වන applications හඳුනාගෙන ඒවා control කිරීමට උපකාරී වේ.
+
+* **DLP Definitions**:
+  Data Loss Prevention සඳහා අවශ්‍ය definitions update කරයි.
+  Credit card numbers, confidential data සහ sensitive information වැනි දේවල් network එකෙන් unauthorized ලෙස පිටතට යාම වැළැක්වීමට භාවිතා කරයි.
 
 ## FortiGuard Packages
 
