@@ -61,18 +61,38 @@ Table of Contents:
 
 # I. Understanding the Features of FortiGate:
 
-FortiGate is a family of network security appliances developed by Fortinet, designed to provide a wide range of security features to protect networks from various threats. Understanding the features of FortiGate involves grasping its capabilities in different areas of network security. Here's a detailed breakdown:
+FortiGate කියන්නේ Fortinet විසින් නිර්මාණය කරන ලද network security appliance එකක්.
+මෙය network එක විවිධ security threats වලින් ආරක්ෂා කිරීම සඳහා firewall, VPN, IPS, antivirus වැනි security features ගණනාවක් ලබා දෙයි.
 
-1. **Firewall**: FortiGate operates as a firewall, providing traditional packet filtering capabilities to monitor and control the traffic passing through the network based on predefined rules. It can inspect packets at the application layer for more granular control.
-2. **Intrusion Prevention System (IPS)**: FortiGate includes an IPS module that identifies and blocks malicious activities within the network. It analyzes traffic patterns and signatures to detect and prevent known attacks, such as SQL injection, buffer overflow, and denial-of-service (DoS) attacks.
-3. **Virtual Private Network (VPN)**: FortiGate supports VPN technologies, allowing secure communication between remote sites or individual users and the corporate network over untrusted networks like the Internet. It offers various VPN types such as SSL VPN, IPsec VPN, and L2TP.
-4. **Antivirus and Antimalware**: FortiGate includes antivirus and antimalware functionalities to detect and block malicious software, including viruses, worms, Trojans, and spyware. It can inspect files and URLs in real time to prevent the spread of malware within the network.
-5. **Web Filtering**: FortiGate can enforce web filtering policies to control access to websites based on categories, URLs, or specific keywords. It helps organizations enforce acceptable use policies, improve productivity, and mitigate security risks associated with malicious or inappropriate web content.
-6. **Application Control**: FortiGate offers application control features to identify and control the usage of various applications within the network. It can classify applications based on their behavior and characteristics, allowing administrators to define policies to permit, deny, or limit access to specific applications.
-7. **Data Loss Prevention (DLP)**: FortiGate includes DLP capabilities to prevent the unauthorized transmission of sensitive data outside the network. It can inspect outgoing traffic for predefined data patterns such as credit card numbers, social security numbers, or intellectual property, and enforce policies to prevent data leakage.
-8. **Advanced Threat Protection (ATP)**: FortiGate integrates advanced threat protection mechanisms such as sandboxing and behavior-based analysis to detect and block sophisticated threats like zero-day exploits and targeted attacks. It isolates suspicious files in a sandbox environment to observe their behavior before allowing them into the network.
-9. **Traffic Shaping and Quality of Service (QoS)**: FortiGate allows administrators to prioritize and control network traffic based on predefined policies. It can allocate bandwidth, enforce traffic shaping rules, and ensure quality of service for critical applications to optimize network performance and user experience.
-10. **Logging and Reporting**: FortiGate provides extensive logging and reporting capabilities to track network activity, security events, and policy violations. It generates detailed reports and alerts for administrators to analyze security incidents, troubleshoot issues, and maintain compliance with regulatory requirements.
+Firewall:
+Network එකට එන සහ පිටවන traffic control කිරීම සඳහා භාවිතා කරන security system එකක්. Predefined rules අනුව traffic allow හෝ block කරයි.
+
+Intrusion Prevention System (IPS):
+Network එක තුළ සිදුවන malicious activities සහ attacks හඳුනාගෙන ඒවා block කරන security feature එකක්.
+
+Virtual Private Network (VPN):
+Internet වැනි secure නොවන network හරහා users හෝ remote locations අතර ආරක්ෂිත connection එකක් නිර්මාණය කරයි.
+
+Antivirus and Antimalware:
+Virus, malware, spyware වැනි harmful software හඳුනාගෙන network එකට ඇතුල් වීම වැළැක්වීමට භාවිතා කරයි.
+
+Web Filtering:
+Users ලා access කරන websites control කිරීමට භාවිතා කරයි. Unsafe හෝ unwanted websites block කිරීමට උපකාරී වේ.
+
+Application Control:
+Network එක තුළ භාවිතා වන applications හඳුනාගෙන ඒවා allow, block හෝ limit කිරීමට හැකියාව ලබා දෙයි.
+
+Data Loss Prevention (DLP):
+Company එකේ වැදගත් සහ confidential data unauthorized ලෙස පිටතට යාම වැළැක්වීමට භාවිතා කරයි.
+
+Advanced Threat Protection (ATP):
+Advanced attacks සහ unknown threats හඳුනා ගැනීම සඳහා sandboxing සහ behavior analysis වැනි techniques භාවිතා කරයි.
+
+Traffic Shaping and Quality of Service (QoS):
+Network bandwidth manage කරමින් වැදගත් applications සඳහා priority ලබා දී performance වැඩි කරයි.
+
+Logging and Reporting:
+Network activities, security events සහ policy violations record කර reports ලබා දෙයි. Troubleshooting සහ security monitoring සඳහා උපකාරී වේ.
 
 # II. FortiGuard Queries & Packages
 
