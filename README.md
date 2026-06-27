@@ -93,27 +93,27 @@ FortiGuard is a comprehensive security intelligence service provided by Fortinet
 **FortiGuard කියන්නේ Fortinet security products (උදාහරණයක් ලෙස FortiGate) සමඟ සම්බන්ධ වන security intelligence service එකක්.**
 මෙය network security වැඩි දියුණු කිරීම සඳහා latest threat information, security updates සහ protection databases ලබා දෙයි.
 
-* **Real-time Threat Intelligence**:
+-**Real-time Threat Intelligence**:
   FortiGuard Labs වෙතින් නව security threats පිළිබඳ real-time information ලබා දෙයි.
   අලුත් malware, vulnerabilities, zero-day attacks වැනි threats හඳුනා ගැනීමට උපකාරී වේ.
 
-* **URL Filtering Updates**:
+-**URL Filtering Updates**:
   Web filtering සඳහා භාවිතා කරන website databases update කරයි.
   Malicious හෝ unwanted websites හඳුනාගෙන block කිරීමට සහ accurate website categorization ලබා දීමට උපකාරී වේ.
 
-* **Antivirus and Antimalware Definitions**:
+-**Antivirus and Antimalware Definitions**:
   Antivirus සහ antimalware databases update කරයි.
   අලුත් virus, worms, Trojans සහ spyware වැනි threats හඳුනාගෙන block කිරීමට FortiGate එකට හැකියාව ලබා දෙයි.
 
-* **IPS Signatures**:
+-**IPS Signatures**:
   IPS signatures update කරයි.
   Network attacks, exploits, vulnerabilities සහ suspicious traffic patterns හඳුනාගෙන block කිරීමට උපකාරී වේ.
 
-* **Application Control Updates**:
+-**Application Control Updates**:
   Application Control සඳහා අවශ්‍ය updates ලබා දෙයි.
   FortiGate එකට network එකේ භාවිතා වන applications හඳුනාගෙන ඒවා control කිරීමට උපකාරී වේ.
 
-* **DLP Definitions**:
+-**DLP Definitions**:
   Data Loss Prevention සඳහා අවශ්‍ය definitions update කරයි.
   Credit card numbers, confidential data සහ sensitive information වැනි දේවල් network එකෙන් unauthorized ලෙස පිටතට යාම වැළැක්වීමට භාවිතා කරයි.
 
