@@ -25,7 +25,7 @@ Explore the FortiGate Firewall Complete Guide—a free, detailed collection of l
 
 ![Untitled](fortigate-guide-images/Untitled.png)
 
-Table of Contents: 
+## Table of Contents: 
 
 1. **Understanding Features of FortiGate** - FortiGate firewall එකේ ප්‍රධාන security features සහ capabilities තේරුම් ගැනීම. (Firewall, IPS, VPN, Antivirus, Web Filtering, Application Control වැනි features)
 
