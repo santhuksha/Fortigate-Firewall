@@ -27,13 +27,34 @@ Explore the FortiGate Firewall Complete Guide—a free, detailed collection of l
 
 Table of Contents: 
 
-- Understanding Features of Fortigate
-- Fortigaurd Queries & Packages
-- UTM firewalls futures
-- Platform Design and Architecture
-- About CLI
-- Getting Mgmt GUI Access
-- About Administration Profiles
+**Table of Contents (සිංහල + English explanation):**
+
+* **Understanding Features of FortiGate**
+  FortiGate firewall එකේ ප්‍රධාන security features සහ capabilities තේරුම් ගැනීම.
+  (Firewall, IPS, VPN, Antivirus, Web Filtering, Application Control වැනි features)
+
+* **FortiGuard Queries & Packages**
+  FortiGuard service එකෙන් ලබාගන්න threat intelligence, security updates සහ protection databases පිළිබඳ අවබෝධය.
+  (Updates, signatures, antivirus definitions, IPS updates වැනි දේවල්)
+
+* **UTM Firewall Features**
+  Unified Threat Management firewall එකක features සහ FortiGate UTM firewall එකක් ලෙස ක්‍රියා කරන ආකාරය.
+  (Multiple security functions එකම platform එකකින් ලබාදීම)
+
+* **Platform Design and Architecture**
+  FortiGate hardware/software design එක, internal architecture එක සහ traffic processing ක්‍රියාවලිය තේරුම් ගැනීම.
+
+* **About CLI**
+  FortiGate Command Line Interface (CLI) පිළිබඳ අවබෝධය.
+  Commands භාවිතා කර configuration, troubleshooting සහ management කිරීම.
+
+* **Getting Management GUI Access**
+  FortiGate Web-based GUI access ලබා ගැනීම සහ initial management configuration කිරීම.
+
+* **About Administration Profiles**
+  FortiGate administrator accounts සඳහා permissions සහ access levels configure කිරීම.
+  (කවුද මොන settings බලන්න/වෙනස් කරන්න පුළුවන්ද කියන control එක)
+
 
 # I. Understanding the Features of FortiGate:
 
