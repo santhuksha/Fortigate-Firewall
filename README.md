@@ -119,41 +119,85 @@ FortiGuard is a comprehensive security intelligence service provided by Fortinet
 
 ## FortiGuard Packages
 
-FortiGuard packages are bundles of security updates, intelligence feeds, and definitions provided by Fortinet as part of the FortiGuard subscription service. These packages contain the latest threat intelligence and updates necessary to keep Fortinet security solutions, including FortiGate firewalls, up to date and protected against evolving threats. Key aspects of FortiGuard packages include:
+**FortiGuard Packages කියන්නේ Fortinet විසින් ලබාදෙන security updates, threat intelligence feeds සහ security definitions එකතු කර ඇති packages.**
+මෙම packages මගින් FortiGate වැනි security solutions latest threats වලට ආරක්ෂා වීමට අවශ්‍ය updates සහ protection information ලබා ගනී.
 
-- **Comprehensive Security Updates**: FortiGuard packages include comprehensive security updates covering multiple aspects of network security, including antivirus, IPS, application control, web filtering, and DLP. These updates are regularly released to ensure timely protection against emerging threats.
-- **Automatic Delivery**: FortiGuard packages are automatically delivered to Fortinet security products, eliminating the need for manual intervention by administrators. This ensures that security solutions are always equipped with the latest threat intelligence and updates without delay.
-- **Continuous Monitoring and Research**: FortiGuard packages are backed by FortiGuard Labs, which continuously monitors global threat landscape, conducts research on emerging threats, and develops security updates and intelligence feeds. This ensures that FortiGuard packages provide effective protection against both known and unknown threats.
-- **Customization and Configuration**: FortiGuard packages can be customized and configured based on the specific security requirements of an organization. Administrators can define update schedules, select specific update components, and prioritize critical updates to align with their security policies and compliance requirements.
-- **Integration with Security Fabric**: FortiGuard packages seamlessly integrate with Fortinet's Security Fabric, allowing coordinated threat response and sharing of threat intelligence across various Fortinet security products. This enables a unified security posture and enhances the overall effectiveness of the security infrastructure.
+* **Comprehensive Security Updates:**
+  FortiGuard packages මගින් antivirus, IPS, application control, web filtering සහ DLP වැනි security features සඳහා updates ලබා දෙයි.
+  මෙම updates නිතර ලබාදීම නිසා අලුත් security threats වලට එරෙහිව ආරක්ෂාව වැඩි වේ.
+
+* **Automatic Delivery:**
+  FortiGuard packages automatically Fortinet security devices වෙත ලබා දේ.
+  Administrator විසින් manually update කිරීමට අවශ්‍ය නොවන අතර, system එක latest security information සමඟ update වෙයි.
+
+* **Continuous Monitoring and Research:**
+  FortiGuard packages පිටුපස FortiGuard Labs ක්‍රියා කරයි.
+  එය ලෝකය පුරා ඇති security threats monitor කරමින් research කර අලුත් updates සහ threat intelligence develop කරයි.
+
+* **Customization and Configuration:**
+  Organization එකේ අවශ්‍යතා අනුව FortiGuard updates configure කළ හැක.
+  Administrators ලාට update schedule, අවශ්‍ය update components සහ critical updates prioritize කිරීමට හැකියාව ඇත.
+
+* **Integration with Security Fabric:**
+  FortiGuard packages Fortinet Security Fabric සමඟ integrate වේ.
+  එමගින් Fortinet security products අතර threat information share කර coordinated security response එකක් ලබා දෙයි.
 
 # III. Understanding UTM (Unified Threat Management) Firewalls and FortiGate
 
-UTM (Unified Threat Management) Firewalls, like FortiGate, are known for their comprehensive approach to network security. Here's a detailed explanation of why FortiGate is considered a UTM firewall and an overview of UTM firewall features:
+**UTM (Unified Threat Management) Firewall කියන්නේ security features ගණනාවක් එකම device එකක් තුළ එකතු කර ඇති firewall solution එකක්.**
+FortiGate මෙවැනි UTM firewall එකක් ලෙස හඳුන්වන්නේ firewall, VPN, IPS, antivirus, web filtering වැනි security functions එකම platform එකක ලබා දෙන නිසාය.
 
-## Why FortiGate is a UTM Firewall ?.
+## Why FortiGate is a UTM Firewall?
 
-FortiGate is commonly referred to as a UTM firewall due to its integration of multiple security features into a single platform. Instead of relying on separate devices for various security functions, FortiGate consolidates these functionalities into a unified solution. This integration offers several advantages:
+* **Centralized Management:**
+  FortiGate මගින් security policies, configurations සහ monitoring එකම interface එකකින් manage කළ හැක.
+  එමගින් network management පහසු වන අතර complexity අඩු වේ.
 
-- **Centralized Management**: With FortiGate, administrators can manage all security policies, configurations, and monitoring from a single interface, simplifying network management and reducing complexity.
-- **Streamlined Deployment**: Deploying a UTM firewall like FortiGate eliminates the need for multiple devices, reducing hardware costs, space requirements, and deployment complexities associated with managing multiple security appliances.
-- **Improved Performance**: By integrating security functions into a single platform, FortiGate can optimize performance and resource utilization, ensuring efficient operation without compromising on security effectiveness.
-- **Holistic Security Posture**: FortiGate provides a comprehensive security posture by combining essential security features such as firewall, VPN, intrusion prevention, antivirus, web filtering, and application control into a single solution. This approach offers a more holistic defense against a wide range of threats.
+* **Streamlined Deployment:**
+  වෙන වෙනම security devices භාවිතා කිරීම වෙනුවට FortiGate එකකින් security functions ගණනාවක් ලබා ගත හැක.
+  එමගින් hardware cost, space සහ deployment complexity අඩු වේ.
 
-## UTM Firewall Features
+* **Improved Performance:**
+  Security features එකම platform එකක integrate කර ඇති නිසා resources හොඳින් භාවිතා කර efficient performance එකක් ලබා දෙයි.
 
-UTM firewalls like FortiGate typically offer a wide range of security features to protect networks from various threats. Here's an overview of key UTM firewall features:
+* **Holistic Security Posture:**
+  Firewall, VPN, IPS, antivirus, web filtering සහ application control වැනි security features එකට එකතු කර comprehensive protection එකක් ලබා දෙයි.
 
-1. **Firewall**: UTM firewalls include traditional packet filtering capabilities to monitor and control network traffic based on predefined rules. They can inspect packets at the application layer for granular control.
-2. **Intrusion Prevention System (IPS)**: UTM firewalls incorporate an IPS module to detect and block known and unknown network attacks, including exploits, vulnerabilities, and protocol anomalies.
-3. **Virtual Private Network (VPN)**: UTM firewalls support VPN technologies for secure communication between remote sites or individual users and the corporate network over untrusted networks like the internet.
-4. **Antivirus and Antimalware**: UTM firewalls provide antivirus and antimalware functionalities to detect and block malicious software, including viruses, worms, Trojans, and spyware.
-5. **Web Filtering**: UTM firewalls enforce web filtering policies to control access to websites based on categories, URLs, or specific keywords, helping organizations enforce acceptable use policies and mitigate security risks.
-6. **Application Control**: UTM firewalls offer application control features to identify and control the usage of various applications within the network, allowing administrators to define policies to permit, deny, or limit access to specific applications.
-7. **Data Loss Prevention (DLP)**: UTM firewalls include DLP capabilities to prevent the unauthorized transmission of sensitive data outside the network by inspecting outgoing traffic for predefined data patterns.
-8. **Advanced Threat Protection (ATP)**: UTM firewalls integrate advanced threat protection mechanisms such as sandboxing and behavior-based analysis to detect and block sophisticated threats like zero-day exploits and targeted attacks.
-9. **Traffic Shaping and Quality of Service (QoS)**: UTM firewalls allow administrators to prioritize and control network traffic based on predefined policies, optimizing network performance and user experience.
-10. **Logging and Reporting**: UTM firewalls provide extensive logging and reporting capabilities to track network activity, security events, and policy violations, enabling administrators to analyze security incidents and maintain compliance.
+---
+
+# UTM Firewall Features
+
+* **Firewall:**
+  Network traffic monitor කර predefined rules අනුව allow හෝ block කරයි.
+  Application level දක්වා traffic inspect කර වැඩි control එකක් ලබා දෙයි.
+
+* **Intrusion Prevention System (IPS):**
+  Network attacks, exploits, vulnerabilities සහ suspicious activities හඳුනාගෙන block කරයි.
+
+* **Virtual Private Network (VPN):**
+  Internet වැනි untrusted networks හරහා secure communication සඳහා encrypted connection එකක් ලබා දෙයි.
+
+* **Antivirus and Antimalware:**
+  Virus, worms, Trojans, spyware වැනි malware හඳුනාගෙන block කරයි.
+
+* **Web Filtering:**
+  Websites categories, URLs හෝ keywords අනුව access control කර malicious websites block කරයි.
+
+* **Application Control:**
+  Network එකේ භාවිතා වන applications හඳුනාගෙන allow, block හෝ limit කිරීමට හැක.
+
+* **Data Loss Prevention (DLP):**
+  Sensitive data unauthorized ලෙස network එකෙන් පිටතට යාම වැළැක්වීමට භාවිතා කරයි.
+
+* **Advanced Threat Protection (ATP):**
+  Sandboxing සහ behavior analysis භාවිතා කර zero-day attacks සහ advanced threats හඳුනාගෙන block කරයි.
+
+* **Traffic Shaping and Quality of Service (QoS):**
+  Network bandwidth manage කර critical applications සඳහා priority ලබා දෙයි.
+
+* **Logging and Reporting:**
+  Network activities, security events සහ policy violations record කර reports ලබා දෙයි.
+  Security analysis, troubleshooting සහ compliance සඳහා උපකාරී වේ.
 
 # **IV. FortiGate Firewall Platform Design and Architecture**
 
