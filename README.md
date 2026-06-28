@@ -1526,20 +1526,20 @@ end
 
 **Sample Topology:**
 
-![Untitled 107](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20107)
+![Untitled 107](fortigate-guide-images/Untitled%20107.png)
 
 **To configure Virtual Wire, go to Interface --> Create New:**
 
-![Untitled 108](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20108)
+![Untitled 108](fortigate-guide-images/Untitled%20108.png)
 
 **Now new Virtual Pair Interface is Configured:**
 
-![Untitled 109](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20109)
+![Untitled 109](fortigate-guide-images/Untitled%20109.png)
 
 
 **As per the Fortigate we have to configure the Firewall Virtual Wire Pair Policy, go to Policy & Objects --> Firewall Virtual Wire Pair Policy --> create bidirectional policy:**
 
-![Untitled 110](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20110)
+![Untitled 110](fortigate-guide-images/Untitled%20110.png)
 
 
 **Now is the time to initiate traffic towards the internet.**
@@ -1549,7 +1549,7 @@ All generated traffic will be visible on the FortiGate firewall under:
 
 **මෙහිදී firewall එක හරහා pass වන සියලු traffic records capture වී, monitoring සහ analysis සඳහා view කළ හැක.**
 
-![Untitled 111](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20111)
+![Untitled 111](fortigate-guide-images/Untitled%20111.png)
 
 
 **Logs check කර traffic verify කිරීම:**
@@ -1566,7 +1566,7 @@ FortiGate firewall එකේ **Logs → Forwarded Traffic** වෙත ගොස�
 
 **මෙම log information මගින් traffic flow එක නිවැරදිව යනවාද කියලා confirm කර troubleshooting සහ security analysis කළ හැක.**
 
-![Untitled 112](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20112)
+![Untitled 112](fortigate-guide-images/Untitled%20112.png)
 
 
 ## NOTE
@@ -2501,28 +2501,28 @@ command:
 
 ### **Sample Topology:**
 
-![Untitled 102](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20102)
+![Untitled 102](fortigate-guide-images/Untitled%20102.png)
 
 ### **Cisco switch එකේ PC සහ Firewall connect කර ඇති ports monitor කිරීම සඳහා SPAN (Switch Port Analyzer) configure කර ඇත.**
 
-![Untitled 103](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20103)
+![Untitled 103](fortigate-guide-images/Untitled%20103.png)
 
 ### **FortiGate port2 interface type One-Arm Sniffer ලෙස configure කරන්න – Image Instructions අනුව follow කරන්න:**
 
-![Untitled 104](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20104)
+![Untitled 104](fortigate-guide-images/Untitled%20104.png)
 
 ### **PC එකෙන් internet towards traffic generate කිරීම – සියලු packets Firewall එකටද send වේ:**
 
-![Untitled 105](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20105)
+![Untitled 105](fortigate-guide-images/Untitled%20105.png)
 
 ### **PC එකෙන් sniff කරන ලද packets check කිරීමට “Logs & Report” → “Sniffer Traffic” වෙත යන්න:**
 
-![Untitled 106](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20106)
+![Untitled 106](fortigate-guide-images/Untitled%20106.png)
 
 
 ### **Sample Log data:**
 
-[memory-traffic-sniffer-2024-04-22_2048.log](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/memory-traffic-sniffer-2024-04-22_2048.log)
+[memory-traffic-sniffer-2024-04-22_2048.log](Fortigate-Firewall/fotigate-guide-images/memory-traffic-sniffer-2024-04-22_2048.log)
 
 
 ---
