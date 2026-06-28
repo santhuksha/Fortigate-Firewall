@@ -1,5 +1,5 @@
 # Fortigate-Firewall
-Explore the FortiGate Firewall Complete Guide—a free, detailed collection of labs and practical knowledge built with dedication and real-world experience. If it helps you, a coffee ☕️ or a kind wish means a lot. Your support keeps this project growing. Thank you for being part of the journey! 🚀🔥
+Explore the FortiGate Firewall Complete Guide a free, detailed collection of labs and practical knowledge built with dedication and real-world experience. Thank you for being part of the journey! 🚀🔥
  
 # Topics to be covered:
 
@@ -47,25 +47,25 @@ Explore the FortiGate Firewall Complete Guide—a free, detailed collection of l
 FortiGate කියන්නේ Fortinet විසින් නිර්මාණය කරන ලද network security appliance එකක්.
 මෙය network එක විවිධ security threats වලින් ආරක්ෂා කිරීම සඳහා firewall, VPN, IPS, antivirus වැනි security features ගණනාවක් ලබා දෙයි.
 
--**Firewall**:Network එකට එන සහ පිටවන traffic control කිරීම සඳහා භාවිතා කරන security system එකක්. Predefined rules අනුව traffic allow හෝ block කරයි.
+- **Firewall**:Network එකට එන සහ පිටවන traffic control කිරීම සඳහා භාවිතා කරන security system එකක්. Predefined rules අනුව traffic allow හෝ block කරයි.
 
--**Intrusion Prevention System (IPS)**:Network එක තුළ සිදුවන malicious activities සහ attacks හඳුනාගෙන ඒවා block කරන security feature එකක්.
+- **Intrusion Prevention System (IPS)**:Network එක තුළ සිදුවන malicious activities සහ attacks හඳුනාගෙන ඒවා block කරන security feature එකක්.
 
--**Virtual Private Network (VPN)**:Internet වැනි secure නොවන network හරහා users හෝ remote locations අතර ආරක්ෂිත connection එකක් නිර්මාණය කරයි.
+- **Virtual Private Network (VPN)**:Internet වැනි secure නොවන network හරහා users හෝ remote locations අතර ආරක්ෂිත connection එකක් නිර්මාණය කරයි.
 
--**Antivirus and Antimalware**:Virus, malware, spyware වැනි harmful software හඳුනාගෙන network එකට ඇතුල් වීම වැළැක්වීමට භාවිතා කරයි.
+- **Antivirus and Antimalware**:Virus, malware, spyware වැනි harmful software හඳුනාගෙන network එකට ඇතුල් වීම වැළැක්වීමට භාවිතා කරයි.
 
--**Web Filtering**:Users ලා access කරන websites control කිරීමට භාවිතා කරයි. Unsafe හෝ unwanted websites block කිරීමට උපකාරී වේ.
+- **Web Filtering**:Users ලා access කරන websites control කිරීමට භාවිතා කරයි. Unsafe හෝ unwanted websites block කිරීමට උපකාරී වේ.
 
--**Application Control**:Network එක තුළ භාවිතා වන applications හඳුනාගෙන ඒවා allow, block හෝ limit කිරීමට හැකියාව ලබා දෙයි.
+- **Application Control**:Network එක තුළ භාවිතා වන applications හඳුනාගෙන ඒවා allow, block හෝ limit කිරීමට හැකියාව ලබා දෙයි.
 
--**Data Loss Prevention (DLP)**:Company එකේ වැදගත් සහ confidential data unauthorized ලෙස පිටතට යාම වැළැක්වීමට භාවිතා කරයි.
+- **Data Loss Prevention (DLP)**:Company එකේ වැදගත් සහ confidential data unauthorized ලෙස පිටතට යාම වැළැක්වීමට භාවිතා කරයි.
 
--**Advanced Threat Protection (ATP)**:Advanced attacks සහ unknown threats හඳුනා ගැනීම සඳහා sandboxing සහ behavior analysis වැනි techniques භාවිතා කරයි.
+- **Advanced Threat Protection (ATP)**:Advanced attacks සහ unknown threats හඳුනා ගැනීම සඳහා sandboxing සහ behavior analysis වැනි techniques භාවිතා කරයි.
 
--**Traffic Shaping and Quality of Service (QoS)**:Network bandwidth manage කරමින් වැදගත් applications සඳහා priority ලබා දී performance වැඩි කරයි.
+- **Traffic Shaping and Quality of Service (QoS)**:Network bandwidth manage කරමින් වැදගත් applications සඳහා priority ලබා දී performance වැඩි කරයි.
 
--**Logging and Reporting**:Network activities, security events සහ policy violations record කර reports ලබා දෙයි. Troubleshooting සහ security monitoring සඳහා උපකාරී වේ.
+- **Logging and Reporting**:Network activities, security events සහ policy violations record කර reports ලබා දෙයි. Troubleshooting සහ security monitoring සඳහා උපකාරී වේ.
 
 # II. FortiGuard Queries & Packages
 
@@ -76,27 +76,27 @@ FortiGuard is a comprehensive security intelligence service provided by Fortinet
 **FortiGuard කියන්නේ Fortinet security products (උදාහරණයක් ලෙස FortiGate) සමඟ සම්බන්ධ වන security intelligence service එකක්.**
 මෙය network security වැඩි දියුණු කිරීම සඳහා latest threat information, security updates සහ protection databases ලබා දෙයි.
 
--**Real-time Threat Intelligence**:
+- **Real-time Threat Intelligence**:
   FortiGuard Labs වෙතින් නව security threats පිළිබඳ real-time information ලබා දෙයි.
   අලුත් malware, vulnerabilities, zero-day attacks වැනි threats හඳුනා ගැනීමට උපකාරී වේ.
 
--**URL Filtering Updates**:
+- **URL Filtering Updates**:
   Web filtering සඳහා භාවිතා කරන website databases update කරයි.
   Malicious හෝ unwanted websites හඳුනාගෙන block කිරීමට සහ accurate website categorization ලබා දීමට උපකාරී වේ.
 
--**Antivirus and Antimalware Definitions**:
+- **Antivirus and Antimalware Definitions**:
   Antivirus සහ antimalware databases update කරයි.
   අලුත් virus, worms, Trojans සහ spyware වැනි threats හඳුනාගෙන block කිරීමට FortiGate එකට හැකියාව ලබා දෙයි.
 
--**IPS Signatures**:
+- **IPS Signatures**:
   IPS signatures update කරයි.
   Network attacks, exploits, vulnerabilities සහ suspicious traffic patterns හඳුනාගෙන block කිරීමට උපකාරී වේ.
 
--**Application Control Updates**:
+- **Application Control Updates**:
   Application Control සඳහා අවශ්‍ය updates ලබා දෙයි.
   FortiGate එකට network එකේ භාවිතා වන applications හඳුනාගෙන ඒවා control කිරීමට උපකාරී වේ.
 
--**DLP Definitions**:
+- **DLP Definitions**:
   Data Loss Prevention සඳහා අවශ්‍ය definitions update කරයි.
   Credit card numbers, confidential data සහ sensitive information වැනි දේවල් network එකෙන් unauthorized ලෙස පිටතට යාම වැළැක්වීමට භාවිතා කරයි.
 
@@ -184,7 +184,10 @@ FortiGate මෙවැනි UTM firewall එකක් ලෙස හඳුන්
 
 # **IV. FortiGate Firewall Platform Design and Architecture**
 
-FortiGate is a next-generation firewall platform designed to deliver comprehensive network security and performance. Its architecture consists of various components working together to provide advanced threat protection, network segmentation, and secure connectivity. Let's explore each component in detail:
+**FortiGate කියන්නේ advanced network security සහ high performance ලබාදීම සඳහා නිර්මාණය කර ඇති next-generation firewall platform එකක්.**
+එහි architecture එක විවිධ components එකට එකතු වී ක්‍රියා කරන ආකාරයෙන් සැකසී ඇති අතර, advanced threat protection, network segmentation සහ secure connectivity වැනි පහසුකම් ලබා දෙයි.
+
+**FortiGate architecture එකේ එක් එක් component වල කාර්යභාරය තේරුම් ගැනීම වැදගත් වේ.**
 
 ![Untitled](fortigate-guide-images/Untitled%201.png)
 
@@ -192,71 +195,92 @@ FortiGate is a next-generation firewall platform designed to deliver comprehensi
 
 ### a. CPU (Central Processing Unit)
 
-The CPU is the core processing unit responsible for executing firewall operations, packet processing, and running various security services. FortiGate utilizes multi-core CPUs to handle high-throughput traffic and complex security functions efficiently.
+**CPU කියන්නේ FortiGate එකේ ප්‍රධාන processing unit එකයි.**
+එය firewall operations, packet processing සහ විවිධ security services ක්‍රියාත්මක කිරීම සඳහා වගකියයි.
+
+**FortiGate තුළ multi-core CPUs භාවිතා කරන අතර, ඒ මගින් වැඩි traffic volume එකක් සහ complex security functions efficiently handle කිරීමට හැකියාව ලැබේ.**
 
 ### b. NP (Network Processor)
 
-FortiGate includes specialized network processors, such as FortiASIC NP6 and NP7, dedicated to offloading and accelerating specific tasks like packet forwarding, encryption/decryption, and content processing. These NP chips enhance firewall performance and scalability.
+**FortiGate තුළ FortiASIC NP6 සහ NP7 වැනි specialized network processors ඇතුළත් වේ.**
+මෙම processors මගින් packet forwarding, encryption/decryption සහ content processing වැනි වැඩ CPU එකෙන් ඉවත් කර වේගවත් ලෙස process කරයි.
+
+**මෙම NP chips භාවිතා කිරීමෙන් FortiGate firewall performance වැඩි වන අතර, වැඩි traffic load සහ scalable network environments handle කිරීමට හැකියාව ලැබේ.**
 
 ## 2. Security Services
 
 ### a. Firewall
 
-The firewall component enforces security policies by inspecting and filtering network traffic based on predefined rules, ensuring only authorized traffic flows through the network.
+**Firewall component එක මගින් predefined security rules අනුව network traffic inspect සහ filter කරයි.**
+එමගින් අවසර ලත් (authorized) traffic පමණක් network එක හරහා යාමට ඉඩ ලබා දෙන අතර, අනවශ්‍ය හෝ අවදානම් traffic block කරයි.
 
 ### b. IPS (Intrusion Prevention System)
 
-The IPS module detects and prevents known and unknown network attacks by analyzing traffic patterns, signatures, and behavior anomalies, protecting against exploits, malware, and vulnerabilities.
+**IPS module එක මගින් network traffic patterns, signatures සහ abnormal behaviors analyze කරමින් known සහ unknown attacks හඳුනාගෙන block කරයි.**
+එමගින් exploits, malware සහ vulnerabilities වලින් network එක ආරක්ෂා කිරීමට උපකාරී වේ.
 
 ### c. VPN (Virtual Private Network)
 
-FortiGate supports various VPN technologies, including IPsec, SSL, and L2TP, to establish secure communication channels between remote sites, users, and partners over untrusted networks like the internet.
+**FortiGate මගින් IPsec, SSL සහ L2TP වැනි විවිධ VPN technologies support කරයි.**
+එමගින් Internet වැනි secure නොවන networks හරහා remote sites, users සහ partners අතර ආරක්ෂිත communication channels (encrypted connections) නිර්මාණය කරයි.
 
 ### d. Antivirus and Antimalware
 
-FortiGate includes antivirus and antimalware services to detect and block malicious software, such as viruses, worms, Trojans, and spyware, preventing them from infecting the network.
+**FortiGate තුළ antivirus සහ antimalware services ඇතුළත් වේ.**
+එමගින් viruses, worms, Trojans සහ spyware වැනි malicious software හඳුනාගෙන block කර network එකට ඇතුල් වීම සහ පැතිරීම වැළැක්වීමට උපකාරී වේ.
 
 ### e. Web Filtering
 
-The web filtering feature controls access to websites based on categories, URLs, or keywords, allowing organizations to enforce acceptable use policies, block malicious sites, and improve productivity.
+**Web filtering feature එක මගින් categories, URLs හෝ keywords අනුව websites access control කරයි.**
+එමගින් organizations වලට acceptable use policies enforce කිරීමට, malicious websites block කිරීමට සහ user productivity වැඩි කිරීමට උපකාරී වේ.
 
 ### f. Application Control
 
-FortiGate offers application control capabilities to identify and control the usage of various applications within the network, allowing administrators to define policies to permit, deny, or limit access to specific applications.
+**FortiGate application control feature එක මගින් network එක තුළ භාවිතා වන විවිධ applications හඳුනාගෙන ඒවා control කරයි.**
+එමගින් administrators ලාට specific applications සඳහා allow, deny හෝ access limit කිරීමේ policies සකස් කිරීමට හැකියාව ලැබේ.
 
 ### g. DLP (Data Loss Prevention)
 
-DLP functionality prevents the unauthorized transmission of sensitive data outside the network by inspecting outgoing traffic for predefined data patterns such as credit card numbers, social security numbers, or intellectual property.
+**DLP (Data Loss Prevention) functionality එක මගින් sensitive data unauthorized ලෙස network එකෙන් පිටතට යාම වැළැක්වීමට උපකාරී වේ.**
+එය outgoing traffic inspect කර credit card numbers, confidential information සහ intellectual property වැනි predefined data patterns හඳුනාගෙන data leakage වැළැක්වීමට ක්‍රියා කරයි.
 
 ### h. ATP (Advanced Threat Protection)
 
-FortiGate integrates advanced threat protection mechanisms, including sandboxing and behavior-based analysis, to detect and block sophisticated threats like zero-day exploits and targeted attacks.
+**FortiGate මගින් sandboxing සහ behavior-based analysis වැනි advanced threat protection mechanisms භාවිතා කරයි.**
+එමගින් zero-day exploits සහ targeted attacks වැනි sophisticated threats හඳුනාගෙන block කිරීමට හැකියාව ලැබේ.
 
 ## 3. Networking Components
 
 ### a. Interfaces
 
-FortiGate includes physical and virtual network interfaces to connect to various network segments, enabling traffic ingress/egress and network segmentation for security and performance optimization.
+**FortiGate තුළ physical සහ virtual network interfaces ඇතුළත් වේ.**
+මෙම interfaces මගින් විවිධ network segments සමඟ සම්බන්ධ වීමට හැකි අතර, traffic ingress/egress control කිරීම සහ network segmentation සිදු කර security සහ performance optimize කිරීමට උපකාරී වේ.
 
 ### b. Routing
 
-FortiGate supports dynamic and static routing protocols to route traffic between different network segments efficiently and securely, ensuring optimal network performance and connectivity.
+**FortiGate මගින් dynamic සහ static routing protocols support කරයි.**
+එමගින් විවිධ network segments අතර traffic efficiently සහ securely route කිරීමට හැකියාව ලැබේ.
+මෙය optimal network performance සහ reliable connectivity පවත්වා ගැනීමට උපකාරී වේ.
 
 ### c. VLANs (Virtual Local Area Networks)
 
-VLANs allow FortiGate to segment the network into multiple virtual LANs, isolating traffic and improving security, scalability, and performance across large and complex networks.
+**VLANs මගින් FortiGate එකට network එක multiple virtual LANs ලෙස segment කිරීමට හැකියාව ලබා දෙයි.**
+එමගින් traffic එක වෙන වෙනම isolate කර security, scalability සහ performance වැඩි කිරීමට උපකාරී වේ, විශේෂයෙන් large සහ complex networks වලදී.
 
 ## 4. Management and Reporting
 
 ### a. Management Interface
 
-FortiGate provides a web-based management interface, command-line interface (CLI), and centralized management platforms (FortiManager) for configuring, monitoring, and managing firewall policies, security services, and network settings.
+**FortiGate මගින් web-based management interface, Command Line Interface (CLI) සහ centralized management platform (FortiManager) ලබා දෙයි.**
+එමගින් firewall policies, security services සහ network settings configure කිරීම, monitor කිරීම සහ manage කිරීම පහසු වේ.
 
 ### b. Logging and Reporting
 
-FortiGate logs network activity, security events, and policy violations, generating detailed reports and alerts for administrators to analyze security incidents, troubleshoot issues, and maintain compliance with regulatory requirements.
+**FortiGate මගින් network activity, security events සහ policy violations logs කරයි.**
+එමගින් administrators ලාට security incidents analyze කිරීමට, troubleshooting කිරීමට සහ regulatory compliance maintain කිරීමට අවශ්‍ය detailed reports සහ alerts ලබා දෙයි.
 
-FortiGate's platform design and architecture leverage these components to deliver robust network security, performance, and scalability for modern enterprise environments.
+**FortiGate platform design සහ architecture එක මෙම සියලු components එකට එකතු කර භාවිතා කරයි.**
+එමගින් modern enterprise environments සඳහා strong network security, high performance සහ scalability ලබා දීමට හැකියාව ලැබේ.
 
 ## **Three Families of Fortinet SPUs(Security Processing Units):**
 
@@ -270,52 +294,82 @@ Link: [https://www.fortinet.com/products/fortigate/fortiasic](https://www.fortin
 
 # **V. FortiGate Firewall CLI**
 
-The FortiGate firewall Command Line Interface (CLI) provides administrators with a powerful and flexible tool for configuring, monitoring, and troubleshooting the firewall. Here's an explanation of the FortiGate firewall CLI:
+**FortiGate firewall Command Line Interface (CLI) කියන්නේ administrators ලාට firewall එක configure කිරීම, monitor කිරීම සහ troubleshooting කිරීම සඳහා ලබාදෙන powerful සහ flexible tool එකක්.**
+CLI මගින් commands භාවිතා කර FortiGate settings manage කිරීමට සහ system operations control කිරීමට හැකියාව ලැබේ.
 
 ## Overview of FortiGate CLI
 
-The CLI is accessed using SSH or through the console port directly connected to the firewall device. It provides a text-based interface where administrators can execute commands to perform various tasks related to firewall configuration and management.
+**CLI access කිරීම සඳහා SSH හෝ firewall device එකට direct connect කර ඇති console port එක භාවිතා කළ හැක.**
+මෙය text-based interface එකක් වන අතර, administrators ලාට commands execute කර firewall configuration සහ management tasks සිදු කිරීමට හැකියාව ලබා දෙයි.
 
 ## Key Features and Functions
 
 ### 1. Configuration Management
 
-- **Configuration Hierarchy**: FortiGate CLI follows a hierarchical structure where configuration settings are organized into nested levels, such as system, interface, firewall policy, etc.
+- **Configuration Hierarchy**:
+  FortiGate CLI එක hierarchical structure එකක් අනුගමනය කරයි.
+  එහි configuration settings විවිධ levels ලෙස organize කර ඇති අතර, system, interface, firewall policy වැනි nested sections තුළ settings manage කරයි.
 - **Configuration Commands**: Administrators can use CLI commands to view, modify, and commit configuration changes. Commands include `show`, `get`, `set`, `edit`, `delete`, `execute`, and `end`.
 
 ### 2. Monitoring and Troubleshooting
 
-- **Status Monitoring**: CLI commands provide real-time monitoring of system status, interface statistics, CPU and memory usage, VPN connections, and more.
+- **Status Monitoring:**
+  FortiGate CLI commands මගින් system status, interface statistics, CPU සහ memory usage, VPN connections වැනි තොරතුරු real-time monitor කිරීමට හැකියාව ලබා දෙයි.
+  එමගින් administrators ලාට device performance සහ network status පරීක්ෂා කර troubleshooting කිරීමට උපකාරී වේ.
 - **Diagnostic Tools**: FortiGate CLI includes diagnostic tools such as `ping`, `traceroute`, `diag sniff`, and `diag debug` commands to troubleshoot network connectivity issues and analyze traffic flow.
 
 ### 3. Security Policy Management
 
-- **Firewall Policies**: Administrators can define and manage firewall policies using CLI commands to control traffic flow between different network segments based on source/destination IP, port, protocol, and security profiles.
-- **Security Profiles**: CLI allows configuring security profiles such as antivirus, IPS, web filtering, and application control to enforce security policies and protect against threats.
+- **Firewall Policies:**
+  FortiGate CLI commands භාවිතා කර administrators ලාට firewall policies create සහ manage කිරීමට හැකියාව ඇත.
+  එමගින් source/destination IP, port, protocol සහ security profiles අනුව විවිධ network segments අතර traffic flow control කරයි.
+- **Security Profiles:**
+  FortiGate CLI මගින් antivirus, IPS, web filtering සහ application control වැනි security profiles configure කිරීමට හැකියාව ඇත.
+  එමගින් security policies enforce කර network එක විවිධ threats වලින් ආරක්ෂා කිරීමට උපකාරී වේ.
 
 ### 4. VPN Configuration
 
-- **VPN Tunnels**: CLI commands enable administrators to configure IPsec, SSL, and other types of VPN tunnels to establish secure communication channels between remote sites, users, and partners.
-- **VPN Monitoring**: Administrators can monitor VPN connections, view tunnel status, and troubleshoot VPN-related issues using CLI commands.
+- **VPN Tunnels:**
+  FortiGate CLI commands මගින් administrators ලාට IPsec, SSL සහ වෙනත් VPN tunnels configure කිරීමට හැකියාව ඇත.
+  එමගින් remote sites, users සහ partners අතර secure communication channels (encrypted connections) නිර්මාණය කරයි.
+
+- **VPN Monitoring:**
+  CLI commands භාවිතා කර VPN connections monitor කිරීම, tunnel status බලීම සහ VPN සම්බන්ධ troubleshooting සිදු කිරීම සඳහා හැකියාව ලබා දෙයි.
 
 ### 5. System Administration
 
-- **System Configuration**: CLI provides commands to configure system settings, including hostname, time zone, DNS, NTP, SNMP, logging, and administrative access controls.
-- **User Management**: Administrators can manage user accounts, authentication methods, and access permissions using CLI commands.
+- **System Configuration:**
+  FortiGate CLI මගින් hostname, time zone, DNS, NTP, SNMP, logging සහ administrative access controls වැනි system settings configure කිරීමට හැකියාව ඇත.
+  එමගින් FortiGate device එකේ basic system operations සහ management settings control කරයි.
+
+- **User Management:**
+  CLI commands භාවිතා කර administrators ලාට user accounts, authentication methods සහ access permissions manage කිරීමට හැකියාව ඇත.
+  එමගින් users ලාගේ access control සහ security permissions නිසි ලෙස configure කළ හැක.
 
 ## Advantages of FortiGate CLI
 
-- **Granular Control**: CLI offers granular control over firewall configuration settings, allowing administrators to customize settings according to specific requirements.
-- **Scripting and Automation**: CLI commands can be scripted and automated using shell scripts or automation tools, facilitating batch configuration changes and streamlining repetitive tasks.
-- **Direct Access**: CLI provides direct access to firewall configuration without the need for a graphical user interface (GUI), making it suitable for advanced users and troubleshooting scenarios.
+- **Granular Control:**
+  FortiGate CLI මගින් firewall configuration settings වලට detailed level control එකක් ලබා දෙයි.
+  එමගින් administrators ලාට අවශ්‍යතා අනුව specific configurations customize කිරීමට හැකියාව ඇත.
+
+- **Scripting and Automation:**
+  CLI commands shell scripts හෝ automation tools සමඟ භාවිතා කර automate කළ හැක.
+  එමගින් bulk configuration changes සහ නැවත නැවත සිදු කරන tasks පහසු කර time save කරයි.
+
+- **Direct Access:**
+  CLI මගින් GUI භාවිතා නොකර firewall configuration වෙත direct access ලබා දේ.
+  එය advanced users සහ troubleshooting අවස්ථා සඳහා ඉතා ප්‍රයෝජනවත් වේ.
 
 # VI. Getting Management GUI Access of FortiGate Firewall
 
-Accessing the management GUI (Graphical User Interface) of a FortiGate firewall allows administrators to configure and manage the firewall using a web-based interface. Here's how to obtain management GUI access:
+**FortiGate firewall එකේ management GUI (Graphical User Interface) access ලබා ගැනීම මගින් administrators ලාට web-based interface එකක් භාවිතා කර firewall එක configure සහ manage කිරීමට හැකියාව ලැබේ.**
+
+**මෙම GUI access මගින් firewall policies, security settings සහ network configurations පහසුවෙන් manage කළ හැක.**
 
  1. Connect to the FortiGate Firewall
 
-First, establish a connection to the FortiGate firewall. This can be done through the console port directly connected to the firewall device or via SSH (Secure Shell) if remote access is enabled.
+**පළමුව FortiGate firewall එකට connection එකක් establish කළ යුතුය.**
+මෙය firewall device එකට direct connect කර ඇති console port එක හරහා හෝ remote access enable කර ඇති අවස්ථාවක SSH (Secure Shell) භාවිතා කර සිදු කළ හැක.
 
 ```markdown
 
@@ -325,7 +379,8 @@ ssh admin@<firewall_ip_address>
 
 ## 2. Enable Management Access
 
-Ensure that management access is enabled on the FortiGate firewall. By default, HTTPS (HTTP over SSL) access is enabled on port 443 for management GUI access.
+**FortiGate firewall එකේ management access enable කර ඇති බව තහවුරු කළ යුතුය.**
+සාමාන්‍යයෙන් FortiGate හි management GUI access සඳහා HTTPS (HTTP over SSL) access එක port 443 මත enable කර ඇත.
 
 ```
 # Example command to enable HTTPS access
@@ -338,7 +393,8 @@ config system settings
 
 ## 3. Configure Administrative Access
 
-Configure administrative access credentials to log in to the management GUI. Ensure that the admin user has the necessary privileges to access and manage the firewall.
+**Management GUI එකට login වීම සඳහා administrative access credentials configure කළ යුතුය.**
+Admin user එකට firewall එක access කිරීමට සහ manage කිරීමට අවශ්‍ය නිසි privileges (permissions) ලබා දී ඇති බව තහවුරු කළ යුතුය.
 
 ```
 # Example command to configure administrative access
@@ -352,7 +408,8 @@ end
 
 ## 4. Access the Management GUI
 
-Once management access is enabled and administrative credentials are configured, access the management GUI using a web browser. Enter the IP address of the FortiGate firewall in the browser's address bar and log in with the administrative credentials.
+**Management access enable කරලා administrative credentials configure කළ පසු, web browser එකක් භාවිතා කර FortiGate management GUI වෙත access කළ හැක.**
+Browser address bar එකේ FortiGate firewall එකේ IP address එක enter කර, configured administrative credentials භාවිතා කර login විය හැක.
 
 ```
 https://<firewall_ip_address>
@@ -361,9 +418,17 @@ https://<firewall_ip_address>
 
 ## Additional Considerations
 
-- **Firewall Rules**: Ensure that firewall rules permit traffic to the management interface (usually port 443 for HTTPS) from the IP addresses or networks that require access to the management GUI.
-- **Security**: Use strong, unique passwords for administrative access and regularly update them to enhance security.
-- **Logging and Monitoring**: Monitor access to the management GUI and enable logging to track administrative activities for auditing and security purposes.
+* **Firewall Rules:**
+  Management interface එකට traffic allow කරන firewall rules තිබෙන බව තහවුරු කළ යුතුය.
+  සාමාන්‍යයෙන් HTTPS management access සඳහා port 443 භාවිතා වන අතර, අවශ්‍ය IP addresses හෝ networks වලින් GUI access ලබා දිය යුතුය.
+
+* **Security:**
+  Administrative access සඳහා strong සහ unique passwords භාවිතා කළ යුතුය.
+  Security වැඩි කිරීම සඳහා passwords නිතර update කිරීම වැදගත් වේ.
+
+* **Logging and Monitoring:**
+  Management GUI access monitor කර logging enable කළ යුතුය.
+  එමගින් administrative activities track කර auditing සහ security monitoring සඳහා භාවිතා කළ හැක.
 
 ## **Demo:**
 
@@ -401,45 +466,77 @@ Configure the new strong Password
 
 # **VII. Administration Profiles in FortiGate Firewall**
 
-Administration profiles in FortiGate firewall provide a flexible way to manage administrative access and privileges within the firewall. They allow administrators to define specific permissions and restrictions for different users or groups, ensuring secure and efficient management of the firewall. Here's an in-depth look at administration profiles:
+**FortiGate firewall එකේ Administration Profiles මගින් administrative access සහ privileges manage කිරීමට flexible method එකක් ලබා දෙයි.**
+එමගින් විවිධ users හෝ groups සඳහා specific permissions සහ restrictions define කළ හැකි අතර, firewall එක secure සහ efficient ලෙස manage කිරීමට උපකාරී වේ.
+
+**Administration Profiles මගින් කවුද මොන settings බලන්නද, වෙනස් කරන්නද කියන access control එක නිසි ලෙස manage කළ හැක.**
 
 ## Overview
 
-Administration profiles serve as templates that define the access rights and capabilities of administrators or administrative groups. Each profile specifies the level of access to various firewall functionalities, including configuration, monitoring, and management tasks.
+**Administration profiles කියන්නේ administrators හෝ administrative groups සඳහා access rights සහ capabilities define කරන templates වැනි දෙයක්.**
+එක් එක් profile එක මගින් firewall functionalities වලට ලබාදෙන access level එක තීරණය කරයි.
+
+**මෙයට configuration, monitoring සහ management tasks සඳහා users ලාට ලබාදෙන permissions ඇතුළත් වේ.**
 
 ## Key Components
 
 ### 1. Access Controls
 
-- **Permissions**: Administration profiles define permissions for different firewall functionalities, such as configuration changes, system settings, security policies, and VPN configurations.
-- **Granularity**: Profiles can be configured with granular access controls, allowing administrators to assign specific permissions based on their roles and responsibilities.
+* **Permissions:**
+  Administration profiles මගින් firewall functionalities සඳහා permissions define කරයි.
+  ඒවාට configuration changes, system settings, security policies සහ VPN configurations වැනි areas සඳහා access control ඇතුළත් වේ.
+
+* **Granularity:**
+  Administration profiles මගින් detailed level access controls configure කළ හැක.
+  එමගින් administrators ලාගේ roles සහ responsibilities අනුව specific permissions assign කිරීමට හැකියාව ලැබේ.
 
 ### 2. User Authentication
+* **Authentication Methods:**
+  Administration profiles මගින් administrators ලාගේ identity verify කිරීම සඳහා භාවිතා කරන authentication methods define කරයි.
+  ඒවාට local authentication, RADIUS, LDAP සහ TACACS+ වැනි methods ඇතුළත් වේ.
 
-- **Authentication Methods**: Administration profiles specify the authentication methods used to verify the identity of administrators, including local authentication, RADIUS, LDAP, or TACACS+.
-- **Authentication Servers**: Profiles can be configured to authenticate users against multiple authentication servers for redundancy and flexibility.
-
+* **Authentication Servers:**
+  Profiles මගින් users authenticate කිරීම සඳහා multiple authentication servers configure කළ හැක.
+  එමගින් redundancy සහ flexible authentication management ලබා ගත හැක.
+  
 ### 3. Administrative Privileges
+* **Role-based Access:**
+  Administration profiles මගින් role-based access control (RBAC) support කරයි.
+  එමගින් administrators ලාට ඔවුන්ගේ roles අනුව වෙනස් වෙනස් privilege levels assign කිරීමට හැකියාව ලැබේ.
 
-- **Role-based Access**: Administration profiles support role-based access control (RBAC), allowing administrators to assign different roles with varying levels of privileges.
-- **Super Administrators**: Super administrators have unrestricted access to all firewall functionalities and settings, while other administrators may have limited privileges based on their assigned profiles.
+* **Super Administrators:**
+  Super administrators ලාට firewall එකේ සියලුම functionalities සහ settings සඳහා full access (unrestricted access) ඇත.
+  අනෙක් administrators ලාට ඔවුන්ට assign කර ඇති administration profile අනුව limited privileges පමණක් ලබා දේ.
 
 ### 4. Session Management
 
-- **Session Limits**: Administration profiles can define session limits to control the number of concurrent administrative sessions allowed per user or group.
-- **Timeouts**: Profiles specify session timeouts to automatically log out inactive administrators, enhancing security and resource management.
+* **Session Limits:**
+  Administration profiles මගින් එක් එක් user හෝ group සඳහා එකවර open කළ හැකි administrative sessions ගණන limit කළ හැක.
+  එමගින් excessive access sessions control කර security වැඩි කරයි.
+
+* **Timeouts:**
+  Profiles මගින් inactive administrators automatically logout කිරීමට session timeout settings configure කළ හැක.
+  එමගින් security වැඩි වන අතර system resources නිසි ලෙස manage කිරීමට උපකාරී වේ.
 
 ## Configuration and Management
 
 ### 1. Profile Creation
 
-- **Creation**: Administration profiles are created and configured through the FortiGate firewall's web-based management GUI or Command Line Interface (CLI).
-- **Naming Conventions**: Profiles are assigned unique names for easy identification and management.
+* **Creation:**
+  Administration profiles FortiGate firewall එකේ web-based management GUI හෝ Command Line Interface (CLI) භාවිතා කර create සහ configure කළ හැක.
+
+* **Naming Conventions:**
+  Profiles සඳහා unique names ලබා දෙන අතර, එමගින් profiles පහසුවෙන් identify කර manage කිරීමට හැකියාව ලැබේ.
 
 ### 2. Profile Assignment
 
-- **Assignment to Administrators**: Once created, administration profiles are assigned to individual administrators or administrative groups based on their roles and responsibilities.
-- **Multiple Profiles**: Administrators can be assigned multiple profiles to accommodate complex access requirements.
+* **Assignment to Administrators:**
+  Administration profiles create කළ පසු, administrators හෝ administrative groups වල roles සහ responsibilities අනුව ඒවා assign කරයි.
+  එමගින් එක් එක් administrator ට අවශ්‍ය access level එක ලබා දිය හැක.
+
+* **Multiple Profiles:**
+  Complex access requirements සඳහා administrators ලාට multiple administration profiles assign කළ හැක.
+  එමගින් විවිධ permissions සහ access levels එකට manage කිරීමට හැකියාව ලැබේ.
 
 ## Demo:
 
@@ -463,7 +560,12 @@ Administration profiles serve as templates that define the access rights and cap
 
 Note:
 
-The idle timeout period is **the amount of time that an administrator will stay logged in to the GUI without any activity**. This is to prevent someone from accessing the FortiGate if the management PC is left unattended. By default, it is set to five minutes.
+**Idle Timeout Period කියන්නේ administrator කෙනෙක් GUI එකට login වී කිසිදු activity එකක් නොකර සිටින විට, session එක active ලෙස පවතින කාලයයි.**
+
+මෙය භාවිතා කරන්නේ management PC එක unattended ලෙස තබා ගිය අවස්ථාවක වෙනත් කෙනෙකුට FortiGate access කිරීම වැළැක්වීමටයි.
+
+**FortiGate default idle timeout value එක සාමාන්‍යයෙන් මිනිත්තු 5ක් වේ.**
+එම කාලය තුළ කිසිදු activity එකක් නොමැති නම් administrator session එක automatically logout වේ.
 
 ![Untitled](fortigate-guide-images/Untitled%2015.png)
 
@@ -482,16 +584,35 @@ The idle timeout period is **the amount of time that an administrator will stay
 ![Untitled](fortigate-guide-images/Untitled%2019.png)
 
 ### **Summary:**
+**මෙම module එක මගින් FortiGate firewall පිළිබඳ මූලික හැඳින්වීමක් ලබා දෙන අතර, FortiGate product එකේ ප්‍රධාන කරුණු කිහිපයක් ආවරණය කරයි.**
 
-The module provided a basic introduction to FortiGate firewall, covering various aspects of the product:
+1. **Understanding Features of FortiGate:**
+   FortiGate firewall එකේ ප්‍රධාන features සහ capabilities පිළිබඳ විස්තර කරයි.
+   එහි advanced threat protection, network segmentation සහ secure connectivity වැනි security capabilities පැහැදිලි කරයි.
 
-1. **Understanding Features of FortiGate**: Explains the features and capabilities of FortiGate firewall, highlighting its advanced threat protection, network segmentation, and secure connectivity.
-2. **FortiGuard Queries & Packages**: Discusses FortiGuard services, including threat intelligence and security updates provided by Fortinet, enhancing the effectiveness of the firewall in detecting and preventing threats.
-3. **UTM Firewalls Features**: Describes UTM (Unified Threat Management) features of FortiGate, which include firewall, intrusion prevention, antivirus, web filtering, and application control, offering comprehensive protection against various cyber threats.
-4. **Platform Design and Architecture**: Explores the design and architecture of FortiGate firewall, including its processing units, security services, networking components, and management features.
-5. **About CLI**: Provides an overview of the FortiGate Command Line Interface (CLI), which allows administrators to configure, monitor, and troubleshoot the firewall using text-based commands.
-6. **Getting Mgmt GUI Access**: Details the steps to access the management GUI (Graphical User Interface) of FortiGate firewall, allowing administrators to configure and manage the firewall through a web-based interface.
-7. **About Administration Profiles**: Discusses administration profiles in FortiGate, which define access rights and privileges for administrators or administrative groups, ensuring secure and efficient management of the firewall.
+2. **FortiGuard Queries & Packages:**
+   FortiGuard services පිළිබඳ අවබෝධයක් ලබා දෙයි.
+   Fortinet මගින් ලබාදෙන threat intelligence සහ security updates භාවිතා කර firewall එකේ threat detection සහ prevention capabilities වැඩි කරන ආකාරය පැහැදිලි කරයි.
+
+3. **UTM Firewalls Features:**
+   FortiGate UTM (Unified Threat Management) firewall එකක් ලෙස ලබාදෙන features පිළිබඳ විස්තර කරයි.
+   Firewall, IPS, Antivirus, Web Filtering සහ Application Control වැනි security features එකම platform එකකින් ලබා දෙන ආකාරය පැහැදිලි කරයි.
+
+4. **Platform Design and Architecture:**
+   FortiGate firewall එකේ design සහ architecture පිළිබඳ අවබෝධයක් ලබා දෙයි.
+   Processing units, security services, networking components සහ management features ක්‍රියා කරන ආකාරය පැහැදිලි කරයි.
+
+5. **About CLI:**
+   FortiGate Command Line Interface (CLI) පිළිබඳ හැඳින්වීමක් ලබා දෙයි.
+   Text-based commands භාවිතා කර firewall configure කිරීම, monitor කිරීම සහ troubleshooting කිරීම සඳහා CLI භාවිතා කරන ආකාරය පැහැදිලි කරයි.
+
+6. **Getting Mgmt GUI Access:**
+   FortiGate management GUI (Graphical User Interface) access ලබා ගැනීමේ ක්‍රියාවලිය පැහැදිලි කරයි.
+   Web-based interface එක භාවිතා කර firewall configure සහ manage කරන ආකාරය මෙහිදී ඉගෙන ගනී.
+
+7. **About Administration Profiles:**
+   FortiGate administration profiles පිළිබඳ විස්තර කරයි.
+   Administrators හෝ administrative groups සඳහා access rights සහ privileges define කර secure සහ efficient firewall management ලබා දෙන ආකාරය පැහැදිලි කරයි.
 
 ---
 
@@ -504,23 +625,45 @@ The module provided a basic introduction to FortiGate firewall, covering various
 
 ![Untitled](fortigate-guide-images/Untitled%2020.png)
 
-Table of contents: 
+### **Table of Contents:**
 
-- Basic Interface Configuration
-- configure static and dynamic routing
-- Configuring DHCP
-- Basic Firewall Policies
-- Network Address Translation - Fortigate
-- Virtual Wire configuration
+* **Basic Interface Configuration:**
+  FortiGate network interfaces configure කිරීම පිළිබඳව ඉගෙන ගනී.
+  IP addressing, interface settings සහ network connectivity සඳහා අවශ්‍ය basic configurations මෙහිදී ආවරණය කරයි.
+
+* **Configure Static and Dynamic Routing:**
+  FortiGate තුළ static සහ dynamic routing configure කරන ආකාරය පැහැදිලි කරයි.
+  Different network segments අතර traffic forward කිරීම සහ routing protocols භාවිතා කරන ආකාරය මෙහිදී ඉගෙන ගනී.
+
+* **Configuring DHCP:**
+  FortiGate DHCP service configure කිරීම පිළිබඳව අවබෝධයක් ලබා දෙයි.
+  Network clients සඳහා automatic IP address assignment සහ DHCP settings manage කිරීම මෙහිදී ආවරණය කරයි.
+
+* **Basic Firewall Policies:**
+  FortiGate firewall policies create සහ configure කිරීම පිළිබඳව පැහැදිලි කරයි.
+  Source, destination, service සහ security rules භාවිතා කර network traffic control කරන ආකාරය මෙහිදී ඉගෙන ගනී.
+
+* **Network Address Translation (NAT) - FortiGate:**
+  FortiGate තුළ NAT functionality පිළිබඳව විස්තර කරයි.
+  Private IP addresses සහ public IP addresses අතර traffic translation, internet access සහ address management කරන ආකාරය පැහැදිලි කරයි.
+
+* **Virtual Wire Configuration:**
+  FortiGate Virtual Wire mode configuration පිළිබඳව අවබෝධයක් ලබා දෙයි.
+  IP addressing changes නොකර firewall inspection සහ security policies apply කරන ආකාරය මෙහිදී ඉගෙන ගනී.
+
 
 # **I. Basic Interface Configuration**
 
-Configuring interfaces on a FortiGate firewall is essential for establishing network connectivity and defining traffic flow. Here's a detailed guide on how to perform basic interface configuration using commands:
+**FortiGate firewall එකේ interfaces configure කිරීම network connectivity establish කිරීමට සහ traffic flow define කිරීමට අත්‍යවශ්‍ය වේ.**
+
+**Interface configuration මගින් IP addressing, interface settings සහ network communication සඳහා අවශ්‍ය basic parameters configure කළ හැක.**
+
+**මෙහිදී commands භාවිතා කර FortiGate interfaces configure කරන ආකාරය පැහැදිලි කරයි.**
 
 ## 1.  Connect to the FortiGate Firewall
 
-Before configuring interfaces, establish a connection to the FortiGate firewall using SSH or through the console port directly connected to the firewall device.
- 
+**Interface configure කිරීමට පෙර FortiGate firewall එකට connection එක establish කළ යුතුය.**
+මෙය SSH භාවිතා කර remote access මගින් හෝ firewall device එකට direct connect කර ඇති console port එක හරහා සිදු කළ හැක. 
 
 ```markdown
 
@@ -530,7 +673,10 @@ ssh admin@<firewall_ip_address>
 
 ## 2. Enter Configuration Mode
 
-Enter configuration mode to make changes to the firewall's configuration. You will need to enter the global configuration context to configure interfaces.
+**FortiGate interface configuration කිරීමට පෙර configuration mode එකට enter විය යුතුය.**
+මෙය firewall එකේ global configuration context එකට පිවිසීමෙන් සිදු කරයි.
+
+**මෙම mode එක තුළ සිටින විට interfaces, routing, policies වැනි system-wide settings modify කිරීමට හැකියාව ලැබේ.**
 
 ```
 # Enter global configuration mode
@@ -540,7 +686,10 @@ config system global
 
 ## 3. Configure Physical Interfaces
 
-FortiGate firewalls have physical interfaces (e.g., Ethernet ports) that connect to the network. Configure the desired physical interfaces with appropriate IP addresses and other settings.
+**FortiGate firewall එකේ physical interfaces (උදා: Ethernet ports) network එකට connect වීමට භාවිතා වේ.**
+මෙම interfaces වලට appropriate IP addresses සහ අනෙකුත් අවශ්‍ය settings configure කළ යුතුය.
+
+**එමගින් network connectivity establish කර traffic flow නිවැරදිව control කිරීමට හැකියාව ලැබේ.**
 
 ```
 # Example command to configure physical interface
@@ -554,7 +703,9 @@ end
 
 ## 4. Configure VLAN Interfaces (Optional)
 
-If VLANs (Virtual Local Area Networks) are used to segment the network, configure VLAN interfaces and assign them to the desired physical interfaces.
+**Network segmentation සඳහා VLANs (Virtual Local Area Networks) භාවිතා කරනවා නම්, VLAN interfaces configure කර ඒවා appropriate physical interfaces වලට assign කළ යුතුය.**
+
+**එමගින් network එක logically segment කර traffic isolation, security සහ better performance ලබා ගැනීමට හැකියාව ලැබේ.**
 
 ```
 # Example command to configure VLAN interface
@@ -569,7 +720,10 @@ end
 
 ## 5. Configure Virtual Interfaces (Optional)
 
-Virtual interfaces such as loopback interfaces can be configured for various purposes, such as management or routing.
+**Loopback interfaces වැනි virtual interfaces විවිධ අරමුණු සඳහා configure කළ හැක.**
+ඒවා සාමාන්‍යයෙන් management access, routing stability සහ testing purposes සඳහා භාවිතා වේ.
+
+**මෙම virtual interfaces physical ports වලින් ස්වාධීනව ක්‍රියා කරන අතර, network configuration වල flexibility වැඩි කිරීමට උපකාරී වේ.**
 
 ```
 # Example command to configure loopback interface
@@ -583,7 +737,8 @@ end
 
 ## 6. Configure Default Gateway
 
-Specify the default gateway for the firewall to enable outbound traffic routing to external networks.
+**Firewall එකෙන් external networks වෙත outbound traffic route කිරීමට default gateway එක specify කළ යුතුය.**
+එමගින් FortiGate එකට local network එකෙන් පිටත networks (internet හෝ other WAN networks) සමඟ communication කිරීමේ හැකියාව ලැබේ.
 
 ```
 # Example command to configure default gateway
@@ -596,7 +751,8 @@ end
 
 ## 7. Save Configuration Changes
 
-Save the configuration changes to persist them across reboots.
+**Configuration changes reboot වලින් පසුවත් retain (persist) වීමට save කළ යුතුය.**
+එමගින් FortiGate firewall එක restart කළ පසුත් කලින් කළ settings නැවත නැති නොවී පවතී.
 
 ```
 # Save configuration
@@ -605,9 +761,17 @@ end
 
 ## 8. Considerations
 
-- **Interface Naming**: Use meaningful names for interfaces to easily identify their purpose and location.
-- **Security Policies**: After configuring interfaces, create firewall policies to control traffic flow between interfaces and enforce security rules.
-- **Monitoring**: Regularly monitor interface status and traffic to detect any issues or anomalies.
+* **Interface Naming:**
+  Interfaces සඳහා meaningful names භාවිතා කළ යුතුය.
+  එමගින් එක් එක් interface එකේ purpose සහ location පහසුවෙන් හඳුනාගැනීමට හැකියාව ලැබේ.
+
+* **Security Policies:**
+  Interfaces configure කිරීමෙන් පසු firewall policies create කර interfaces අතර traffic flow control කළ යුතුය.
+  එමගින් security rules enforce කර network protection වැඩි කරයි.
+
+* **Monitoring:**
+  Interfaces status සහ traffic regularly monitor කළ යුතුය.
+  එමගින් issues හෝ anomalies detect කර timely troubleshooting කිරීම පහසු වේ.
 
 ## **Demo:**
 
@@ -623,12 +787,12 @@ The Management Interface Configurations we have done through CLI:
 
 Steps:
 
-- Add Alias LAN or any meaningful name to identify the LAN
-- Set the role as LAN as per our Topology.
-- Select Manual and assign IP for interface(port2)
-- Allow the only required Protocols
-- Make sure the Interface status is Enabled.
-- Save the configurations by clicking OK.
+* **Alias:** LAN හෝ වෙනත් meaningful name එකක් දී interface එක පහසුවෙන් identify කළ හැකි ලෙස set කරන්න.
+* **Role:** අපගේ topology එක අනුව interface role එක LAN ලෙස select කරන්න.
+* **IP Configuration:** Manual mode select කර port2 interface එකට IP address එක assign කරන්න.
+* **Allowed Protocols:** අවශ්‍ය වන protocols පමණක් allow කරන්න.
+* **Interface Status:** Interface එක enabled (active) බව තහවුරු කරන්න.
+* **Save Configuration:** OK click කර configuration changes save කරන්න.
 
 ![Untitled](fortigate-guide-images/Untitled%2023.png)
 
@@ -679,11 +843,16 @@ show system interface
 
 # **II. Configuring Static and Dynamic Routing on FortiGate Firewall**
 
-Routing is a critical function in network devices like FortiGate firewalls, enabling the forwarding of traffic between different networks. Here's a detailed guide on how to configure static and dynamic routing using commands:
+**Routing කියන්නේ FortiGate වැනි network devices වල අත්‍යවශ්‍ය function එකක්.**
+මෙය different networks අතර traffic forward කිරීම සඳහා භාවිතා වේ.
+
+**Static සහ Dynamic routing configure කිරීම මගින් network segments අතර efficient සහ reliable connectivity ලබා ගත හැක.**
+මෙහිදී commands භාවිතා කර routing configuration කරන ආකාරය පැහැදිලි කරයි.
 
 ## 1. Connect to the FortiGate Firewall
 
-Before configuring routing, establish a connection to the FortiGate firewall using SSH or through the console port directly connected to the firewall device.
+**Routing configure කිරීමට පෙර FortiGate firewall එකට connection එක establish කළ යුතුය.**
+මෙය SSH භාවිතා කර remote access මගින් හෝ firewall device එකට direct connect කර ඇති console port එක හරහා සිදු කළ හැක.
 
 ```
 # Example SSH command to connect to the FortiGate firewall
@@ -693,8 +862,10 @@ ssh admin@<firewall_ip_address>
 
 ## 2. Enter Configuration Mode
 
-Enter configuration mode to make changes to the firewall's configuration. You will need to enter the global configuration context to configure routing.
+**FortiGate routing configuration කිරීමට පෙර configuration mode එකට enter විය යුතුය.**
+මෙය global configuration context එකට පිවිසීමෙන් සිදු කරයි.
 
+**මෙම mode එක තුළ සිටින විට static සහ dynamic routing settings configure කිරීමට අවශ්‍ය commands භාවිතා කළ හැක.**
 ```
 # Enter global configuration mode
 config system global
@@ -703,7 +874,9 @@ config system global
 
 ## 3. Configure Static Routes
 
-Static routes are manually configured routes that define the next-hop IP address for destinations not directly connected to the firewall.
+**Static routes කියන්නේ manually configure කරන routes වන අතර, firewall එකට directly connect නොවූ destinations සඳහා next-hop IP address එක define කරයි.**
+
+**එමගින් FortiGate එකට unknown networks වෙත traffic යවන විට ඒවා proper gateway එක හරහා forward කිරීමට හැකියාව ලැබේ.**
 
 ```
 # Example command to configure a static route
@@ -717,7 +890,9 @@ end
 
 ## 4. Configure Dynamic Routing Protocols
 
-FortiGate firewalls support dynamic routing protocols such as OSPF (Open Shortest Path First) and BGP (Border Gateway Protocol) for dynamic route exchange and network convergence.
+**FortiGate firewalls මගින් OSPF (Open Shortest Path First) සහ BGP (Border Gateway Protocol) වැනි dynamic routing protocols support කරයි.**
+
+**මෙම protocols භාවිතා කර dynamic route exchange සහ network convergence සිදු කරමින් multiple networks අතර automatic routing updates ලබා දේ.**
 
 ### 4.1. OSPF Configuration
 
@@ -753,7 +928,9 @@ end
 
 ## 5. Verify Routing Configuration
 
-After configuring static and dynamic routing, verify the routing table and routing protocol status to ensure correct configuration.
+**Static සහ dynamic routing configure කිරීමෙන් පසු routing table සහ routing protocol status verify කළ යුතුය.**
+
+**එමගින් routes නිවැරදිව add වී ඇතිද, traffic proper paths හරහා forward වෙනවාද කියලා තහවුරු කරගත හැක.**
 
 ```
 # Example command to view routing table
@@ -769,7 +946,8 @@ get router info bgp neighbor
 
 ## 6. Save Configuration Changes
 
-Save the configuration changes to persist them across reboots.
+**Configuration changes reboot වලින් පසුවත් retain (persist) වීමට save කළ යුතුය.**
+එමගින් FortiGate firewall එක restart කළ පසුත් routing configurations නැවත නැති නොවී පවතී.
 
 ```
 # Save configuration
@@ -777,10 +955,17 @@ end
 ```
 
 ## 7. Considerations
+* **Route Summarization:**
+  Route summarization භාවිතා කර routing table size එක අඩු කර routing efficiency වැඩි කළ යුතුය.
+  එමගින් network routing more optimized සහ manageable වේ.
 
-- **Route Summarization**: Use route summarization to reduce the size of the routing table and optimize routing efficiency.
-- **Redundancy**: Implement redundancy and failover mechanisms such as ECMP (Equal-Cost Multi-Path) and HA (High Availability) to ensure network availability and reliability.
-- **Security Policies**: After configuring routing, create appropriate firewall policies to control traffic flow between networks and enforce security rules.
+* **Redundancy:**
+  ECMP (Equal-Cost Multi-Path) සහ HA (High Availability) වැනි redundancy සහ failover mechanisms implement කළ යුතුය.
+  එමගින් network availability සහ reliability වැඩි කර continuous connectivity සහතික කරයි.
+
+* **Security Policies:**
+  Routing configure කිරීමෙන් පසු networks අතර traffic control කිරීමට appropriate firewall policies create කළ යුතුය.
+  එමගින් security rules enforce කර network protection සහ access control maintain කරයි.
 
 ## **Demo:**
 
@@ -788,7 +973,9 @@ end
 
 ![Untitled](fortigate-guide-images/Untitled%2025.png)
 
-**We can configure the Static Route towards Our Wifi Router/GW to get the internet access.**
+**අපගේ WiFi Router/Gateway (GW) එකට Static Route එකක් configure කිරීමෙන් internet access ලබා ගත හැක.**
+
+**එමගින් FortiGate firewall එකෙන් outbound traffic WiFi router/gateway එක හරහා internet වෙත properly route කිරීමට හැකියාව ලැබේ.**
 
 Steps:
 
@@ -807,12 +994,20 @@ Steps:
 **To configure dynamic routing protocols like RIPv2, OSPF, BGP**
 
 Steps to configure RIPv2:
+* **Select the required version:**
+  OSPF වැනි routing protocol සඳහා අවශ්‍ය version එක select කළ යුතුය.
 
-- select the required version
-- and enter the network/subnet that you want
-- if any passive interface or authentication is configured make sure that match the md5 key.
-- make sure that the Hello and Hold timers are matching.
-- If any redistribute want to do turn on the toggle-specific protocol.
+* **Enter network/subnet:**
+  Advertise කිරීමට අවශ්‍ය network හෝ subnet range එක specify කළ යුතුය.
+
+* **Authentication (MD5):**
+  Passive interface හෝ authentication enable කර ඇති නම් MD5 key එක දෙපැත්තේම match වන බව තහවුරු කළ යුතුය.
+
+* **Hello & Hold Timers:**
+  Neighbors අතර Hello සහ Hold timers එකම values වලින් configure කර ඇති බව confirm කළ යුතුය.
+
+* **Redistribution:**
+  Other routing protocols වල routes share කිරීමට අවශ්‍ය නම් specific protocol redistribution option enable (toggle) කළ යුතුය.
 
 ![Untitled](fortigate-guide-images/Untitled%2028.png)
 
@@ -822,11 +1017,16 @@ Steps to configure RIPv2:
 
 # **III. Configuring DHCP Server Pool for LAN Interface on FortiGate Firewall**
 
-Configuring a DHCP server pool on the LAN interface of a FortiGate firewall allows local users to obtain IP addresses automatically, simplifying network management. Here's a detailed guide on how to configure the DHCP server pool for local users:
+**FortiGate firewall එකේ LAN interface එකට DHCP server pool එක configure කිරීමෙන් local users ලාට automatically IP addresses ලබා ගත හැක.**
+
+**මෙය network management සරල කරන අතර manual IP configuration අවශ්‍යතාව අඩු කරයි.**
+
+**මෙහිදී LAN users සඳහා DHCP server pool එක configure කරන ආකාරය පැහැදිලි කරයි.**
 
 ## 1. Connect to the FortiGate Firewall
 
-Before configuring DHCP, establish a connection to the FortiGate firewall using SSH or through the console port directly connected to the firewall device.
+**DHCP configure කිරීමට පෙර FortiGate firewall එකට connection එක establish කළ යුතුය.**
+මෙය SSH භාවිතා කර remote access මගින් හෝ firewall device එකට direct connect කර ඇති console port එක හරහා සිදු කළ හැක.
 
 ```
 # Example SSH command to connect to the FortiGate firewall
@@ -835,7 +1035,10 @@ ssh admin@<firewall_ip_address>
 
 ## 2. Enter Configuration Mode
 
-Enter configuration mode to make changes to the firewall's configuration. You will need to enter the system interface context to configure the LAN interface.
+**FortiGate firewall එකේ DHCP configuration කිරීමට පෙර configuration mode එකට enter විය යුතුය.**
+මෙය system interface context එකට පිවිසීමෙන් LAN interface එක configure කිරීම සඳහා අවශ්‍ය වේ.
+
+**මෙම mode එක තුළ සිට LAN interface settings සහ DHCP server configuration කළ හැක.**
 
 ```
 # Enter system interface configuration mode
@@ -845,7 +1048,9 @@ config system interface
 
 ## 3. Configure LAN Interface
 
-If not already configured, configure the LAN interface with an IP address and subnet mask.
+**LAN interface එක already configure කර නොමැති නම්, එයට IP address එකක් සහ subnet mask එකක් assign කළ යුතුය.**
+
+**මෙම configuration මගින් LAN network එකට proper connectivity ලබා දෙන අතර DHCP සහ අනෙකුත් services නිවැරදිව ක්‍රියා කිරීමට අවශ්‍ය base setup එක සකස් කරයි.**
 
 ```
 # Example command to configure LAN interface
@@ -859,18 +1064,22 @@ edit <lan_interface_name>
 end
 
 ```
+**DHCP configuration parameters explained (FortiGate LAN DHCP pool):**
 
-- `<lan_interface_name>`: Name of the LAN interface (e.g., "lan").
-- `<ip_address>`: IP address of the LAN interface.
-- `<subnet_mask>`: Subnet mask of the LAN interface.
-- `<lease_time_in_seconds>`: Lease time for IP addresses (in seconds).
-- `<gateway_ip_address>`: Default gateway IP address for DHCP clients.
-- `<start_ip_address>`: Start IP address of the DHCP IP pool.
-- `<end_ip_address>`: End IP address of the DHCP IP pool.
+* **`<lan_interface_name>`:** LAN interface එකේ name එක (උදා: `"lan"`).
+* **`<ip_address>`:** LAN interface එකට assign කරන IP address එක.
+* **`<subnet_mask>`:** LAN network එකේ subnet mask එක.
+* **`<lease_time_in_seconds>`:** DHCP IP addresses වල lease time (seconds වලින්).
+* **`<gateway_ip_address>`:** DHCP clients සඳහා default gateway IP address එක.
+* **`<start_ip_address>`:** DHCP IP pool එකේ පළමු IP address එක.
+* **`<end_ip_address>`:** DHCP IP pool එකේ අවසාන IP address එක.
+
 
 ## 4. Configure DNS Server (Optional)
 
-Optionally, configure DNS server settings for DHCP clients.
+**Optional ලෙස DHCP clients සඳහා DNS server settings configure කළ හැක.**
+
+**එමගින් clients ලාට domain names resolve කිරීමට (websites access කිරීමට) DNS servers automatically ලබා දෙන අතර network usage පහසු වේ.**
 
 ```
 # Example command to configure DNS server for DHCP clients
@@ -880,7 +1089,8 @@ set dhcp-server-option dns-server <dns_server_ip_address>
 
 ## 5. Save Configuration Changes
 
-Save the configuration changes to persist them across reboots.
+**Configuration changes reboot වලින් පසුවත් retain (persist) වීමට save කළ යුතුය.**
+එමගින් FortiGate firewall එක restart කළ පසුත් DHCP settings නැති නොවී පවතී.
 
 ```
 # Save configuration
@@ -889,21 +1099,43 @@ end
 
 ## 6. Considerations
 
-- **DHCP Lease Time**: Adjust the DHCP lease time based on network requirements and usage patterns.
-- **IP Address Range**: Ensure that the DHCP IP address range does not overlap with statically assigned IP addresses or other DHCP pools.
-- **DNS Configuration**: Provide accurate DNS server information to DHCP clients for name resolution.
-- **Security**: Limit access to DHCP configuration and ensure proper firewall policies are in place to protect the DHCP service from unauthorized access.
+* **DHCP Lease Time:**
+  Network requirements සහ usage pattern අනුව DHCP lease time adjust කළ යුතුය.
+  එමගින් IP address allocation efficiency සහ network performance optimize කළ හැක.
+
+* **IP Address Range:**
+  DHCP IP address range එක static IP addresses හෝ වෙනත් DHCP pools සමඟ overlap නොවන බව තහවුරු කළ යුතුය.
+  එමගින් IP conflict සහ network issues වැළැක්විය හැක.
+
+* **DNS Configuration:**
+  DHCP clients සඳහා accurate DNS server information ලබා දිය යුතුය.
+  එමගින් domain name resolution සහ internet access නිවැරදිව ක්‍රියා කරයි.
+
+* **Security:**
+  DHCP configuration access restrict කළ යුතු අතර appropriate firewall policies apply කර DHCP service එක unauthorized access වලින් ආරක්ෂා කළ යුතුය.
+
 
 ## **Demo:**
 
 **To configure the DHCP server go to Network —> Interface —> port2(LAN)**
+* **Enable DHCP Server:**
+  DHCP server toggle එක enable කළ යුතුය.
 
-- enable the DHCP server toggle
-- set the IP range by excluding the static IP- to avoid the conflict of IP's
-- set the netmask and default gateway as interface IP
-- set the DNS server addresses- any
-- set the lease time as your requirement
-- set apply to save the config.
+* **IP Range Configuration:**
+  IP address conflict avoid කිරීම සඳහා static IP addresses exclude කර DHCP IP range එක set කළ යුතුය.
+
+* **Netmask & Default Gateway:**
+  Netmask සහ default gateway ලෙස interface IP address එක assign කළ යුතුය.
+
+* **DNS Server:**
+  DNS server addresses set කළ හැක (any valid DNS servers).
+
+* **Lease Time:**
+  Network requirement අනුව DHCP lease time configure කළ යුතුය.
+
+* **Apply Configuration:**
+  සියලු settings apply කර configuration save කළ යුතුය.
+
 
 ![Untitled](fortigate-guide-images/Untitled%2030.png)
 
@@ -911,47 +1143,87 @@ end
 
 # **IV. FortiGate Firewall: Basic Firewall Policies Configuration and Theory**
 
-Firewall policies on the FortiGate firewall define how traffic is allowed or denied between different network segments. Understanding basic firewall policy configurations and the theory behind rule-by-fault behavior is essential for effective network security. Here's a detailed explanation:
+**FortiGate firewall policies මගින් different network segments අතර traffic allow හෝ deny කරන ආකාරය define කරයි.**
+
+**Basic firewall policy configuration සහ rule-by-default behavior පිළිබඳව අවබෝධය network security effectively manage කිරීමට ඉතා වැදගත් වේ.**
+
+**මෙහිදී firewall policies ක්‍රියා කරන ආකාරය සහ traffic control කරන basic concepts පැහැදිලි කරයි.**
 
 ## 1. Firewall Policies Overview
 
-Firewall policies are rules that dictate the flow of traffic through the firewall. Each policy consists of conditions, actions, and security profiles. Policies are evaluated in sequence, and the first matching policy is applied to the traffic.
+**Firewall policies කියන්නේ firewall එක හරහා යන traffic flow එක control කරන rules වේ.**
+
+**එක් එක් policy එක conditions (criteria), actions සහ security profiles වලින් සමන්විත වේ.**
+
+**Policies sequentially evaluate කරන අතර, traffic එකට match වෙන පළමු policy එක apply වේ.**
 
 ## 2. Basic Firewall Policy Configuration
 
 ### 2.1. Policy Conditions
+* **Source and Destination:**
+  Traffic එක සඳහා source සහ destination IP addresses හෝ address groups define කළ යුතුය.
 
-- **Source and Destination**: Specify the source and destination IP addresses or address groups for the traffic.
-- **Service**: Define the protocol and port number or service group used by the traffic.
-- **Schedule**: Optionally, restrict when the policy is active based on a defined schedule.
-- **Action**: Specify whether the traffic is allowed, denied, or logged.
+* **Service:**
+  Traffic එක භාවිතා කරන protocol සහ port number හෝ service group එක specify කළ යුතුය.
+
+* **Schedule:**
+  Policy එක active විය යුතු කාලය define කර optional ලෙස time-based restriction apply කළ හැක.
+
+* **Action:**
+  Traffic එක allow, deny හෝ log කරනවාද කියලා specify කළ යුතුය.
 
 ### 2.2. Policy Actions
 
-- **Accept**: Allow the traffic to pass through the firewall.
-- **Deny**: Block the traffic and generate a log entry.
-- **Monitor**: Log the traffic but allow it to pass through the firewall.
+* **Accept:**
+  Traffic එක firewall එක හරහා pass වීමට allow කරයි.
+
+* **Deny:**
+  Traffic එක block කරන අතර log entry එකක් generate කරයි.
+
+* **Monitor:**
+  Traffic එක log කරයි, නමුත් firewall එක හරහා pass වීමට allow කරයි.
 
 ### 2.3. Security Profiles
+* **Antivirus:**
+  Files scan කර viruses සහ malware detect කර block කිරීමට භාවිතා වේ.
 
-- **Antivirus**: Scan files for viruses and malware.
-- **Intrusion Prevention System (IPS)**: Detect and prevent network-based attacks.
-- **Web Filtering**: Block access to malicious or inappropriate websites.
-- **Application Control**: Control access to specific applications and protocols.
+* **Intrusion Prevention System (IPS):**
+  Network-based attacks detect කර prevent කිරීමට භාවිතා වේ.
+
+* **Web Filtering:**
+  Malicious හෝ inappropriate websites වලට access block කිරීමට භාවිතා වේ.
+
+* **Application Control:**
+  Specific applications සහ protocols වලට access control කිරීමට භාවිතා වේ.
 
 ## 3. Theory: Rule by Default Behavior
 
-FortiGate firewall follows the rule by default behavior, where traffic that does not match any firewall policy is implicitly denied by default. This behavior ensures that only explicitly permitted traffic is allowed to traverse the firewall, enhancing network security.
+**FortiGate firewall එක rule-by-default behavior එක follow කරයි.**
+ඒ අනුව firewall policies කිසිවකට match නොවන traffic එක default ලෙස implicitly deny කරයි.
+
+**මෙම behavior එක නිසා explicitly allow කර ඇති traffic පමණක් firewall එක හරහා pass වීමට ඉඩ ලැබේ. එමගින් network security වැඩි වේ.**
 
 ## 4. Implicit Deny All Policy
 
-By default, FortiGate firewall includes an implicit "Deny All" policy at the end of the policy list. This policy denies all traffic that does not match any preceding policy. Administrators can modify this behavior by adding specific allow policies above the "Deny All" policy.
+**By default, FortiGate firewall එකේ policy list එකේ අවසානයේ implicit “Deny All” policy එකක් ඇත.**
+
+**මෙය කිසිදු existing policy එකකට match නොවන traffic සියල්ල deny කරයි.**
+
+**Administrators ලට specific allow policies create කර “Deny All” policy එකට ඉහළින් place කිරීමෙන් required traffic allow කර මෙම behavior control කළ හැක.**
 
 ## 5. Best Practices
 
-- **Rule Ordering**: Arrange firewall policies from most specific to least specific to ensure that traffic matches the intended policy.
-- **Logging**: Enable logging for deny actions to monitor and analyze network traffic effectively.
-- **Regular Review**: Periodically review and update firewall policies to adapt to changes in network requirements and security threats.
+* **Rule Ordering:**
+  Firewall policies most specific සිට least specific ලෙස arrange කළ යුතුය.
+  එමගින් traffic එක intended policy එකට නිවැරදිව match වීම සහතික වේ.
+
+* **Logging:**
+  Deny actions සඳහා logging enable කළ යුතුය.
+  එමගින් network traffic monitor කර analyze කිරීම පහසු වේ.
+
+* **Regular Review:**
+  Firewall policies regularly review සහ update කළ යුතුය.
+  එමගින් network requirements සහ security threats වල වෙනස්කම් වලට adapt වීමට හැකියාව ලැබේ.
 
 ## 6. Example Configuration
 
@@ -972,22 +1244,39 @@ end
 ## **Demo:**
 
 **To configure policy go to Policy & Objects —> Firewall Policy**
+* **Default Policy:**
+  FortiGate firewall එකේ default ලෙස “Implicit Deny” policy එකක් තිබේ.
 
-- There will be one by default policy present - Implicit deny
-- by clicking create new we can create a new policy on top of Implicit deny.
-- It will override the Implicit deny policy.
-- For example any traffic does not match with configured policy, it will discards the packet as per the implicit deny policy.
+* **Create New Policy:**
+  “Create New” click කිරීමෙන් Implicit Deny එකට ඉහළින් new policy එකක් create කළ හැක.
+
+* **Policy Priority:**
+  මෙම new policy එක, Implicit Deny behavior එක override කරන ආකාරයෙන් work කරයි.
+
+* **Traffic Behavior:**
+  Config කර ඇති කිසිදු policy එකකට match නොවන traffic සියල්ල, Implicit Deny policy එක අනුව discard (block) කරයි.
 
 ![Untitled](fortigate-guide-images/Untitled%2032.png)
 
 **To enable the traffic for LAN —> WAN**
+* **Name:**
+  Policy එකේ purpose එක identify කළ හැකි meaningful name එකක් assign කරන්න.
 
-- give the meaningful name for ‘Name’ to identify the purpose of the policy.
-- make sure you have selected LAN and WAN interfaces as incoming and outgoing interfaces respectively.
-- Source, Destination, and Services set to “all” Initially set it as all, for learning - once you are clear with concepts apply the specific one.
-- allow the NAT.
-- if you want to see the logs, enable the Log Allowd Traffic. - “All Sessions”
-- also, traffic should be allowed on both sides, so we have to configure the reverse Policy inorder to get the communication. WAN —> LAN (only limited access)
+* **Interfaces:**
+  Incoming ලෙස LAN interface එකත්, outgoing ලෙස WAN interface එකත් select කළ යුතුය.
+
+* **Source / Destination / Services:**
+  Initial learning stage එකේදී “all” ලෙස set කළ හැක.
+  Concept clear වුණ පසු specific values apply කළ යුතුය.
+
+* **NAT:**
+  Internet access සඳහා NAT enable කළ යුතුය.
+
+* **Logging:**
+  Traffic logs view කිරීමට “Log Allowed Traffic” enable කර “All Sessions” select කළ යුතුය.
+
+* **Reverse Policy:**
+  Communication both directions වලට අවශ්‍ය නිසා reverse policy එකක් configure කළ යුතුය (WAN → LAN, limited access).
 
 ![Untitled](fortigate-guide-images/Untitled%2033.png)
 
@@ -999,17 +1288,27 @@ end
 
 ## 1. Theory of NAT (Network Address Translation)
 
-NAT is a technique used to modify network address information in packet headers while in transit through a router or firewall. It serves several purposes, including conserving IP addresses, enabling connectivity between different network types, and enhancing network security by hiding internal IP addresses.
+**NAT (Network Address Translation) කියන්නේ packet එක router හෝ firewall එක හරහා යන අතරතුර network address information modify කරන technique එකක්.**
 
-- **Types of NAT**:
-    - **Source NAT (SNAT)**: Modifies the source IP address of outgoing packets, typically used for outbound internet access.
-    - **Destination NAT (DNAT)**: Modifies the destination IP address of incoming packets, commonly used for inbound services such as web servers or email servers.
+**මෙය IP addresses conserve කිරීමට, different network types අතර connectivity enable කිරීමට, සහ internal IP addresses hide කර network security improve කිරීමට භාවිතා වේ.**
+
+* **Types of NAT:**
+
+  * **Source NAT (SNAT):**
+    Outgoing packets වල source IP address modify කරයි.
+    සාමාන්‍යයෙන් internet access (outbound traffic) සඳහා භාවිතා වේ.
+
+  * **Destination NAT (DNAT):**
+    Incoming packets වල destination IP address modify කරයි.
+    Web servers, email servers වැනි inbound services සඳහා commonly භාවිතා වේ.
 
 ## 2. Configuration of NAT on FortiGate Firewall
 
 ### 2.1. Static NAT Configuration (1-to-1 NAT)
 
-Static NAT maps a public IP address to a private IP address on a one-to-one basis, allowing external hosts to initiate connections to internal hosts.
+**Static NAT කියන්නේ public IP address එකක් private IP address එකකට one-to-one ලෙස map කරන NAT type එකක්.**
+
+**එමගින් external hosts වලට internal hosts සමඟ direct connection initiate කිරීමට හැකියාව ලැබේ.**
 
 ```
 config firewall ippool
@@ -1031,7 +1330,9 @@ end
 
 ### 2.2. Port Forwarding Configuration
 
-Port forwarding redirects traffic from a specific port on the firewall's public IP address to an internal IP address and port.
+**Port forwarding කියන්නේ firewall එකේ public IP address එකේ specific port එකකට එන traffic එක internal IP address එකක් සහ port එකකට redirect කරන technique එකක්.**
+
+**මෙමගින් external users ලට internal services (උදා: web server, application server) access කිරීමට හැකියාව ලැබේ.**
 
 ```
 config firewall vip
@@ -1049,7 +1350,9 @@ end
 
 ## 3. Static IP Assignment
 
-Assigning a static IP address to a device ensures consistency and predictability in network configurations, particularly for devices requiring consistent access or services.
+**Static IP address එකක් device එකකට assign කිරීමෙන් network configuration වල consistency සහ predictability ලබා ගත හැක.**
+
+**මෙය constant access හෝ services අවශ්‍ය devices සඳහා (උදා: servers, printers) විශේෂයෙන් වැදගත් වේ.**
 
 ```
 config system interface
@@ -1063,7 +1366,9 @@ end
 
 ## 4. Interface IP Configuration
 
-Configuring IP addresses on interfaces enables communication between different network segments and defines the gateway for traffic leaving the subnet.
+**Interfaces වල IP addresses configure කිරීමෙන් different network segments අතර communication enable වේ.**
+
+**එමගින් subnet එකෙන් පිටතට යන traffic සඳහා gateway එක define කර network connectivity establish කරයි.**
 
 ```
 config system interface
@@ -1077,12 +1382,13 @@ end
 
 ## **Demo:**
 
-**By visiting Policy & Objects —> LAN-WAN policy**
+**Policy & Objects → LAN-WAN policy වෙත ගොස් NAT configure කළ යුතුය.**
 
-- NAT should be enabled.
-- Instead of Interface IP —> Use Dynamic IP Pool —> by clicking
-- we can able to select the types of NAT we want to perform.
-- Overload, One-to-One, Fixed Port Range - choose as per your requirement and apply it.
+* NAT enable කළ යුතුය.
+* Interface IP වෙනුවට “Dynamic IP Pool” select කර click කිරීමෙන් configure කළ හැක.
+* මෙහිදී perform කිරීමට අවශ්‍ය NAT type එක select කළ හැක.
+* Overload, One-to-One, Fixed Port Range වැනි options අතරින් requirement අනුව select කර apply කළ යුතුය.
+
 
 ![Untitled](fortigate-guide-images/Untitled%2036.png)
 
@@ -1090,7 +1396,9 @@ end
 
 ![Untitled](fortigate-guide-images/Untitled%2037.png)
 
-**If you want to Map the original protocol number with custom - you can do it by configuring the Protocol Option. Port Mapping.**
+**Original protocol number එක custom mapping එකකට map කිරීමට “Protocol Option” configuration භාවිතා කළ හැක.**
+
+**මෙය Port Mapping සමඟ combined ලෙස use කර specific protocol behaviors customize කිරීමට උපකාරී වේ.**
 
 ![Untitled](fortigate-guide-images/Untitled%2038.png)
 
@@ -1100,44 +1408,77 @@ end
 
 # **VI. Virtual Wire configuration**
 
-Certainly! FortiGate Virtual Wire (VW) is a feature that allows you to transparently insert security services, such as firewall policies and intrusion prevention systems (IPS), into the network without changing the IP addressing or topology. It operates at Layer 2 of the OSI model, meaning it doesn't require IP addresses to be changed, making it ideal for scenarios where IP addressing cannot be modified easily.
+**FortiGate Virtual Wire (VW) කියන්නේ network එකේ IP addressing හෝ topology වෙනස් නොකර security services (firewall policies, IPS වැනි) transparently insert කිරීමට භාවිතා වන feature එකක්.**
+
+**මෙය OSI model එකේ Layer 2 මට්ටමේ ක්‍රියා කරන අතර IP addresses change නොකරම traffic inspect සහ control කිරීමට හැකියාව ලබා දේ.**
 
 ## Advantages of Virtual Wire Feature:
 
-Here's a breakdown of the key theoretical aspects of FortiGate Virtual Wire:
+**FortiGate Virtual Wire (VW) වල key theoretical aspects පහත පරිදි වේ:**
 
 **1. Layer 2 Operation:**
-   - Virtual Wire operates at Layer 2 (Data Link Layer) of the OSI model, which means it deals with MAC addresses rather than IP addresses. This allows the FortiGate firewall to seamlessly intercept and inspect traffic passing through it without requiring any IP address changes.
-   - Since Virtual Wire operates at Layer 2, it can't perform routing or NAT (Network Address Translation). Instead, it forwards packets based on MAC addresses.
+* **Layer 2 Operation:**
+  Virtual Wire (VW) OSI model එකේ Layer 2 (Data Link Layer) මත ක්‍රියා කරයි.
+  එය IP addresses වෙනුවට MAC addresses භාවිතා කර traffic handle කරන අතර, IP address changes අවශ්‍ය නොවී traffic intercept සහ inspect කිරීමට FortiGate firewall එකට හැකියාව ලබා දෙයි.
+
+* **No Routing or NAT:**
+  Virtual Wire Layer 2 මත ක්‍රියා කරන නිසා routing හෝ NAT perform කළ නොහැක.
+  එය packets MAC addresses අනුව forward කරන අතර network topology change නොකර inline security enforcement ලබා දෙයි.
 
 **2. Transparent Traffic Inspection:**
-   - Virtual Wire enables the insertion of security services, such as firewall policies, intrusion prevention systems (IPS), and antivirus scanning, into the network path without disrupting normal network operations.
-   - Traffic passing through the Virtual Wire is transparently inspected by the FortiGate firewall, which can enforce security policies and detect and mitigate threats in real-time.
+
+* **Security Services Integration:**
+  Virtual Wire මගින් firewall policies, IPS (Intrusion Prevention System), antivirus scanning වැනි security services network path එකට insert කළ හැක.
+  මෙය normal network operations disturb නොකර seamless ලෙස security enforcement ලබා දෙයි.
+
+* **Transparent Traffic Inspection:**
+  Virtual Wire හරහා යන traffic FortiGate firewall මගින් transparently inspect කරයි.
+  එමගින් real-time ලෙස security policies enforce කරමින් threats detect කර mitigate කිරීමට හැකියාව ලැබේ.
 
 **3. In-line Deployment:**
-   - In Virtual Wire deployment, the FortiGate firewall sits in-line between two network segments, intercepting traffic as it passes through.
-   - It typically involves configuring two physical interfaces on the FortiGate firewall—one for inbound traffic (ingress interface) and the other for outbound traffic (egress interface).
+* **In-Line Deployment:**
+  Virtual Wire deployment එකේ FortiGate firewall එක network segments දෙක අතර in-line (inline) position එකක sit කරයි.
+  Traffic pass වෙන අතරතුර එය intercept කර inspect කරයි.
+
+* **Interface Configuration:**
+  සාමාන්‍යයෙන් FortiGate එකේ physical interfaces දෙකක් configure කරයි.
+  එකක් ingress interface (incoming traffic සඳහා) ලෙසත්, අනෙක egress interface (outgoing traffic සඳහා) ලෙසත් භාවිතා වේ.
 
 **4. Traffic Forwarding and Filtering:**
-   - Once traffic enters the Virtual Wire, it is forwarded to the appropriate egress interface based on the configured security policies.
-   - The firewall inspects the traffic according to predefined security rules, including firewall policies, IPS signatures, antivirus scans, and other security profiles.
-   - If the traffic matches any security policy, the firewall takes the specified action (e.g., allow, deny, log).
+* **Traffic Forwarding:**
+  Virtual Wire එකට traffic enter වුණාම, configured security policies අනුව appropriate egress interface එකට forward කරයි.
+
+* **Traffic Inspection:**
+  Firewall එක predefined security rules අනුව traffic inspect කරයි.
+  මෙයට firewall policies, IPS signatures, antivirus scans සහ වෙනත් security profiles ඇතුළත් වේ.
+
+* **Policy Action:**
+  Traffic එක any security policy එකකට match වුණාම, define කර ඇති action එක (allow, deny, log) අනුව firewall එක එය handle කරයි.
 
 **5. VLAN Support:**
-   - Virtual Wire supports VLANs, allowing you to segment traffic within the Virtual Wire deployment.
-   - You can assign VLAN IDs to the Virtual Wire configuration to handle tagged VLAN traffic between network segments.
+* **VLAN Support:**
+  Virtual Wire (VW) VLANs support කරන අතර Virtual Wire deployment එක තුළ traffic segment කිරීමට ඉඩ සලසයි.
+
+* **VLAN ID Assignment:**
+  Virtual Wire configuration එකට VLAN IDs assign කළ හැක.
+  එමගින් network segments අතර tagged VLAN traffic handle කිරීමට සහ control කිරීමට හැකියාව ලැබේ.
 
 **6. Simplified Deployment and Management:**
-   - Virtual Wire simplifies the deployment of security services by eliminating the need for complex network reconfigurations.
-   - It also simplifies management by providing a transparent way to insert security services into the network path, reducing operational overhead and minimizing disruption to network operations.
+* **Simplified Deployment:**
+  Virtual Wire (VW) මගින් complex network reconfigurations අවශ්‍යතාව ඉවත් කර security services deploy කිරීම සරල කරයි.
+
+* **Simplified Management:**
+  මෙය network path එකට security services transparent ලෙස insert කිරීමට ඉඩ සලසන නිසා management පහසු කරයි.
+  එමගින් operational overhead අඩු කර network operations වල disruption අවම කරයි.
 
 
-
-Here's a detailed explanation of the concept along with configuration steps:
+**මෙම concept එක පිළිබඳව විස්තරාත්මක පැහැදිලි කිරීමක් සහ configuration steps පහත පරිදි වේ:**
 
 **1. Security Policy Configuration:**
 
-Create security policies to define how traffic is handled by the Virtual Wire pair. This includes specifying the source and destination zones, as well as the security profiles to be applied (e.g., IPS, antivirus).
+**Virtual Wire pair එක හරහා traffic handle කරන ආකාරය define කිරීමට security policies create කළ යුතුය.**
+
+**මෙහිදී source සහ destination zones specify කරන අතර IPS, antivirus වැනි security profiles apply කළ යුතුය.**
 
 ```plaintext
 config firewall policy
@@ -1150,13 +1491,17 @@ config firewall policy
 end
 ```
 
-- `srcintf`: Specifies the source interface.
-- `dstintf`: Specifies the destination interface.
-- `action`: Defines the action to be taken on the traffic (e.g., accept, deny).
+* **`srcintf`:**  Traffic එක එන source interface එක specify කරයි.
+
+* **`dstintf`:**  Traffic එක යන destination interface එක specify කරයි.
+
+* **`action`:**  Traffic එකට apply කරන action එක define කරයි (උදා: accept, deny).
 
 **2. Monitoring and Logging:**
 
-Configure logging and monitoring to track traffic passing through the Virtual Wire for security analysis and troubleshooting purposes.
+**Virtual Wire හරහා යන traffic track කිරීමට logging සහ monitoring configure කළ යුතුය.**
+
+**මෙමගින් security analysis සහ troubleshooting සඳහා අවශ්‍ය information ලබා ගත හැකි අතර network visibility වැඩි කරයි.**
 
 ```plaintext
 config log
@@ -1167,9 +1512,13 @@ end
 
 **3. Testing and Verification:**
 
-Test the Virtual Wire configuration to ensure that traffic is being inspected and forwarded correctly without any disruptions to network connectivity.
+* **Virtual Wire Testing:**
+  Traffic inspection සහ forwarding නිවැරදිව ක්‍රියා කරනවාද කියලා confirm කිරීමට Virtual Wire configuration එක test කළ යුතුය.
+  Network connectivity කිසිම disruption එකක් නැතුව පවතිනවාද කියලා verify කළ යුතුය.
 
-This configuration enables the FortiGate unit to operate in Virtual Wire mode, transparently inspecting and filtering traffic between two network segments without requiring any changes to IP addressing or network topology.
+* **Summary:**
+  මෙම configuration මගින් FortiGate unit එක Virtual Wire mode එකේ operate වෙයි.
+  එය IP addressing හෝ network topology කිසිවක් වෙනස් නොකර network segments දෙක අතර traffic transparently inspect සහ filter කරයි.
 
 ---
 
@@ -1193,35 +1542,64 @@ This configuration enables the FortiGate unit to operate in Virtual Wire mode, t
 ![Untitled 110](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20110)
 
 
-**Now is the Time to Initiate the traffic towards the internet, all the traffic will be available in the firewall, Logs --> Forwarded Traffic:**
+**Now is the time to initiate traffic towards the internet.**
+All generated traffic will be visible on the FortiGate firewall under:
+
+**Logs → Forwarded Traffic**
+
+**මෙහිදී firewall එක හරහා pass වන සියලු traffic records capture වී, monitoring සහ analysis සඳහා view කළ හැක.**
 
 ![Untitled 111](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20111)
 
 
-**Check the logs to verify the Source and destination information, Traffic from PC to Internet.:**
+**Logs check කර traffic verify කිරීම:**
+
+FortiGate firewall එකේ **Logs → Forwarded Traffic** වෙත ගොස් බලන විට, PC එකෙන් Internet වෙත යන traffic එක පිළිබඳ details දැකිය හැක.
+
+**මෙහිදී verify කළ යුතු දේවල්:**
+
+* **Source IP:** PC එකේ IP address එක
+* **Destination IP:** Internet server / public IP
+* **Service/Port:** (HTTP, HTTPS, DNS etc.)
+* **Action:** Allow / Deny
+* **NAT translation:** Private IP → Public IP translation සිදුවී ඇත්දැයි
+
+**මෙම log information මගින් traffic flow එක නිවැරදිව යනවාද කියලා confirm කර troubleshooting සහ security analysis කළ හැක.**
 
 ![Untitled 112](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20112)
 
 
 ## NOTE
-- To get Internet access to the PC, we have configured Static NAT on the Router[Edge_R].
-- Without NAT we are not able to access the internet, the ISP drops the packet.
-- Because Private IPs are not routable in ISPs. 
+* **PC එකට internet access ලබා ගැනීමට Router [Edge_R] එකේ Static NAT configure කර ඇත.**
 
+* **NAT නොමැතිව internet access ලබා ගැනීමට නොහැක, ISP විසින් packets drop කරයි.**
+
+* **එයට හේතුව Private IP addresses ISP networks තුළ routable නොවීමයි.**
   
 ---
 
 ### **Summary:**
 
-In Module 2, we covered essential topics related to configuring interfaces and firewall policies on FortiGate firewall. Here's a summary of the topics covered:
+**Module 2 Summary – FortiGate Firewall Configuration**
 
-1. **Basic Interface Configuration**: Explained how to configure interfaces on FortiGate firewall, including setting IP addresses, subnet masks, and access permissions.
-2. **Configure Static and Dynamic Routing**: Detailed the configuration of static and dynamic routing protocols such as OSPF and BGP README.mdon FortiGate firewall to enable efficient traffic forwarding.
-3. **Configuring DHCP**: Provided guidance on configuring DHCP server pools on the LAN interface of FortiGate firewall to automate IP address assignment for local users.
-4. **Basic Firewall Policies**: Covered the configuration of firewall policies on FortiGate firewall, including setting conditions, actions, and security profiles to control traffic flow between different network segments.
-5. **Network Address Translation (NAT)**: Explained the theory and configuration of NAT on FortiGate firewall, including static NAT (1-to-1 NAT) and port forwarding to facilitate communication between internal and external networks.
+1. **Basic Interface Configuration:**
+   FortiGate interfaces configure කිරීම, IP addresses, subnet masks සහ access permissions set කිරීම ගැන විස්තර කරන ලදී.
 
-By understanding and implementing the concepts covered in Module 2, administrators can effectively configure interfaces, routing, DHCP, firewall policies, and NAT on FortiGate firewall to ensure efficient network connectivity and robust security measures.
+2. **Static and Dynamic Routing Configuration:**
+   Static routing සහ dynamic routing protocols (OSPF, BGP) configure කර traffic forwarding efficiency වැඩි කරන ආකාරය පැහැදිලි කරන ලදී.
+
+3. **DHCP Configuration:**
+   LAN interface එකේ DHCP server pools configure කර local users සඳහා automatic IP assignment enable කරන ආකාරය දක්වන ලදී.
+
+4. **Basic Firewall Policies:**
+   Traffic flow control කිරීම සඳහා conditions, actions සහ security profiles set කර firewall policies configure කරන ආකාරය covered කරන ලදී.
+
+5. **Network Address Translation (NAT):**
+   Static NAT (1-to-1 NAT) සහ port forwarding ඇතුළු NAT concepts සහ configuration methods explain කරන ලදී.
+
+**Conclusion:**
+Module 2 හි concepts අවබෝධ කරගැනීමෙන් administrators ලට FortiGate firewall එකේ interfaces, routing, DHCP, firewall policies සහ NAT effectively configure කර secure සහ efficient network connectivity maintain කිරීමට හැකියාව ලැබේ.
+
 
 ---
 
@@ -1244,54 +1622,113 @@ Table of contents:
 # **I. Active-Standby(Theory)**
 
 ## Hardware Requirements:
+1. **Identical FortiGate Models:**
+   HA cluster එකේ FortiGate units දෙකම identical models විය යුතුය.
+   එමගින් compatibility සහ proper synchronization සහතික වේ.
 
-1. **Identical FortiGate Models**: Both FortiGate units in the HA cluster must be identical models to ensure compatibility and proper synchronization.
-2. **Sufficient Resources**: Ensure that both FortiGate units have adequate CPU, memory, and storage resources to handle the expected network traffic and configurations.
-3. **Network Interfaces**: Each FortiGate unit should have the same number and type of network interfaces (e.g., Ethernet, fiber) configured identically.
-4. **HA Ports**: Both FortiGate units must have dedicated HA ports available for HA heartbeat communication and synchronization. These ports should be connected via a dedicated HA link cable or network segment.
-5. **Power and Cooling**: Ensure that the power supply and cooling systems are sufficient to support both FortiGate units and maintain optimal operating conditions.
+2. **Sufficient Resources:**
+   Units දෙකටම CPU, memory සහ storage වැනි adequate resources තිබිය යුතුය.
+   එමගින් expected network traffic සහ configurations handle කළ හැක.
+
+3. **Network Interfaces:**
+   FortiGate units දෙකේම network interfaces (Ethernet, fiber වැනි) එකම number සහ type එකෙන් configure කර තිබිය යුතුය.
+
+4. **HA Ports:**
+   HA heartbeat communication සහ synchronization සඳහා dedicated HA ports දෙකටම තිබිය යුතුය.
+   මෙම ports dedicated HA link cable හෝ network segment එකකින් connect කළ යුතුය.
+
+5. **Power and Cooling:**
+   Power supply සහ cooling systems adequacy තිබිය යුතුය.
+   එමගින් දෙකම stable operation සහ optimal performance maintain කරයි.
 
 ## Software Requirements:
+1. **Compatible Firmware Versions:**
+   FortiGate units දෙකම same firmware version එක run කළ යුතුය.
+   එමගින් compatibility සහ proper HA functionality සහතික වේ.
 
-1. **Compatible Firmware Versions**: Both FortiGate units must run the same firmware version to ensure compatibility and proper functionality.
-2. **HA Licensing**: Ensure that both FortiGate units are licensed for HA features and functionalities. Some HA features may require specific licensing.
-3. **Configuration Synchronization**: Configure both FortiGate units with identical network configurations, security policies, routing settings, and HA settings.
-4. **Virtual Domains (VDOMs)**: If using VDOMs, ensure that VDOM settings are synchronized between both units and that VDOM HA settings are properly configured.
-5. **Monitoring and Management**: Set up monitoring and management tools to monitor the health and status of the HA cluster, including CPU usage, memory utilization, and interface status.
+2. **HA Licensing:**
+   Units දෙකටම HA features සඳහා valid licensing තිබිය යුතුය.
+   සමහර HA functionalities සඳහා specific licenses අවශ්‍ය විය හැක.
+
+3. **Configuration Synchronization:**
+   Network configurations, security policies, routing settings සහ HA settings දෙකම identical ලෙස configure කළ යුතුය.
+   එමගින් cluster consistency maintain වේ.
+
+4. **Virtual Domains (VDOMs):**
+   VDOMs භාවිතා කරන විට, දෙකම VDOM settings synchronize කර proper HA configuration ensure කළ යුතුය.
+
+5. **Monitoring and Management:**
+   HA cluster health සහ status monitor කිරීමට monitoring tools set up කළ යුතුය.
+   CPU usage, memory utilization සහ interface status වැනි metrics continuously monitor කළ යුතුය.
 
 ## Network Requirements:
+1. **Dedicated HA Link:**
+   FortiGate units දෙක අතර dedicated HA link එකක් establish කළ යුතුය.
+   මෙම link එක heartbeat communication සහ configuration synchronization සඳහා භාවිතා වේ.
 
-1. **Dedicated HA Link**: Establish a dedicated network link (HA link) between the HA ports of both FortiGate units for heartbeat communication and synchronization.
-2. **Redundant Network Connectivity**: Ensure redundant network connectivity for both FortiGate units to prevent single points of failure and ensure continuous operation.
-3. **Network Topology**: Configure network routing and VLAN settings to accommodate HA failover events and ensure seamless traffic redirection in case of unit failure.
+2. **Redundant Network Connectivity:**
+   Units දෙකටම redundant network connections තිබිය යුතුය.
+   එමගින් single point of failure avoid කර continuous network operation maintain කළ හැක.
 
-By meeting these hardware, software, and network requirements, administrators can set up a robust high availability (HA) configuration in the FortiGate firewall to ensure continuous network operation and minimize downtime.
+3. **Network Topology:**
+   Routing සහ VLAN settings HA failover events support කරන ලෙස configure කළ යුතුය.
+   එමගින් unit failure එකක් සිදුවූ විට traffic seamless ලෙස another unit එකට redirect වේ.
+
+**Conclusion:**
+මෙම hardware, software සහ network requirements සපුරාලීමෙන් FortiGate HA configuration එක robust ලෙස setup කර continuous availability සහ minimal downtime සහතික කළ හැක.
 
 ## Active-Standby Theory of FortiGate Firewall with FGCP
 
-Active-standby mode in the FortiGate firewall, facilitated by FGCP (FortiGate Cluster Protocol), is a high availability (HA) configuration where two firewall units operate in tandem. One unit serves as the primary (active) unit, actively processing traffic, while the other unit acts as the secondary (standby) unit, ready to take over in case of failure.
+**Active-Standby mode in FortiGate firewall (FGCP - FortiGate Cluster Protocol) යනු High Availability (HA) configuration එකකි.**
+
+මෙහිදී FortiGate units දෙකක් cluster එකක් ලෙස ක්‍රියා කරයි:
+
+* **Active (Primary) Unit:** සාමාන්‍ය operation වලදී traffic process කරමින් network services handle කරයි.
+* **Standby (Secondary) Unit:** traffic process නොකර, active unit එක fail වුවහොත් immediate failover සඳහා ready state එකේ පවතී.
+
+**මෙම mode එකෙන් network continuity සහ high availability සහතික කර, downtime අවම කරයි.**
 
 ### 1. FGCP (FortiGate Cluster Protocol)
+* **Purpose:**
+  FGCP (FortiGate Cluster Protocol) කියන්නේ Fortinet විසින් develop කළ proprietary protocol එකක්.
+  මෙය HA cluster එකේ firewall units අතර communication සහ synchronization සඳහා භාවිතා වේ.
 
-- **Purpose**: FGCP is a proprietary protocol developed by Fortinet for communication and synchronization between firewall units in an HA cluster.
-- **Heartbeat and Configuration Sync**: FGCP uses heartbeat signals over the HA link to monitor the status of each unit and synchronize configuration and session information.
-- **Failover Control**: FGCP manages failover events, ensuring a seamless transition between active and standby units without disruption to network traffic.
-- **Session Pickup**: FGCP enables the standby unit to pick up and continue processing existing sessions from the failed active unit during failover.
+* **Heartbeat and Configuration Sync:**
+  FGCP HA link එක හරහා heartbeat signals භාවිතා කර unit status monitor කරයි.
+  එමගින් configuration සහ session information synchronize කරයි.
+
+* **Failover Control:**
+  Failover events manage කිරීම FGCP මගින් සිදු කරයි.
+  Active unit එක fail වුවහොත් network traffic disruption නැතුව standby unit එකට seamless transition එකක් ලබා දේ.
+
+* **Session Pickup:**
+  Failover අවස්ථාවේ active unit එකේ existing sessions standby unit එක continue කරගෙන යාමට FGCP support කරයි.
 
 ### 2. HA Link
+* **Dedicated Connection:**
+  HA link එක FGCP communication සඳහා primary සහ secondary FortiGate units අතර dedicated communication channel එකක් ලෙස ක්‍රියා කරයි.
 
-- **Dedicated Connection**: The HA link provides a dedicated communication channel between the primary and secondary firewall units for FGCP communication.
-- **Heartbeat Signals**: Heartbeat signals are exchanged over the HA link to monitor the health and availability of each firewall unit in the cluster.
-- **Synchronization**: Configuration and session synchronization occur over the HA link to ensure that both units have identical configurations and state information.
+* **Heartbeat Signals:**
+  Cluster එකේ unit වල health සහ availability monitor කිරීමට heartbeat signals HA link එක හරහා exchange වේ.
+
+* **Synchronization:**
+  Configuration සහ session information synchronize වන්නේ HA link එක හරහායි.
+  එමගින් units දෙකම identical configuration සහ state information maintain කරයි.
 
 ### 3. Firewall State
+* **Active Unit:**
+  Active unit එක network traffic process කරන අතර firewall state information maintain කරයි.
+  මෙයට active sessions, NAT translations සහ security policies ඇතුළත් වේ.
 
-- **Active Unit**: The active unit processes network traffic and maintains firewall state information, including active sessions, NAT translations, and security policies.
-- **Standby Unit**: The standby unit remains synchronized with the active unit, mirroring its configuration and firewall state, but does not process traffic.
+* **Standby Unit:**
+  Standby unit එක active unit එකත් සමඟ synchronize වී configuration සහ firewall state mirror කරයි.
+  නමුත් එය traffic process නොකර, failover සඳහා ready state එකේ පවතී.
 
 ### 4. Gratuitous ARP (GARP), MAC and IP Swap, Priority
 
-These concepts remain unchanged in the context of FGCP. Gratuitous ARP messages, MAC and IP swap, and priority configurations play crucial roles in ensuring smooth failover and uninterrupted network connectivity during active-standby mode operation with FGCP.
+මෙම concepts FGCP context එක තුළත් වෙනස් නොවේ. **Gratuitous ARP messages, MAC සහ IP swap, සහ priority configuration** වැනි mechanisms active-standby HA operation එකේදී වැදගත් කාර්යභාරයක් ඉටු කරයි.
+
+එමගින් failover සිදුවූ අවස්ථාවලදී traffic interruption අවම කර network connectivity smooth ලෙස maintain කිරීමට හැකියාව ලැබේ.
 
 # **II. Active-Standby(Lab)**
 
@@ -1315,11 +1752,11 @@ As shown below diagram FGT-1 HA status is “Standalone”
 
 ![Untitled](fortigate-guide-images/Untitled%2043.png)
 
-As per our requirement, FGT-1 will be Active, and FGT-2 will be Passive.
+අපගේ requirement එක අනුව, FGT-1 Active වන අතර FGT-2 Passive වේ.
 
-- FGT-1 priority is 128 and FGT-2 priority is 100.
-- In the Fortigate firewall once synchronization completes we don’t get access to the Passive device.
-- Only we can see the status in the Active device
+* FGT-1 priority 128 වන අතර FGT-2 priority 100 වේ.
+* FortiGate firewall එකේ synchronization complete වුණාට පස්සේ Passive device එකට access ලබාගැනීමට නොහැක.
+* අපට status බලන්න පුළුවන් Active device එක හරහා පමණි.
 
 ![Untitled](fortigate-guide-images/Untitled%2044.png)
 
@@ -1343,45 +1780,49 @@ As per our requirement, FGT-1 will be Active, and FGT-2 will be Passive.
 
 # III. Active-Active Failover in FortiGate Firewall
 
-Active-active failover in FortiGate firewall is a high availability (HA) configuration where both firewall units actively process network traffic simultaneously, distributing the load across the cluster. This configuration enhances performance and ensures redundancy by allowing seamless failover between units in case of hardware or software failures.
+**Active-Active failover in FortiGate firewall** කියන්නේ high availability (HA) configuration එකක්.
+මෙහිදී firewall units දෙකම එකම වෙලාවේ network traffic process කරන අතර, traffic load එක cluster එක අතර distribute කරයි.
+
+මෙම configuration එකෙන් performance වැඩි කරන අතර redundancy එකත් ලබා දේ.
+ඒ වගේම hardware හෝ software failure එකක් සිදුවුණාම seamless failover එකක් හරහා network continuity maintain කරන්න පුළුවන්.
 
 ## **HA and load balancing**
 
-FGCP active-active HA uses a technique similar to unicast load balancing where the primary unit is associated with the cluster HA virtual MAC addresses and cluster IP addresses. The primary unit is the only cluster unit that receives packets sent to the cluster. The primary unit uses a load-balancing schedule to distribute sessions to all cluster units (including the primary unit). Subordinate unit interfaces retain their actual MAC addresses, and the primary unit communicates with the subordinate units using these MAC addresses. Packets exiting the subordinate units proceed directly to their destination and do not pass through the primary unit.
+FGCP active-active HA කියන්නේ unicast load balancing එකට සමාන technique එකක් භාවිතා කරන HA mode එකක්. මෙහිදී primary unit එක cluster HA virtual MAC addresses සහ cluster IP addresses සමඟ associate වේ. Cluster එකට යවන packets receive කරන්නේ primary unit එක පමණි. Primary unit එක load-balancing schedule එකක් භාවිතා කරමින් sessions cluster units සියල්ල අතර (primary unit එක ඇතුළුව) distribute කරයි. Subordinate units වල interfaces ඔවුන්ගේ actual MAC addresses retain කරගනී. Primary unit එක මෙම MAC addresses භාවිතා කර subordinate units සමඟ communicate කරයි. Subordinate units වලින් exit වන packets directly destination එකට යන අතර primary unit එක හරහා යන්නේ නැත.
 
-By default, active-active HA load balancing distributes proxy-based security profile processing to all cluster units. Proxy-based security profile processing is CPU and memory-intensive, so FGCP load balancing may result in higher throughput because resource-intensive processing is distributed among all cluster units.
+By default, active-active HA load balancing මගින් proxy-based security profile processing cluster units සියල්ලට distribute කරයි. Proxy-based security profile processing CPU සහ memory intensive නිසා FGCP load balancing මගින් throughput වැඩි විය හැක, resource-intensive processing cluster units අතර distribute වන නිසා.
 
-The following proxy-based security profile processing is load-balanced:
+**Proxy-based security profile processing includes:**
 
-- Virus scanning
-- Web filtering
-- Email Filtering
-- Data Loss Prevention (DLP) of HTTP, FTP, IMAP, IMAPS, POP3, POP3S, SMTP, SMTPS, IM, and NNTP sessions accepted by firewall policies
+* Virus scanning
+* Web filtering
+* Email Filtering
+* Data Loss Prevention (DLP) of HTTP, FTP, IMAP, IMAPS, POP3, POP3S, SMTP, SMTPS, IM, and NNTP sessions accepted by firewall policies
 
-Other features enabled in firewall policies such as endpoint security, traffic shaping, and authentication have no effect on active-active load balancing.
+Firewall policies තුළ enable කරන other features (endpoint security, traffic shaping, authentication) active-active load balancing එකට impact කරන්නේ නැත.
 
-During active-active HA load balancing, the primary unit uses the configured load balancing schedule to determine which cluster unit will process a session. The primary unit stores the load-balancing information for each load-balanced session in the cluster load-balancing session table. Using the information in this table, the primary unit can then forward all of the remaining packets in each session to the appropriate cluster unit. The load balancing session table is synchronized among all cluster units.
+Active-active HA load balancing අතර primary unit එක configured load balancing schedule එක භාවිතා කර session process කරන cluster unit එක decide කරයි. Primary unit එක cluster load-balancing session table එකේ session information store කරයි. මේ table එක භාවිතා කරමින් primary unit එක session එකේ remaining packets appropriate cluster unit එකට forward කරයි. මෙම load balancing session table එක cluster units අතර synchronize කර ඇත.
 
-ICMP, multicast, and broadcast sessions are never load-balanced and are always processed by the primary unit. The following sessions are only processed by the primary unit:
+ICMP, multicast සහ broadcast sessions load-balance නොකර always primary unit එක මගින් process කරයි. පහත sessionsද only primary unit එක මගින් process කරයි:
 
-- IPS
-- Application control
-- Flow-based virus scanning
-- Flow-based web filtering
-- Flow-based DLP
-- Flow-based email filtering
-- VoIP
-- IM
-- P2P
-- IPsec VPN
-- SSL VPN
-- HTTP multiplexing
-- SSL offloading
-- WAN optimization
-- Explicit web proxy
-- WCCP
+* IPS
+* Application control
+* Flow-based virus scanning
+* Flow-based web filtering
+* Flow-based DLP
+* Flow-based email filtering
+* VoIP
+* IM
+* P2P
+* IPsec VPN
+* SSL VPN
+* HTTP multiplexing
+* SSL offloading
+* WAN optimization
+* Explicit web proxy
+* WCCP
 
-In addition to load balancing, active-active HA provides the same session, device, and link failover protection as active-passive HA. If the primary unit fails, a subordinate unit becomes the primary unit and resumes operating the cluster. Active-active HA maintains as many load balanced sessions as possible after a failover by continuing to process the load balanced sessions that were being processed by the cluster units that are still operating.
+Active-active HA එක load balancing එකට අමතරව active-passive HA එකේ වගේම session, device, link failover protection ලබා දේ. Primary unit failure වුණොත් subordinate unit එකක් primary unit එක බවට පත් වෙයි සහ cluster operation continue කරයි. Active-active HA මගින් failure පසුත් possible ලෙස load balanced sessions maintain කරමින් cluster units වල still operating sessions continue කරයි.
 
 ## **Active-active failover**
 
@@ -1393,19 +1834,33 @@ Failover works similarly if the cluster consists of only two units. If the prima
 
 ### 2.1. HA Configuration
 
-- **Enable HA**: Configure active-active HA mode on both firewall units.
-- **Synchronize Configuration**: Ensure that both units have identical configurations, including network interfaces, routing, and security policies.
-- **Configure Load Balancing**: Define load-balancing algorithms and link load-balancing settings to distribute traffic evenly across the cluster.
+* **Enable HA:**
+  Active-active HA mode එක firewall units දෙකම මත configure කළ යුතුය.
+
+* **Synchronize Configuration:**
+  Network interfaces, routing සහ security policies ඇතුළු configurations දෙකම identical ලෙස ensure කර synchronize කළ යුතුය.
+
+* **Configure Load Balancing:**
+  Traffic cluster එක පුරා evenly distribute කිරීමට load-balancing algorithms සහ link load-balancing settings define කළ යුතුය.
 
 ### 2.2. Firewall Policies
+* **Symmetric Policies:**
+  Active units දෙකටම apply වන symmetric firewall policies create කළ යුතුය.
+  එමගින් security rules consistent ලෙස enforce කිරීම සහතික වේ.
 
-- **Symmetric Policies**: Create symmetric firewall policies that apply to both active units, ensuring consistent enforcement of security rules.
-- **Policy Prioritization**: Prioritize firewall policies to ensure that critical traffic is processed efficiently and does not experience delays.
+* **Policy Prioritization:**
+  Critical traffic efficiently process වීමට firewall policies prioritize කළ යුතුය.
+  එමගින් traffic delays වීම අවම කර performance improve කළ හැක.
 
 ### 2.3. Monitoring and Alerting
 
-- **Health Monitoring**: Continuously monitor the health and status of both firewall units, including CPU usage, memory utilization, and interface status.
-- **Alerting**: Configure alert notifications to promptly notify administrators of any issues or failures within the HA cluster, allowing for quick resolution.
+* **Health Monitoring:**
+  Firewall units දෙකේම health සහ status continuously monitor කළ යුතුය.
+  මෙයට CPU usage, memory utilization සහ interface status ඇතුළත් වේ.
+
+* **Alerting:**
+  HA cluster එකේ issues හෝ failures සිදුවූ විට administrators ලට promptly notify කිරීමට alert notifications configure කළ යුතුය.
+  එමගින් quick response සහ issue resolution ලබාගත හැක.
 
 # IV. Active - Active(Lab)
 
@@ -1417,30 +1872,39 @@ Failover works similarly if the cluster consists of only two units. If the prima
 
 ![Untitled](fortigate-guide-images/Untitled%2051.png)
 
-**FGT-2 device HA configuration, Make sure that both are in the same group and Password inorder to synchronize.FGT-2 GUI access will not be available.**
+**FGT-2 device HA configuration:**
+උපාංග දෙකම එකම HA group එකේ තිබිය යුතු අතර synchronization සඳහා එකම password එක භාවිතා කළ යුතුය. FGT-2 device එකට GUI access ලබාගත නොහැක.
 
 ![Untitled](fortigate-guide-images/Untitled%2052.png)
 
-Both FGT-1 and FGT-2 are synchronized, FGT-1 will be master/primary, and FGT-2 will be secondary.
+**FGT-1 සහ FGT-2 දෙකම synchronized වීමෙන් පසු, FGT-1 master/primary ලෙස ක්‍රියා කරන අතර FGT-2 secondary ලෙස ක්‍රියා කරයි.**
 
 ![Untitled](fortigate-guide-images/Untitled%2053.png)
 
-**As per the priority, we have decided that FGT-1 128 is Primary and FGT-2 100 will be elected as Secondary.**
+**Priority අනුව, FGT-1 (128) Primary ලෙසත්, FGT-2 (100) Secondary ලෙසත් elect කිරීමට අපි තීරණය කර ඇත.**
 
 ![Untitled](fortigate-guide-images/Untitled%2054.png)
 
-FGT-1 failure occurs, and FGT-2 takes the role of Primary.
+FGT-1 failure සිදුවූ විට, FGT-2 Primary role එකට පත් වේ.
 
 ![Untitled](fortigate-guide-images/Untitled%2055.png)
 
 ## **Summary:**
 
-Module 3 of the FortiGate firewall course covers high availability (HA) configurations, including both active-standby and active-active setups. Here's a brief summary of the topics covered:
+**Module 3 Summary – FortiGate High Availability (HA)**
 
-1. **Active-Standby (Theory)**: Explains the theory behind active-standby HA configurations, where one firewall unit serves as the primary (active) unit while the other acts as the secondary (standby) unit. In case of failure, the standby unit takes over seamlessly to ensure continuous operation.
-2. **Active-Standby (Lab)**: Provides hands-on lab exercises for configuring active-standby HA on FortiGate firewall units. Students learn how to set up HA links, synchronize configurations, and test failover scenarios.
-3. **Active-Active (Theory)**: Discusses the theory behind active-active HA configurations, where both firewall units actively process network traffic simultaneously. Load balancing, firewall state synchronization, and session pickup are explained in detail.
-4. **Active-Active (Lab)**: Offers practical lab exercises for configuring active-active HA on FortiGate firewall units. Students learn how to configure load balancing algorithms, ensure firewall state synchronization, and test failover scenarios in an active-active setup.
+1. **Active-Standby (Theory):**
+   Active-standby HA configuration එකේදී firewall unit එකක් primary (active) ලෙස ක්‍රියා කරන අතර අනෙක් unit එක secondary (standby) ලෙස පවතී. Primary unit failure වුවහොත් standby unit එක seamless ලෙස takeover කර continuous operation ensure කරයි.
+
+2. **Active-Standby (Lab):**
+   FortiGate units වල HA link setup කිරීම, configuration synchronization කිරීම සහ failover scenarios test කිරීම වැනි practical exercises මෙම lab එකේදී සිදු කරයි.
+
+3. **Active-Active (Theory):**
+   Active-active HA configuration එකේදී firewall units දෙකම එකවර network traffic process කරයි. Load balancing, session synchronization සහ session pickup mechanisms detailed ලෙස explain කරයි.
+
+4. **Active-Active (Lab):**
+   Load balancing algorithms configure කිරීම, firewall state synchronization ensure කිරීම සහ failover testing කිරීම වැනි practical configurations active-active setup එකේදී සිදු කරයි.
+
 
 ---
 
@@ -1455,59 +1919,77 @@ Module 3 of the FortiGate firewall course covers high availability (HA) configur
 
 Table of contents:
 
-- Creating User and Policies
-- Create Authentication Policies[Captive Portal]
-- Monitor firewall Users
+* **Creating User and Policies:**
+  FortiGate firewall එකේ users create කර, ඒවා සඳහා appropriate firewall policies configure කිරීම.
+
+* **Create Authentication Policies [Captive Portal]:**
+  Captive Portal භාවිතා කර user authentication enforce කරන policies create කිරීම.
+
+* **Monitor Firewall Users:**
+  Logged-in users monitor කිරීම, active sessions track කිරීම සහ user activity analysis කිරීම.
 
 # **I. Creating Users and Policies**
 
-Creating users and policies on the FortiGate firewall allows administrators to control access to network resources and define security rules for traffic flow. Here's a detailed guide on how to create users and policies:
+FortiGate firewall එකේ users සහ policies create කිරීමෙන් administrators ලට network resources වලට access control කිරීම සහ traffic flow සඳහා security rules define කිරීම කළ හැක.
+
+පහත දැක්වෙන්නේ users සහ policies create කරන ආකාරය පිළිබඳ විස්තරාත්මක guide එකකි:
 
 ## 1. Creating Users
 
 ### 1.1. Local Users
 
-- **Purpose**: Local users are specific to the FortiGate firewall and are authenticated locally.
-- **Steps**:
-    1. Access the FortiGate firewall web interface or CLI.
-    2. Navigate to **System > Administrators > Administrators**.
-    3. Click **Create New** to add a new user.
-    4. Enter the user details, including username, password, and privileges.
-    5. Save the changes.
+* **Purpose:**
+  Local users කියන්නේ FortiGate firewall එක තුළම define කර ඇති users වන අතර ඔවුන් local authentication මගින් authenticate වේ.
+
+* **Steps:**
+
+  1. FortiGate firewall web interface හෝ CLI access කරන්න.
+  2. **System > Administrators > Administrators** වෙත navigate කරන්න.
+  3. **Create New** click කර නව user එක add කරන්න.
+  4. Username, password සහ privileges ඇතුළු user details enter කරන්න.
+  5. Changes save කරන්න.
 
 ### 1.2. External Authentication
 
-- **Purpose**: FortiGate firewall supports external authentication methods such as LDAP, RADIUS, or TACACS+ for user authentication.
-- **Steps**:
-    1. Configure external authentication servers under **User & Device > Authentication > LDAP/Radius/TACACS+**.
-    2. Navigate to **System > Administrators > Administrators**.
-    3. Click **Create New** to add a new user.
-    4. Select the external authentication server from the dropdown list.
-    5. Enter the username and assign privileges.
-    6. Save the changes.
+* **Purpose:**
+  FortiGate firewall එක LDAP, RADIUS හෝ TACACS+ වැනි external authentication methods support කරයි. මෙම methods user authentication සඳහා භාවිතා වේ.
+
+* **Steps:**
+
+  1. **User & Device > Authentication > LDAP/RADIUS/TACACS+** යටතේ external authentication servers configure කරන්න.
+  2. **System > Administrators > Administrators** වෙත යන්න.
+  3. **Create New** click කර නව user එක add කරන්න.
+  4. Dropdown list එකෙන් external authentication server එක select කරන්න.
+  5. Username enter කර privileges assign කරන්න.
+  6. Changes save කරන්න.
 
 ## 2. Creating Policies
 
 ### 2.1. Firewall Policies
+* **Purpose:**
+  Firewall policies මගින් defined criteria අනුව different network segments අතර traffic flow control කරයි.
 
-- **Purpose**: Firewall policies control traffic flow between different network segments based on defined criteria.
-- **Steps**:
-    1. Access the FortiGate firewall web interface or CLI.
-    2. Navigate to **Policy & Objects > IPv4 Policy**.
-    3. Click **Create New** to add a new policy.
-    4. Configure the policy details, including source and destination addresses, services, and action (allow/deny).
-    5. Optionally, configure security profiles such as antivirus, IPS, or web filtering.
-    6. Save the changes.
+* **Steps:**
+
+  1. FortiGate firewall web interface හෝ CLI access කරන්න.
+  2. **Policy & Objects > IPv4 Policy** වෙත navigate කරන්න.
+  3. **Create New** click කර නව policy එක add කරන්න.
+  4. Source සහ destination addresses, services සහ action (allow/deny) ඇතුළු policy details configure කරන්න.
+  5. අවශ්‍ය නම් antivirus, IPS, web filtering වැනි security profiles configure කරන්න.
+  6. Changes save කරන්න.
 
 ### 2.2. VPN Policies
 
-- **Purpose**: VPN policies define how VPN traffic is handled by the FortiGate firewall, including IPsec or SSL VPN tunnels.
-- **Steps**:
-    1. Access the FortiGate firewall web interface or CLI.
-    2. Navigate to **VPN > IPsec > Tunnels** or **VPN > SSL-VPN > Portals/Settings**.
-    3. Click **Create New** to add a new VPN tunnel or portal.
-    4. Configure the tunnel/portal settings, including encryption algorithms, authentication methods, and access controls.
-    5. Save the changes.
+* **Purpose:**
+  VPN policies මගින් FortiGate firewall එක හරහා VPN traffic handle කරන ආකාරය define කරයි. මෙයට IPsec සහ SSL VPN tunnels ඇතුළත් වේ.
+
+* **Steps:**
+
+  1. FortiGate firewall web interface හෝ CLI access කරන්න.
+  2. **VPN > IPsec > Tunnels** හෝ **VPN > SSL-VPN > Portals/Settings** වෙත යන්න.
+  3. **Create New** click කර නව VPN tunnel හෝ portal එක add කරන්න.
+  4. Tunnel/portal settings configure කරන්න (encryption algorithms, authentication methods, access controls).
+  5. Changes save කරන්න.
 
 ## **Demo:**
 
@@ -1515,12 +1997,13 @@ Creating users and policies on the FortiGate firewall allows administrators to c
 
 ![Untitled](fortigate-guide-images/Untitled%2057.png)
 
-Now we are configuring Captive Portal or User Authentication.
+දැන් අපි Captive Portal හෝ User Authentication configure කරනවා.
 
-Steps:
+**Steps:**
 
-- we need to create the Local user to be authenticated before accessing the web server.
-- Create the user and assign that user to a particular group, or make it default as a Guest-group.
+* Web server එක access කිරීමට පෙර authenticate විය යුතු Local user එක create කරන්න.
+* User එක create කර එය specific user group එකකට assign කරන්න, නැතහොත් default ලෙස Guest-group එකට assign කරන්න.
+
 
 ![Untitled](fortigate-guide-images/Untitled%2058.png)
 
@@ -1528,15 +2011,15 @@ Select **User Type —> Local user**
 
 ![Untitled](fortigate-guide-images/Untitled%2059.png)
 
-**Create the login credentials and disable the two-factor authentication for now.:**
+**Login credentials create කර two-factor authentication දැනට disable කරන්න:**
 
 ![Untitled](fortigate-guide-images/Untitled%2060.png)
 
-**Enable the User account status and assign a default group or create a new one.**
+**User account status enable කර default group එකකට assign කරන්න, නැතහොත් නව group එකක් create කරන්න.**
 
 ![Untitled](fortigate-guide-images/Untitled%2061.png)
 
-**Our new user has been created and assigned to the default group.**
+**අපගේ නව user එක create කර default group එකට assign කර ඇත.**
 
 ![Untitled](fortigate-guide-images/Untitled%2062.png)
 
@@ -1544,44 +2027,56 @@ Select **User Type —> Local user**
 
 ## **Demo:**
 
-Here we are authenticating LAN users to access the DMZ web browser. below image shows without Captive portal or firewall authentication.
+මෙහිදී අපි LAN users DMZ web browser access කිරීමට authenticate කරනවා. පහත image එකේ Captive Portal හෝ firewall authentication නොමැති අවස්ථාව පෙන්වා ඇත.
 
 ![Untitled](fortigate-guide-images/Untitled%2063.png)
 
-Assign created Policy to LAN interface, 
+Created Policy එක LAN interface එකට assign කරන්න,
 
-Steps:
+**Steps:**
 
-- go to **Network —> Interface**
-- enable the security mode and captive portal for Local authentication for Guest group.
+* **Network → Interface** වෙත යන්න
+* Security mode enable කර Local authentication සඳහා Captive Portal enable කරන්න
+* Guest group සඳහා configuration apply කරන්න
+
 
 ![Untitled](fortigate-guide-images/Untitled%2064.png)
 
-We are going to access DMZ web server but this time we don't get direct DMZ login page, before accessing we have to be authenticated by Firewall
+අපි DMZ web server එක access කරන්න යනවා, නමුත් මේ වතාවේ direct DMZ login page එක ලැබෙන්නේ නැහැ.
+
+Firewall එකෙන් authenticate වෙලා ඉන්න එකෙන් පස්සෙ තමයි access එක ලබාගන්න තියෙන්නේ.
 
 ![Untitled](fortigate-guide-images/Untitled%2065.png)
 
-**I have entered valid credentials so I can able to access the DMZ server.**
+**මම valid credentials ඇතුල් කරලා තියෙන නිසා දැන් DMZ server එක access කරන්න පුළුවන්.** 
 
 ![Untitled](fortigate-guide-images/Untitled%2066.png)
 
-**Getting DMZ Home Page after Successfully Authenticated.**
+**Successfully authenticate වීමෙන් පසු DMZ Home Page එක ලබා ගනිමින් සිටිමු.**
 
 ![Untitled](fortigate-guide-images/Untitled%2067.png)
 
-To check the User activity on Firewall, Go to **Monitor → Firewall User Monitor**
+User activity firewall එකේ check කරන්න,
+
+Go to **Monitor → Firewall User Monitor**
 
 ![Untitled](fortigate-guide-images/Untitled%2068.png)
 
 ## **Summary:**
 
-Module 4 of the FortiGate firewall course focuses on firewall authentication. Here's a summary of the topics covered:
+**Module 4 Summary – FortiGate Firewall Authentication**
 
-1. **Creating User and Policies**: This topic covers the process of creating users and policies on the FortiGate firewall. It includes creating local users with authentication privileges and configuring firewall policies to control traffic flow based on defined criteria.
-2. **Create Authentication Policies (Captive Portal)**: Captive Portal authentication allows administrators to authenticate users before granting access to network resources. This topic explains how to configure authentication policies using Captive Portal to enforce user authentication requirements.
-3. **Monitor Firewall Users**: Monitoring firewall users is crucial for maintaining network security and performance. This topic covers how to monitor and track user activities on the FortiGate firewall, including viewing logged-in users, session details, and authentication logs.
+1. **Creating User and Policies:**
+   FortiGate firewall එකේ users create කිරීම සහ policies configure කිරීම මෙම topic එකෙන් cover කරයි. Local users create කර authentication privileges ලබාදීමත්, traffic flow control කිරීමට firewall policies configure කිරීමත් මෙයට ඇතුළත් වේ.
 
-By covering these topics, Module 4 provides administrators with the knowledge and skills to effectively manage firewall authentication, create user and policy configurations, and monitor user activities to ensure network security and compliance.
+2. **Create Authentication Policies (Captive Portal):**
+   Captive Portal authentication මගින් network resources access කිරීමට පෙර users authenticate කිරීමට enforce කරයි. මෙම topic එකෙන් Captive Portal authentication policies configure කරන ආකාරය explain කරයි.
+
+3. **Monitor Firewall Users:**
+   Firewall users monitor කිරීම network security සහ performance maintain කිරීමට වැදගත් වේ. Logged-in users, session details සහ authentication logs view කර user activity track කරන ආකාරය මෙහිදී cover කරයි.
+
+**Conclusion:**
+Module 4 මගින් firewall authentication manage කිරීම, user and policy configuration කිරීම සහ user activity monitor කිරීම සඳහා අවශ්‍ය knowledge සහ skills ලබා දේ.
 
 ---
 
@@ -1605,33 +2100,47 @@ Table of contents:
 
 # Security Profiles on FortiGate Firewall
 
-Security profiles on FortiGate firewall provide advanced threat protection and content filtering capabilities to safeguard networks from various cyber threats. Here's a detailed overview of each security profile:
+FortiGate firewall එකේ Security profiles මගින් advanced threat protection සහ content filtering capabilities ලබා දෙන අතර, network එක cyber threats වලින් ආරක්ෂා කරයි.
+
+පහත දැක්වෙන්නේ එක් එක් security profile පිළිබඳ විස්තරාත්මක overview එකකි:
+
 
 ## 1. Application Control
 
-- **Purpose**: Application Control allows administrators to monitor and control applications' usage within the network, including identifying and blocking unauthorized or risky applications.
-- **Features**: Application identification, application-based policies, application usage monitoring, and application-based traffic shaping.
+* **Purpose:**
+  Application Control මගින් network එක තුළ applications භාවිතය monitor කිරීම සහ control කිරීම සිදු කරයි.
+  මෙයට unauthorized හෝ risky applications identify කර block කිරීමද ඇතුළත් වේ.
+
+* **Features:**
+  Application identification, application-based policies, application usage monitoring සහ application-based traffic shaping.
+
 
 ## **Demo:**
 
-To configure the Application control Go to **Security Profiles —> Application Control**
+Application Control configure කිරීමට:
+
+Go to **Security Profiles → Application Control**
 
 ![Untitled](fortigate-guide-images/Untitled%2069.png)
 
-Select the Application you want block and apply action as Block.
+ඔයා block කරන්න ඕන application එක select කරලා action එක **Block** ලෙස set කරන්න.
 
 ![Untitled](fortigate-guide-images/Untitled%2070.png)
 
 ![Untitled](fortigate-guide-images/Untitled%2071.png)
 
-Apply the Policy which we have created on Firewall & Objects as per requirements.
+අප විසින් Firewall & Objects තුළ create කළ policy එක requirements අනුව apply කරන්න.
 
 ![Untitled](fortigate-guide-images/Untitled%2072.png)
 
 ## 2. Web Filtering
 
-- **Purpose**: Web Filtering enables administrators to control access to websites based on categories, URLs, or specific content types, providing protection against malicious or inappropriate web content.
-- **Features**: URL filtering, content filtering, antivirus scanning of web traffic, safe search enforcement, and SSL inspection for HTTPS websites.
+* **Purpose:**
+  Web Filtering මගින් websites වලට access control කිරීම සිදු කරයි.
+  මෙය categories, URLs හෝ specific content types අනුව configure කර malicious හෝ inappropriate web content වලින් protection ලබා දෙයි.
+
+* **Features:**
+  URL filtering, content filtering, web traffic සඳහා antivirus scanning, safe search enforcement සහ HTTPS websites සඳහා SSL inspection.
 
 ## **Demo:**
 
@@ -1644,9 +2153,12 @@ Apply the Policy which we have created on Firewall & Objects as per requirements
 ![Untitled](fortigate-guide-images/Untitled%2076.png)
 
 ## 3. File Filter
+* **Purpose:**
+  File Filter මගින් file transfers scan කර malware, malicious content සහ unauthorized file types detect කරයි.
+  මෙය malware spread වීම prevent කිරීමට සහ Data Loss Prevention (DLP) policies enforce කිරීමට උපකාරී වේ.
 
-- **Purpose**: File Filter scans file transfers for malware, malicious content, and unauthorized file types, helping to prevent the spread of malware and enforce data loss prevention policies.
-- **Features**: File type filtering, antivirus scanning of file transfers, quarantine and blocking of infected files, and granular control over allowed file types.
+* **Features:**
+  File type filtering, file transfers සඳහා antivirus scanning, infected files quarantine කිරීම සහ block කිරීම, සහ allowed file types සඳහා granular control.
 
 ## **Demo:**
 
@@ -1658,8 +2170,13 @@ Apply the Policy which we have created on Firewall & Objects as per requirements
 
 ## 4. DNS Filter
 
-- **Purpose**: DNS Filter blocks access to malicious or inappropriate domains by filtering DNS requests, providing an additional layer of security against phishing attacks, malware distribution, and access to undesirable content.
-- **Features**: Domain filtering, domain reputation-based blocking, DNS sinkholing, and integration with threat intelligence feeds.
+* **Purpose:**
+  DNS Filter මගින් DNS requests filter කර malicious හෝ inappropriate domains වලට access block කරයි.
+  මෙය phishing attacks, malware distribution සහ undesirable content access වලට එරෙහිව additional security layer එකක් ලබා දෙයි.
+
+* **Features:**
+  Domain filtering, domain reputation-based blocking, DNS sinkholing සහ threat intelligence feeds සමඟ integration.
+
 
 ## **Demo:**
 
@@ -1673,8 +2190,12 @@ Apply the Policy which we have created on Firewall & Objects as per requirements
 
 ## 5. Antivirus
 
-- **Purpose**: Antivirus scans network traffic for known malware, viruses, and other malicious content, protecting endpoints and networks from infection.
-- **Features**: Real-time antivirus scanning, heuristic analysis, signature-based detection, quarantine and removal of infected files, and automatic updates of antivirus definitions.
+* **Purpose:**
+  Antivirus මගින් network traffic scan කර known malware, viruses සහ other malicious content detect කරයි.
+  මෙය endpoints සහ network එක infection වලින් ආරක්ෂා කිරීමට උපකාරී වේ.
+
+* **Features:**
+  Real-time antivirus scanning, heuristic analysis, signature-based detection, infected files quarantine කිරීම සහ remove කිරීම, සහ antivirus definitions automatic updates.
 
 For Antivirus Filtering we need valid License.
 
@@ -1682,8 +2203,13 @@ For Antivirus Filtering we need valid License.
 
 ## 6. Intrusion Prevention
 
-- **Purpose**: Intrusion Prevention System (IPS) identifies and blocks network-based attacks, including exploits, vulnerabilities, and malicious traffic patterns, to prevent unauthorized access and data breaches.
-- **Features**: Signature-based detection, anomaly-based detection, protocol inspection, traffic anomaly detection, and blocking of known attack vectors.
+* **Purpose:**
+  Intrusion Prevention System (IPS) මගින් network-based attacks identify කර block කරයි.
+  මෙයට exploits, vulnerabilities සහ malicious traffic patterns ඇතුළත් වේ.
+  Unauthorized access සහ data breaches prevent කිරීමට මෙය උපකාරී වේ.
+
+* **Features:**
+  Signature-based detection, anomaly-based detection, protocol inspection, traffic anomaly detection සහ known attack vectors block කිරීම.
 
 ## **Demo:**
 
@@ -1695,17 +2221,26 @@ Apply it, as previous we added to required Policy or Zone.
 
 ## 7. Video Filter
 
-- **Purpose**: Video Filter controls access to streaming video content based on categories, URLs, or specific content types, helping to optimize bandwidth usage and enforce acceptable use policies.
-- **Features**: Video streaming control, bandwidth management for video content, content filtering based on video categories, and visibility into video traffic usage.
+* **Purpose:**
+  Video Filter මගින් streaming video content වලට access control කිරීම සිදු කරයි.
+  මෙය categories, URLs හෝ specific content types අනුව configure කර bandwidth usage optimize කිරීමට සහ acceptable use policies enforce කිරීමට උපකාරී වේ.
+
+* **Features:**
+  Video streaming control, video content සඳහා bandwidth management, video categories අනුව content filtering සහ video traffic usage පිළිබඳ visibility.
 
 ## **Demo:**
 
 ![Untitled](fortigate-guide-images/Untitled%2087.png)
 
 ## 8. SSL/SSH Inspection Profile
+* **Purpose:**
+  SSL/SSH Inspection මගින් encrypted SSL/TLS හෝ SSH traffic decrypt කර inspect කරයි.
+  මෙය encrypted communications තුළ hide වී ඇති threats detect කර prevent කිරීමට උපකාරී වේ.
+  ඒ වගේම encrypted traffic සඳහා visibility ලබා දී security policies enforce කරයි.
 
-- **Purpose**: SSL/SSH Inspection decrypts and inspects encrypted SSL/TLS or SSH traffic to detect and prevent threats hidden within encrypted communications, providing visibility into encrypted traffic and enforcing security policies.
-- **Features**: SSL/TLS decryption, certificate inspection, SSL handshake validation, encryption protocol enforcement, and application control for decrypted traffic.
+* **Features:**
+  SSL/TLS decryption, certificate inspection, SSL handshake validation, encryption protocol enforcement සහ decrypted traffic සඳහා application control.
+
 
 ## **Demo:**
 
@@ -1717,18 +2252,34 @@ The Policy has configured LAN_WAN traffic.
 
 ## **Summary:**
 
-Module 5 of the FortiGate firewall course focuses on security profiles, which are essential components for safeguarding networks against various cyber threats and enforcing security policies. Here's a summary of the security profiles covered:
+**Module 5 Summary – FortiGate Security Profiles**
 
-1. **Application Control**: Allows administrators to monitor and control the usage of applications within the network, helping to identify and block unauthorized or risky applications.
-2. **Web Filtering**: Enables administrators to control access to websites based on categories, URLs, or specific content types, providing protection against malicious or inappropriate web content.
-3. **File Filter**: Scans file transfers for malware, malicious content, and unauthorized file types, helping to prevent the spread of malware and enforce data loss prevention policies.
-4. **DNS Filter**: Blocks access to malicious or inappropriate domains by filtering DNS requests, providing an additional layer of security against phishing attacks, malware distribution, and access to undesirable content.
-5. **Antivirus**: Scans network traffic for known malware, viruses, and other malicious content, protecting endpoints and networks from infection.
-6. **Intrusion Prevention**: Identifies and blocks network-based attacks, including exploits, vulnerabilities, and malicious traffic patterns, to prevent unauthorized access and data breaches.
-7. **Video Filter**: Controls access to streaming video content based on categories, URLs, or specific content types, helping to optimize bandwidth usage and enforce acceptable use policies.
-8. **SSL/SSH Inspection Profile**: Decrypts and inspects encrypted SSL/TLS or SSH traffic to detect and prevent threats hidden within encrypted communications, providing visibility into encrypted traffic and enforcing security policies.
+1. **Application Control:**
+   Network එක තුළ applications usage monitor සහ control කිරීම. Unauthorized හෝ risky applications identify කර block කිරීමට උපකාරී වේ.
 
-By understanding and configuring these security profiles, administrators can implement comprehensive threat protection measures and enforce security policies to safeguard their networks effectively against cyber threats.
+2. **Web Filtering:**
+   Categories, URLs හෝ content types අනුව websites access control කිරීම. Malicious හෝ inappropriate web content වලින් protection ලබා දෙයි.
+
+3. **File Filter:**
+   File transfers scan කර malware, malicious content සහ unauthorized file types detect කරයි. Data loss prevention enforce කිරීමට උපකාරී වේ.
+
+4. **DNS Filter:**
+   DNS requests filter කර malicious domains වලට access block කරයි. Phishing සහ malware attacks වලින් additional protection ලබා දෙයි.
+
+5. **Antivirus:**
+   Network traffic scan කර known malware, viruses සහ malicious content detect කර protect කරයි.
+
+6. **Intrusion Prevention (IPS):**
+   Network-based attacks (exploits, vulnerabilities, malicious traffic) detect කර block කර unauthorized access prevent කරයි.
+
+7. **Video Filter:**
+   Streaming video content control කර bandwidth optimize කිරීමට සහ acceptable use policies enforce කිරීමට උපකාරී වේ.
+
+8. **SSL/SSH Inspection Profile:**
+   Encrypted SSL/TLS සහ SSH traffic decrypt කර inspect කර hidden threats detect කර security policies enforce කරයි.
+
+**Conclusion:**
+Module 5 මගින් security profiles configure කිරීමෙන් FortiGate firewall එක advanced threat protection, content filtering සහ comprehensive network security enforce කිරීමට හැකියාව ලැබේ.
 
 ---
 
@@ -1740,66 +2291,84 @@ By understanding and configuring these security profiles, administrators can imp
 # MODULE 6
 ## Logging and Monitoring
 
-Table of contents:
+Table of Contents
 
-- Understanding Log severity levels
-- Understanding Logs & Sublog types
-- Understanding Log structures
-- Configuring log settings
-- Redirect logs to Syslog & SNMP
-- Fortigate One-Arm Sniffer & SPAN 
+* Log severity levels අවබෝධ කරගැනීම
+* Logs & Sublog types අවබෝධ කරගැනීම
+* Log structures අවබෝධ කරගැනීම
+* Log settings configure කිරීම
+* Logs Syslog & SNMP වෙත redirect කිරීම
+* FortiGate One-Arm Sniffer & SPAN
+
 
 # FortiGate Firewall Logging and Monitoring
 
-Logging and monitoring are essential components of network security, providing visibility into network activity, detecting threats, and troubleshooting issues. FortiGate firewall offers comprehensive logging and monitoring capabilities to help administrators effectively manage their network environments.
+Logging සහ monitoring යනු network security හි අත්‍යවශ්‍ය components වේ. මේවා මගින් network activity පිළිබඳ visibility ලබා දෙන අතර threats detect කිරීම සහ issues troubleshoot කිරීම සඳහා උපකාරී වේ.
+
+FortiGate firewall එක administrators ලට ඔවුන්ගේ network environment එක effectively manage කිරීමට උපකාර වන comprehensive logging සහ monitoring capabilities ලබා දෙයි.
 
 ## 1. Understanding Log Severity Levels
 
-Log severity levels indicate the importance or severity of logged events. FortiGate firewall categorizes logs into different severity levels, including:
+Log severity levels මගින් logged events වල importance හෝ severity එක පෙන්නුම් කරයි. FortiGate firewall එක logs විවිධ severity levels ලෙස categorize කරයි:
 
-- **Emergency**: System is unusable.
-- **Alert**: Immediate action is required.
-- **Critical**: Critical conditions.
-- **Error**: Error conditions.
-- **Warning**: Warning conditions.
-- **Notice**: Normal but significant condition.
-- **Informational**: Informational messages.
-- **Debug**: Debug-level messages.
+* **Emergency**: System එක භාවිතා කළ නොහැකි තත්ත්වය.
+* **Alert**: වහාම ක්‍රියාමාර්ග අවශ්‍ය වේ.
+* **Critical**: අතිශය වැදගත්/critical තත්ත්වයන්.
+* **Error**: error තත්ත්වයන්.
+* **Warning**: warning තත්ත්වයන්.
+* **Notice**: සාමාන්‍ය නමුත් වැදගත් තත්ත්වයක්.
+* **Informational**: තොරතුරුමය messages.
+* **Debug**: debug-level messages.
+
 
 ## 2. Understanding Logs & Sublog Types
 
-FortiGate firewall generates various types of logs to capture different aspects of network activity and security events. Common log types include:
+FortiGate firewall එක network activity සහ security events වල විවිධ aspects capture කිරීමට විවිධ log types generate කරයි. සාමාන්‍ය log types මෙසේය:
 
-- **Traffic Logs**: Capture information about traffic passing through the firewall, including source and destination IP addresses, ports, protocols, and actions taken.
-- **Event Logs**: Record system events, such as configuration changes, system reboots, and HA failovers.
-- **Security Logs**: Document security-related events, including intrusion prevention system (IPS) alerts, antivirus detections, and web filtering violations.
+* **Traffic Logs:**
+  Firewall එක හරහා pass වන traffic පිළිබඳ information capture කරයි. මෙයට source සහ destination IP addresses, ports, protocols සහ taken actions ඇතුළත් වේ.
+
+* **Event Logs:**
+  System events record කරයි. උදාහරණ ලෙස configuration changes, system reboots සහ HA failovers.
+
+* **Security Logs:**
+  Security-related events document කරයි. මෙයට intrusion prevention system (IPS) alerts, antivirus detections සහ web filtering violations ඇතුළත් වේ.
 
 ## 3. Understanding Log Structures
 
-Logs generated by the FortiGate firewall follow a structured format, typically including the following information:
+FortiGate firewall එකෙන් generate වන logs structured format එකක් follow කරයි. සාමාන්‍යයෙන් පහත information ඇතුළත් වේ:
 
-- **Timestamp**: Date and time when the event occurred.
-- **Source IP**: IP address of the source device or user.
-- **Destination IP**: IP address of the destination device or resource.
-- **Action**: Action taken by the firewall (e.g., allow, deny).
-- **Severity**: Severity level of the event.
-- **Description**: Description of the event or log entry.
-- **Event Type**: Type of event (e.g., traffic, security, system).
+* **Timestamp:** Event එක සිදු වූ දිනය සහ වේලාව.
+* **Source IP:** Source device හෝ user එකේ IP address එක.
+* **Destination IP:** Destination device හෝ resource එකේ IP address එක.
+* **Action:** Firewall එක විසින් ගත් action එක (allow, deny වැනි).
+* **Severity:** Event එකේ severity level එක.
+* **Description:** Event එක හෝ log entry එක පිළිබඳ විස්තරය.
+* **Event Type:** Event එකේ type එක (traffic, security, system වැනි).
+
 
 ## 4. Configuring Log Settings
 
-Administrators can configure log settings on the FortiGate firewall to customize logging behavior and control which events are logged. Key configuration options include:
+Administrators ලට FortiGate firewall එකේ log settings configure කරලා logging behavior customize කරගන්න පුළුවන් සහ log කරන events control කරන්න පුළුවන්. ප්‍රධාන configuration options මෙසේය:
 
-- **Log Filters**: Define criteria for filtering logs based on specific attributes, such as severity level, source/destination IP addresses, or event type.
-- **Log Storage**: Specify the maximum log file size, retention period, and storage location for logs.
-- **Log Rotation**: Configure log rotation settings to manage log file size and prevent disk space exhaustion.
+* **Log Filters:**
+  Severity level, source/destination IP addresses හෝ event type වැනි attributes අනුව logs filter කිරීමට criteria define කරයි.
+
+* **Log Storage:**
+  Logs සඳහා maximum log file size, retention period සහ storage location specify කරයි.
+
+* **Log Rotation:**
+  Log file size manage කිරීම සහ disk space exhaustion prevent කිරීම සඳහා log rotation settings configure කරයි.
 
 ## 5. Redirect Logs to Syslog & SNMP
 
-FortiGate firewall supports sending logs to external logging and monitoring systems via Syslog and SNMP protocols. This allows administrators to centralize log management and integrate firewall logs with existing monitoring platforms. Key steps include:
+FortiGate firewall එක Syslog සහ SNMP protocols භාවිතා කර external logging සහ monitoring systems වලට logs send කිරීමට support කරයි. මෙය administrators ලට log management centralize කිරීමට සහ firewall logs existing monitoring platforms සමඟ integrate කිරීමට උපකාරී වේ. ප්‍රධාන steps මෙසේය:
 
-- **Syslog Configuration**: Configure the firewall to send logs to a Syslog server by specifying the server IP address, port, and logging format.
-- **SNMP Configuration**: Set up SNMP traps to send log notifications to an SNMP management system for real-time monitoring and alerting.
+* **Syslog Configuration:**
+  Firewall එක Syslog server එකට logs send කිරීමට configure කරයි. මෙහිදී server IP address, port සහ logging format specify කරයි.
+
+* **SNMP Configuration:**
+  Real-time monitoring සහ alerting සඳහා SNMP traps configure කර SNMP management system එකට log notifications send කරයි.
 
 ## **Demo:**
 
@@ -1824,19 +2393,24 @@ FortiGate firewall supports sending logs to external logging and monitoring syst
 ## 6. FortiGate Firewall One-Arm Sniffer Configuration:
 
 **1. Enable Sniffer:**
-   - Log in to your FortiGate firewall using a web browser or SSH.
-   - Navigate to the CLI (Command Line Interface) or the GUI (Graphical User Interface).
-   - Enable the sniffer feature. You can do this through the CLI using the following command:
+
+* Web browser හෝ SSH භාවිතා කර FortiGate firewall එකට log in කරන්න.
+* CLI (Command Line Interface) හෝ GUI (Graphical User Interface) වෙත navigate කරන්න.
+* Sniffer feature එක enable කරන්න. මෙය CLI මගින් පහත ලෙස configure කළ හැක.
+command:
      ```
      config system settings
      set sniffer-enabled enable
      end
      ```
-   - Alternatively, in the GUI, you can navigate to **System > Settings** and then enable the sniffer from there.
+* Alternatively, GUI එක තුළ **System > Settings** වෙත ගොස් sniffer feature එක enable කළ හැක.
 
 **2. Configure One-Arm Sniffer Interface:**
-   - Determine which interface you want to use for the one-arm sniffer. This interface should be connected to the network segment you want to monitor.
-   - Configure the interface as a sniffer interface. In the CLI:
+
+* One-arm sniffer සඳහා භාවිතා කරන interface එක තෝරන්න.
+* මෙම interface එක ඔබ monitor කිරීමට අවශ්‍ය network segment එකට connect කර තිබිය යුතුය.
+* Interface එක sniffer interface එකක් ලෙස configure කරන්න. CLI තුළ මෙය පහත ලෙස කරන්න:
+
      ```
      config system interface
      edit <interface_name>
@@ -1847,11 +2421,14 @@ FortiGate firewall supports sending logs to external logging and monitoring syst
      next
      end
      ```
-   - Replace `<interface_name>` with the actual name of your interface, and `<vdom_name>` with the virtual domain name if applicable.
+* `<interface_name>` වෙනුවට ඔබගේ actual interface name එක ද, `<vdom_name>` වෙනුවට (අදාළ නම්) virtual domain name එක ද replace කරන්න.
 
 **3. Set Sniffer Filters (Optional):**
-   - You can specify filters to capture specific traffic, such as by source/destination IP, port, protocol, etc. This step is optional but can be useful for focusing on relevant traffic.
-   - Filters can be set using the following CLI command:
+
+* Source/Destination IP, port, protocol වැනි specific traffic capture කිරීමට filters specify කළ හැක.
+* මෙය optional වුවද relevant traffic focus කිරීමට ඉතා useful වේ.
+* Filters CLI command එක මගින් set කළ හැක:
+
      ```
      config system sniffer filter
      edit <filter_name>
@@ -1865,42 +2442,60 @@ FortiGate firewall supports sending logs to external logging and monitoring syst
      ```
 
 **4. Start Sniffer:**
-   - Once configured, start the sniffer to begin capturing network traffic. Use the following command:
+
+* Configuration complete වුණාට පස්සේ network traffic capture කිරීම ආරම්භ කිරීමට sniffer start කරන්න.
+* පහත command එක භාවිතා කරන්න:
+
      ```
      diagnose sniffer packet <interface_name> <filter_name>  // If filters are configured
      ```
 
 **5. View Sniffer Output:**
-   - You can view the captured packets either directly on the CLI or by exporting them to a file for analysis using Wireshark or similar tools.
+
+* Captured packets CLI එකේ directly view කරන්න පුළුවන්.
+* නැත්නම් Wireshark වැනි tools භාවිතා කිරීමට export කර analysis කරන්න පුළුවන්.
 
 ## 7. Cisco Switch SPAN Monitor Source and Destination Configuration:
 
 **1. Define SPAN Session:**
-   - Log in to your Cisco switch using a console connection or SSH.
-   - Determine which ports you want to monitor (source ports) and where you want to send the monitored traffic (destination port).
-   - Configure a SPAN session. In the CLI:
+
+* Console connection හෝ SSH භාවිතා කර Cisco switch එකට login කරන්න.
+* Monitor කිරීමට අවශ්‍ය ports (source ports) සහ monitored traffic send කරන destination port එක identify කරන්න.
+* SPAN session එක configure කරන්න. CLI තුළ මෙය පහත ලෙස කරන්න:
      ```
      monitor session <session_number> source interface <source_interface>  // Source ports
      monitor session <session_number> destination interface <destination_interface>  // Destination port
      ```
-   - Replace `<session_number>` with the desired session number, `<source_interface>` with the source interface(s) to be monitored, and `<destination_interface>` with the destination interface to which the monitored traffic will be sent.
+* `<session_number>` වෙනුවට desired session number එක ද, `<source_interface>` වෙනුවට monitor කරන source interface(s) ද, `<destination_interface>` වෙනුවට monitored traffic යවන destination interface එක ද replace කරන්න.
 
 **2. Configure SPAN Type (Optional):**
-   - By default, SPAN sessions are configured as local SPAN, meaning the monitored traffic stays within the switch. If you want to send the traffic to a remote device for analysis, you'll need to configure a Remote SPAN (RSPAN) or Encapsulated Remote SPAN (ERSPAN) session.
+
+* Default ලෙස SPAN sessions local SPAN ලෙස configure වේ, ඒ කියන්නේ monitored traffic switch එක තුළම පවතී.
+* Traffic remote device එකකට analysis සඳහා යැවීමට අවශ්‍ය නම් Remote SPAN (RSPAN) හෝ Encapsulated Remote SPAN (ERSPAN) configure කළ යුතුය.
 
 **3. Verify SPAN Configuration:**
-   - After configuring the SPAN session, verify the configuration to ensure it's correct. You can use the following command:
+
+* SPAN session configure කිරීමෙන් පසුව configuration එක correct ද කියලා verify කළ යුතුය.
+* ඒ සඳහා පහත command එක භාවිතා කළ හැක:
+
      ```
      show monitor session <session_number>
      ```
 
 **4. Start Monitoring:**
-   - Once the SPAN session is configured, it automatically starts monitoring traffic on the specified source ports and sends it to the destination port.
+
+* SPAN session එක configure කළාට පස්සේ එය automatically start වෙලා specified source ports වල traffic monitor කරයි.
+* Monitored traffic destination port එකට send කරයි.
 
 **5. Analyze Monitored Traffic:**
-   - You can connect a monitoring device (e.g., a packet analyzer or network monitoring tool) to the destination port to capture and analyze the monitored traffic.
 
-These configurations should help you set up One-Arm Sniffer on FortiGate firewall and SPAN monitoring on a Cisco switch effectively. Remember to adjust the settings according to your specific network requirements and security policies.
+* Monitoring device එකක් (packet analyzer හෝ network monitoring tool එකක්) destination port එකට connect කරන්න.
+* එමගින් monitored traffic capture කර analysis කළ හැක.
+
+**Conclusion:**
+මෙම configurations මගින් FortiGate One-Arm Sniffer සහ Cisco switch SPAN monitoring effectively setup කළ හැක.
+ඔබගේ specific network requirements සහ security policies අනුව settings adjust කිරීම වැදගත් වේ.
+
 
 ## **Demo:**
 
@@ -1908,19 +2503,19 @@ These configurations should help you set up One-Arm Sniffer on FortiGate firewal
 
 ![Untitled 102](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20102)
 
-### **Cisco Switch ports which are connected to the PC and Firewall, configured SPAN(Switch Port Analyzer):**
+### **Cisco switch එකේ PC සහ Firewall connect කර ඇති ports monitor කිරීම සඳහා SPAN (Switch Port Analyzer) configure කර ඇත.**
 
 ![Untitled 103](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20103)
 
-### **Fortigate port2 make it interface type as One-Arm Sniffer, Follow the Image Instructions:**
+### **FortiGate port2 interface type One-Arm Sniffer ලෙස configure කරන්න – Image Instructions අනුව follow කරන්න:**
 
 ![Untitled 104](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20104)
 
-### **Generating traffic from the PC towards the internet, all packets are sent to Firewall as well:**
+### **PC එකෙන් internet towards traffic generate කිරීම – සියලු packets Firewall එකටද send වේ:**
 
 ![Untitled 105](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20105)
 
-### **To check the Packet sniffed from the PC, go to "Logs & Report" --> "Sniffer Traffic":**
+### **PC එකෙන් sniff කරන ලද packets check කිරීමට “Logs & Report” → “Sniffer Traffic” වෙත යන්න:**
 
 ![Untitled 106](https://github.com/santhuksha/Fortigate-Firewall/fotigate-guide-images/Untitled%20106)
 
@@ -1934,14 +2529,14 @@ These configurations should help you set up One-Arm Sniffer on FortiGate firewal
 
 ## Summary:
 
-- Covers log severity levels, helping prioritize security events effectively.
-- Explores various log types, including Traffic Logs, Event Logs, and Security Logs.
-- Details the structured format of logs, aiding in efficient interpretation.
-- Discusses configuring log settings for tailored logging behavior.
-- Demonstrates redirecting logs to external systems like Syslog and SNMP for centralized monitoring.
-- Gives a hands-on and good understanding of FortiGate packet sniffing and SPAN configuration.
+* Log severity levels ගැන cover කරන අතර security events prioritize කිරීම effectively කරගැනීමට උපකාරී වේ.
+* Traffic Logs, Event Logs සහ Security Logs ඇතුළු විවිධ log types explore කරයි.
+* Logs වල structured format එක explain කර, efficient interpretation සඳහා සහාය වේ.
+* Tailored logging behavior සඳහා log settings configure කරන ආකාරය details කරයි.
+* Centralized monitoring සඳහා Syslog සහ SNMP වැනි external systems වලට logs redirect කරන ආකාරය demonstrate කරයි.
+* FortiGate packet sniffing සහ SPAN configuration පිළිබඳ hands-on understanding එකක් ලබා දෙයි.
 
-This module equips administrators with the knowledge to efficiently monitor network activity, detect security incidents, and ensure the reliability of their network infrastructure.
+මෙම module එක administrators ලට network activity effectively monitor කිරීම, security incidents detect කිරීම සහ network infrastructure reliability ensure කිරීම සඳහා අවශ්‍ය knowledge ලබා දෙයි.
 
 ---
 
@@ -1952,123 +2547,183 @@ This module equips administrators with the knowledge to efficiently monitor netw
 # MODULE 7
 ## Basic IPSEC VPN
 
-Table of contents:
+**Table of Contents:**
 
-- Understanding the Architecture of IPSEC
-- Understanding IKE Phase 1 & 2
-- Configure IPSEC between FortiGate to FortiGate
+* IPSEC Architecture එකේ structure එක අවබෝධ කරගැනීම
+* IKE Phase 1 සහ Phase 2 අවබෝධ කරගැනීම
+* FortiGate to FortiGate අතර IPSEC configure කිරීම
 
 # **I. Understanding the Architecture of IPsec**
 
-IPsec (Internet Protocol Security) is a suite of protocols used to secure Internet protocol (IP) communications by authenticating and encrypting each IP packet of a communication session. The architecture of IPsec involves several components and protocols working together to establish secure communication channels. Here's a detailed overview of the IPsec architecture:
+IPsec (Internet Protocol Security) යනු Internet Protocol (IP) communications secure කිරීමට භාවිතා කරන protocols suite එකකි. මෙය communication session එකක IP packets authenticate සහ encrypt කර security ලබා දෙයි.
+
+IPsec architecture එක තුළ secure communication channels establish කිරීමට එකට ක්‍රියා කරන several components සහ protocols අඩංගු වේ. පහත දැක්වෙන්නේ IPsec architecture එක පිළිබඳ detailed overview එකකි:
+
 
 ## 1. Security Associations (SA)
 
-- **Purpose**: Security Associations define the parameters for secure communication between two devices, including authentication and encryption algorithms, keys, and security parameters.
-- **Components**: Each SA consists of a pair of security parameters index (SPI), source IP address, destination IP address, security protocol (AH or ESP), and security parameters such as encryption and authentication algorithms.
+* **Purpose:**
+  Security Associations (SA) මගින් devices දෙකක් අතර secure communication සඳහා අවශ්‍ය parameters define කරයි.
+  මෙයට authentication සහ encryption algorithms, keys සහ security parameters ඇතුළත් වේ.
+
+* **Components:**
+  Each SA එකට Security Parameters Index (SPI) pair එකක්, source IP address, destination IP address, security protocol (AH හෝ ESP) සහ encryption/authentication algorithms වැනි security parameters ඇතුළත් වේ.
 
 ## 2. Security Associations Database (SAD)
 
-- **Purpose**: The Security Associations Database stores active SAs negotiated between IPsec peers, allowing the system to quickly look up the parameters required to process inbound and outbound IPsec packets.
-- **Components**: SAD contains entries for each active SA, including SPI, source and destination IP addresses, security protocol, encryption/authentication keys, and lifetime information.
+* **Purpose:**
+  Security Associations (SA) මගින් devices දෙකක් අතර secure communication සඳහා අවශ්‍ය parameters define කරයි.
+  මෙයට authentication සහ encryption algorithms, keys සහ security parameters ඇතුළත් වේ.
+
+* **Components:**
+  Each SA එකට Security Parameters Index (SPI) pair එකක්, source IP address, destination IP address, security protocol (AH හෝ ESP) සහ encryption/authentication algorithms වැනි security parameters ඇතුළත් වේ.
 
 ## 3. Key Management Protocol
 
-- **Purpose**: Key Management Protocols are used to negotiate and manage encryption keys required for establishing secure communication channels between IPsec peers.
-- **Protocols**: Common Key Management Protocols include Internet Key Exchange (IKE) and IKEv2, which automate the negotiation and exchange of encryption keys, authentication parameters, and security policies.
+* **Purpose:**
+  Key Management Protocols මගින් IPsec peers අතර secure communication channels establish කිරීමට අවශ්‍ය encryption keys negotiate සහ manage කරයි.
+
+* **Protocols:**
+  Common Key Management Protocols ලෙස Internet Key Exchange (IKE) සහ IKEv2 භාවිතා වේ.
+  මෙවා encryption keys, authentication parameters සහ security policies automate ලෙස negotiate සහ exchange කරයි.
 
 ## 4. Encapsulating Security Payload (ESP)
 
-- **Purpose**: ESP provides confidentiality, integrity, and authentication for IP packets by encapsulating the payload in a secure envelope, encrypting it, and adding authentication data.
-- **Functions**: ESP encrypts the IP payload using encryption algorithms such as AES or 3DES, adds authentication data to ensure packet integrity, and optionally provides anti-replay protection.
+* **Purpose:**
+  ESP (Encapsulating Security Payload) මගින් IP packets සඳහා confidentiality, integrity සහ authentication ලබා දෙයි.
+  මෙය payload එක secure envelope එකක් තුළ encapsulate කර encrypt කර authentication data එකක් add කිරීමෙන් සිදු කරයි.
+
+* **Functions:**
+  ESP මගින් AES හෝ 3DES වැනි encryption algorithms භාවිතා කර IP payload encrypt කරයි, packet integrity තහවුරු කිරීමට authentication data add කරයි, සහ optionally anti-replay protection ද ලබා දෙයි.
 
 ## 5. Authentication Header (AH)
 
-- **Purpose**: AH provides data integrity, authentication, and anti-replay protection for IP packets by including a hash-based message authentication code (HMAC) in each packet.
-- **Functions**: AH calculates a hash-based authentication code over the IP packet's entire contents, including the IP header, ensuring the integrity of the packet and detecting any modifications.
+* **Purpose:**
+  AH (Authentication Header) මගින් IP packets සඳහා data integrity, authentication සහ anti-replay protection ලබා දෙයි.
+  මෙය HMAC (hash-based message authentication code) එකක් packet එකට include කිරීමෙන් සිදු කරයි.
+
+* **Functions:**
+  AH මගින් IP packet එකේ සම්පූර්ණ contents (IP header ඇතුළුව) මත hash-based authentication code එක calculate කරයි.
+  මෙය packet එකේ integrity තහවුරු කරන අතර any modification හඳුනා ගැනීමට උපකාරී වේ.
 
 # **II. Understanding IKE Phase 1 & 2**
 
-IKE (Internet Key Exchange) is a key management protocol used in IPsec VPNs to establish and manage secure communication channels between peers. IKE operates in two phases, known as Phase 1 and Phase 2, each serving distinct purposes in the VPN establishment process. Let's delve into the details of each phase:
+IKE (Internet Key Exchange) යනු IPsec VPNs වලදී secure communication channels establish සහ manage කිරීමට භාවිතා වන key management protocol එකකි.
+
+IKE ක්‍රියාවලිය phases දෙකකින් ක්‍රියා කරයි — Phase 1 සහ Phase 2 — ඒවා VPN establishment process එක තුළ වෙනස් වගකීම් ඉටු කරයි.
+
+දැන් අපි එක් එක් phase එක පිළිබඳව විස්තරාත්මකව බලමු:
 
 ## 1. IKE Phase 1
 
-- **Purpose**: Phase 1 establishes a secure channel for negotiating the parameters required for subsequent communications, including encryption algorithms, authentication methods, and session keys.
-- **Main Mode Exchange**: Phase 1 typically employs Main Mode exchange, where peers authenticate each other and exchange encryption keys securely.
-- **Components**:
-    - **Authentication**: Peers authenticate each other using pre-shared keys (PSK) or digital certificates to ensure mutual trust.
-    - **Diffie-Hellman (DH) Exchange**: Peers perform a DH key exchange to generate a shared secret used to derive encryption keys.
-    - **Encryption and Integrity**: Phase 1 negotiates encryption and integrity algorithms to protect subsequent IKE and IPsec communications.
-- **Parameters Negotiated**: IKE Phase 1 negotiates parameters such as encryption algorithm, authentication method, DH group, and session lifetime.
+* **Purpose:**
+  Phase 1 මගින් subsequent communications සඳහා අවශ්‍ය parameters negotiate කිරීමට secure channel එකක් establish කරයි.
+  මෙයට encryption algorithms, authentication methods සහ session keys ඇතුළත් වේ.
+
+* **Main Mode Exchange:**
+  Phase 1 සාමාන්‍යයෙන් Main Mode exchange භාවිතා කරයි.
+  මෙහිදී peers එකිනෙකා authenticate කර secure ලෙස encryption keys exchange කරයි.
+
+* **Components:**
+
+  * **Authentication:** Peers එකිනෙකා authenticate කරයි (pre-shared keys (PSK) හෝ digital certificates භාවිතා කර mutual trust ensure කරයි).
+  * **Diffie-Hellman (DH) Exchange:** Shared secret එකක් generate කිරීමට DH key exchange සිදු කරයි.
+  * **Encryption and Integrity:** Phase 1 මගින් IKE සහ IPsec communications protect කිරීමට encryption සහ integrity algorithms negotiate කරයි.
+
+* **Parameters Negotiated:**
+  Encryption algorithm, authentication method, DH group සහ session lifetime වැනි parameters IKE Phase 1 තුළ negotiate කරයි.
 
 ### **Want to Know more about IKEv1:**  [Click Here](https://dev.to/hegdepavankumar/securing-connections-a-comprehensive-guide-to-ipsec-and-vpn-mastery-4eka)
 
 ## 2. IKE Phase 2
 
-- **Purpose**: Phase 2 establishes security associations (SAs) for IPsec traffic, defining the parameters for encrypting and authenticating data packets exchanged between peers.
-- **Quick Mode Exchange**: Phase 2 typically uses Quick Mode exchange, which focuses on negotiating IPsec parameters efficiently.
-- **Components**:
-    - **Encryption and Authentication**: Phase 2 negotiates encryption and authentication algorithms specifically for IPsec traffic protection.
-    - **IPsec SA Establishment**: Peers establish one or more IPsec SAs, each defining the parameters for encrypting and authenticating data packets.
-    - **Traffic Selector Negotiation**: Peers agree on which traffic will be protected by IPsec, defining source and destination IP addresses and protocols.
-- **Parameters Negotiated**: IKE Phase 2 negotiates parameters such as encryption algorithm, authentication method, IPsec mode (tunnel or transport), and IPsec SAs.
+* **Purpose:**
+  Phase 2 මගින් IPsec traffic සඳහා Security Associations (SAs) establish කරයි.
+  මෙය peers අතර data packets encrypt සහ authenticate කිරීමට අවශ්‍ය parameters define කරයි.
+
+* **Quick Mode Exchange:**
+  Phase 2 සාමාන්‍යයෙන් Quick Mode exchange භාවිතා කරයි.
+  මෙය IPsec parameters efficiently negotiate කිරීම සඳහා යොදා ගනී.
+
+* **Components:**
+
+  * **Encryption and Authentication:** IPsec traffic protection සඳහා encryption සහ authentication algorithms negotiate කරයි.
+  * **IPsec SA Establishment:** Peers අතර one හෝ multiple IPsec SAs establish කරයි, data packets encrypt සහ authenticate කිරීම සඳහා parameters define කරයි.
+  * **Traffic Selector Negotiation:** IPsec මගින් protect කරන traffic (source/destination IPs සහ protocols) define කරයි.
+
+* **Parameters Negotiated:**
+  Encryption algorithm, authentication method, IPsec mode (tunnel හෝ transport) සහ IPsec SAs parameters IKE Phase 2 තුළ negotiate කරයි.
 
 ## 
 
 # **III. Configuring IPsec between FortiGate to FortiGate**
 
-IPsec VPNs provide secure communication between networks or devices over the internet by encrypting and authenticating data traffic. Configuring IPsec between FortiGate firewalls involves several steps to establish a secure VPN tunnel. Here's a detailed guide:
+IPsec VPNs මගින් internet හරහා networks හෝ devices අතර secure communication ලබා දෙයි. මෙය data traffic encrypt සහ authenticate කිරීම මගින් සිදු වේ. FortiGate firewalls අතර IPsec configure කිරීම secure VPN tunnel එකක් establish කිරීමට steps කිහිපයක් අනුගමනය කරයි.
+
+පහත දැක්වෙන්නේ detailed guide එකකි:
 
 ## 1. Pre-requisites
 
-- Ensure both FortiGate firewalls have valid licenses for IPsec VPN.
-- Determine the public IP addresses of both FortiGate firewalls.
-- Establish connectivity between the public IP addresses of the two FortiGate firewalls.
+* FortiGate firewalls දෙකටම IPsec VPN සඳහා valid licenses තිබෙන බව ensure කරන්න.
+* FortiGate firewalls දෙකේ public IP addresses identify කරන්න.
+* FortiGate firewalls දෙකේ public IP addresses අතර connectivity establish කරන්න.
 
 ## 2. Configure Phase 1 (IKE)
 
 ### On FortiGate A:
 
-- Navigate to **VPN > IPsec > Wizard**.
-- Select **Custom VPN Tunnel (No Template)** and click **Next**.
-- Enter a **Name** for the VPN tunnel and click **Next**.
-- Configure Phase 1 parameters:
-    - **Remote Gateway**: Public IP address of FortiGate B.
-    - **Authentication Method**: Pre-shared Key or Digital Certificate.
-    - **Pre-shared Key**: Enter a shared secret for authentication.
-    - **Encryption Algorithm**: Select desired encryption algorithm.
-    - **Authentication Algorithm**: Select desired authentication algorithm.
-    - **Diffie-Hellman Group**: Select DH group for key exchange.
-- Click **Next** and then **Finish**.
+* **VPN > IPsec > Wizard** වෙත navigate කරන්න.
+
+* **Custom VPN Tunnel (No Template)** select කර **Next** click කරන්න.
+
+* VPN tunnel සඳහා **Name** එක enter කර **Next** click කරන්න.
+
+* **Phase 1 parameters configure කරන්න:**
+
+  * **Remote Gateway:** FortiGate B හි public IP address එක.
+  * **Authentication Method:** Pre-shared Key හෝ Digital Certificate.
+  * **Pre-shared Key:** Authentication සඳහා shared secret එක enter කරන්න.
+  * **Encryption Algorithm:** අවශ්‍ය encryption algorithm එක select කරන්න.
+  * **Authentication Algorithm:** අවශ්‍ය authentication algorithm එක select කරන්න.
+  * **Diffie-Hellman Group:** Key exchange සඳහා DH group එක select කරන්න.
+
+* **Next** click කර **Finish** කරන්න.
 
 ### On FortiGate B:
 
-- Repeat the same steps as above, configuring Phase 1 parameters with the public IP address of FortiGate A.
+* FortiGate A හි public IP address එක භාවිතා කරමින් Phase 1 parameters configure කිරීම සඳහා ඉහත steps ඒ ආකාරයෙන්ම නැවත repeat කරන්න.
 
 ## 3. Configure Phase 2
 
 ### On FortiGate A:
 
-- Navigate to **VPN > IPsec > Wizard**.
-- Select **Custom VPN Tunnel (No Template)** and click **Next**.
-- Enter the same **Name** used for Phase 1 and click **Next**.
-- Configure Phase 2 parameters:
-    - **Remote Gateway**: Public IP address of FortiGate B.
-    - **Local Interface**: Select the outgoing interface.
-    - **Encryption Algorithm**: Select the encryption algorithm.
-    - **Authentication Algorithm**: Select the authentication algorithm.
-    - **PFS**: Enable Perfect Forward Secrecy if required.
-- Click **Next** and then **Finish**.
+* **VPN > IPsec > Wizard** වෙත navigate කරන්න.
+
+* **Custom VPN Tunnel (No Template)** select කර **Next** click කරන්න.
+
+* Phase 1 වලදී භාවිතා කළ same **Name** එක enter කර **Next** click කරන්න.
+
+* **Phase 2 parameters configure කරන්න:**
+
+  * **Remote Gateway:** FortiGate B හි public IP address එක.
+  * **Local Interface:** outgoing interface එක select කරන්න.
+  * **Encryption Algorithm:** encryption algorithm එක select කරන්න.
+  * **Authentication Algorithm:** authentication algorithm එක select කරන්න.
+  * **PFS:** අවශ්‍ය නම් Perfect Forward Secrecy enable කරන්න.
+
+* **Next** click කර **Finish** කරන්න.
+
 
 ### On FortiGate B:
 
-- Repeat the same steps as above, configuring Phase 2 parameters with the public IP address of FortiGate A.
+* FortiGate A හි public IP address එක භාවිතා කරමින් Phase 2 parameters configure කිරීම සඳහා ඉහත steps ඒ ආකාරයෙන්ම නැවත repeat කරන්න.
 
 ## 4. Verify and Monitor
 
-- Once Phase 1 and Phase 2 configurations are completed on both FortiGate firewalls, the VPN tunnel should be established automatically.
-- Navigate to **VPN > Monitor > IPsec Monitor** to verify the status of the VPN tunnel.
-- Monitor traffic and logs to ensure the proper functioning of the IPsec VPN tunnel.
+* Phase 1 සහ Phase 2 configurations FortiGate firewalls දෙකේම complete කළ පසු VPN tunnel එක automatically establish විය යුතුය.
+* VPN tunnel එකේ status verify කිරීමට **VPN > Monitor > IPsec Monitor** වෙත යන්න.
+* IPsec VPN tunnel එක නිවැරදිව ක්‍රියා කරනවාද කියා තහවුරු කිරීමට traffic සහ logs monitor කරන්න.
+
 
 ## **Demo:**
 
@@ -2084,37 +2739,38 @@ Site-A to Site-B [Site-to-Site] VPN. Go to **VPN —> IPsec Wizard**
 
 ![Untitled](fortigate-guide-images/Untitled%2095.png)
 
-**Now it is time to add the interesting network (private subnet of both sides)**
+**දැන් අපි දෙපාර්ශවයේම private subnet එක (interesting network) add කරන අවස්ථාවට පැමිණෙමු.**
 
 ![Untitled](fortigate-guide-images/Untitled%2096.png)
 
-**Configure the Tunnel both the sides:(once both side tunnel configured and both the phase negotiation complete tunnel come up or you need to manually bring up the tunnel)**
+**Tunnel configuration දෙපාර්ශවයේම complete කළ පසු Phase negotiation (Phase 1 සහ Phase 2) successfully complete වීමෙන් VPN tunnel එක automatically come up වේ.
+එසේ නොවුවහොත්, tunnel එක manually bring up කිරීම අවශ්‍ය වේ.**
 
 ![Untitled](fortigate-guide-images/Untitled%2097.png)
 
-**once you passed the traffic between two peers the tunnel comes up:**
+**Peers දෙක අතර traffic pass කළ පසු VPN tunnel එක automatically establish (come up) වේ.**
 
 ![Untitled](fortigate-guide-images/Untitled%2098.png)
 
-**Automatically Policy added: to allowing traffic from two different sites.**
+**Different sites දෙක අතර traffic allow කිරීම සඳහා policy එක automatically add වේ.**
 
 ![Untitled](fortigate-guide-images/Untitled%2099.png)
 
-**Static Routes between two Tunnel:**
+**Tunnel දෙක අතර communication enable කිරීම සඳහා static routes configure කළ යුතුය:**
 
 ![Untitled](fortigate-guide-images/Untitled%20100.png)
 
-**To Monitoring the VPN Tunnel traffic and User actions:**
+**VPN tunnel traffic සහ user actions monitor කිරීමට පහත tools භාවිතා කළ හැක:**
 
 ![Untitled](fortigate-guide-images/Untitled%20101.png)
 
 ## **Summary:**
 
-- Covers the architecture of IPsec, detailing its components and protocols for securing internet communications.
-- Explains IKE Phase 1 & 2, which are crucial for establishing and managing secure VPN connections between peers.
-- Provides a step-by-step guide on configuring IPsec VPN between FortiGate firewalls, ensuring secure communication channels between networks or devices.
+* IPsec architecture එක cover කරන අතර, internet communications secure කිරීම සඳහා එහි components සහ protocols විස්තර කරයි.
+* IKE Phase 1 සහ Phase 2 explain කරයි, peers අතර secure VPN connections establish සහ manage කිරීම සඳහා ඒවා අත්‍යවශ්‍ය වේ.
+* FortiGate firewalls අතර IPsec VPN configure කිරීම සඳහා step-by-step guide එකක් ලබා දෙන අතර secure communication channels ensure කරයි.
 
-This module equips administrators with essential knowledge and practical skills for setting up IPsec VPNs using FortiGate firewalls, enhancing network security, and enabling secure communication over the internet.
+මෙම module එක administrators ලට IPsec VPNs set up කිරීම සඳහා අවශ්‍ය essential knowledge සහ practical skills ලබා දී, network security enhance කිරීම සහ internet හරහා secure communication enable කිරීම සඳහා උපකාරී වේ.
 
 <br>
 
@@ -2123,17 +2779,75 @@ This module equips administrators with essential knowledge and practical skills 
 
 ---
 
-# Congratulations 🎁🎁✨ Now You Guys Have the Knowledge of:
+# 🎉 Congratulations 🎉✨
 
-- **Module 1: Introduction to FortiGate Firewall**: Provided an overview of FortiGate firewall features, platform design, CLI access, management GUI access, and administration profiles.
-- **Module 2: Interface Configurations & Firewall Policies**: Covered basic interface configurations, routing configurations, DHCP setup, firewall policies, and Network Address Translation (NAT).
-- **Module 3: High Availability**: Explored high availability concepts including active-standby and active-active failover setups.
-- **Module 4: Firewall Authentication**: Discussed user and policy creation, authentication policies, and user monitoring, including captive portal setups.
-- **Module 5: Security Profiles**: Detailed security profiles such as application control, web filtering, antivirus, intrusion prevention, and SSL/SSH inspection to enforce security policies.
-- **Module 6: Logging and Monitoring**: Covered log severity levels, log types, log structures, configuring log settings, and redirecting logs to external systems like Syslog and SNMP.
-- **Module 7: Basic IPSEC VPN**: Provided an understanding of IPsec architecture, IKE Phase 1 & 2, and practical guidance on configuring IPsec VPNs between FortiGate firewalls.
+**ඔබ දැන් සම්පූර්ණ FortiGate Firewall knowledge ලබාගෙන ඇත:**
 
-By completing these modules, you've gained a comprehensive understanding of FortiGate firewall functionalities, security features, high availability configurations, authentication mechanisms, logging and monitoring practices, and VPN setups. You're now well-equipped to manage and secure network environments effectively using FortiGate firewall solutions. Great job!
+---
+
+## **📘 Module 1: Introduction to FortiGate Firewall**
+
+FortiGate firewall එකේ features, platform design, CLI access, GUI management සහ administration profiles පිළිබඳව හැඳින්වීම.
+
+---
+
+## **📘 Module 2: Interface Configurations & Firewall Policies**
+
+Interfaces configure කිරීම, routing, DHCP setup, firewall policies සහ NAT (Network Address Translation) පිළිබඳ අවබෝධය.
+
+---
+
+## **📘 Module 3: High Availability (HA)**
+
+Active-standby සහ active-active HA setups, failover mechanisms සහ redundancy concepts පිළිබඳව ඉගෙනීම.
+
+---
+
+## **📘 Module 4: Firewall Authentication**
+
+Users create කිරීම, authentication policies, captive portal configuration සහ user monitoring techniques.
+
+---
+
+## **📘 Module 5: Security Profiles**
+
+Application Control, Web Filtering, Antivirus, IPS, DNS Filter, File Filter සහ SSL/SSH inspection වැනි advanced security features.
+
+---
+
+## **📘 Module 6: Logging and Monitoring**
+
+Log severity levels, log types, log structure, log configuration, Syslog සහ SNMP integration සහ monitoring techniques.
+
+---
+
+## **📘 Module 7: Basic IPsec VPN**
+
+IPsec architecture, IKE Phase 1 & Phase 2 සහ FortiGate VPN tunnel configuration step-by-step.
+
+---
+
+## **🚀 Final Result (සම්පූර්ණය)**
+
+මෙම modules සියල්ල complete කිරීමෙන් ඔබට:
+
+* Firewall administration
+* Network security enforcement
+* VPN configuration (IPsec)
+* Logging & monitoring
+* Threat protection (security profiles)
+* High availability setup
+
+වැනි **real-world FortiGate skills** ලබා ඇත.
+
+---
+
+## 💪🔥 Final Message
+
+ඔබ දැන් **entry-level to intermediate FortiGate administrator** level එකට ready!
+
+**Great job! Keep learning and go even deeper into network security! 🚀✨**
+
 
 <br>
 
